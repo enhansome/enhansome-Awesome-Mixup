@@ -1146,7 +1146,7 @@
             "last_commit": "2024-02-28T18:53:41Z",
             "owner": "kaiwenzha",
             "repo": "Rank-N-Contrast",
-            "stars": 138
+            "stars": 139
           }
         },
         {
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:05:30.227Z",
+    "last_updated": "2026-08-13T20:24:54.219Z",
     "original_repository": "Westlake-AI/Awesome-Mixup",
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",
     "enhanced_repository": "enhansome/enhansome-Awesome-Mixup",
