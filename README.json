@@ -1899,7 +1899,7 @@
             "last_commit": "2026-01-01T02:35:14Z",
             "owner": "MAGICS-LAB",
             "repo": "DNABERT_S",
-            "stars": 130
+            "stars": 131
           }
         },
         {
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:17:12.309Z",
+    "last_updated": "2026-08-15T20:00:40.902Z",
     "original_repository": "Westlake-AI/Awesome-Mixup",
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",
     "enhanced_repository": "enhansome/enhansome-Awesome-Mixup",

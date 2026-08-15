@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,531 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,540 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1855,7 +1855,7 @@ class="center">
 * **DNABERT-S: Learning Species-Aware DNA Embedding with Genome Foundation Models**<br>
   *Zhihan Zhou, Weimin Wu, Harrison Ho, Jiayi Wang, Lizhen Shi, Ramana V Davuluri, Zhong Wang, Han Liu*<br>
   arXiv'2024 \[[Paper](https://ieeexplore.ieee.org/document/9156551)]
-  \[[Code](https://github.com/MAGICS-LAB/DNABERT_S) ⭐ 130 | 🐛 5 | 🌐 Python | 📅 2026-01-01]
+  \[[Code](https://github.com/MAGICS-LAB/DNABERT_S) ⭐ 131 | 🐛 5 | 🌐 Python | 📅 2026-01-01]
 
 * **Inter-Instance Similarity Modeling for Contrastive Learning**<br>
   *Chengchao Shen, Dawei Liu, Hao Tang, Zhe Qu, Jianxin Wang*<br>
@@ -2185,8 +2185,8 @@ class="center">
 |    Kinetics400    |      Video      |     400    |        Action Recognition        |      260,000      |                                        [Kinetics400](https://deepmind.google/)                                        |
 |      Airfoil      |     Tabular     |      -     |            Regression            |       1,503       |                         [Airfoil](https://archive.ics.uci.edu/dataset/291/airfoil+self+noise)                         |
 |        NO2        |     Tabular     |      -     |            Regression            |        500        |                    [NO2](https://drive.google.com/drive/folders/1pTRT7fA-hq6p1F7ZX5oJ0tg_I1RRG6OW)                    |
-|   Exchange-Rate   |    Timeseries   |      -     |            Regression            |       7,409       |       [Exchange-Rate](https://github.com/laiguokun/multivariate-time-series-data) ⭐ 894 \| 🐛 6 \| 📅 2017-04-09      |
-|    Electricity    |    Timeseries   |      -     |            Regression            |       26,113      |        [Electricity](https://github.com/laiguokun/multivariate-time-series-data) ⭐ 894 \| 🐛 6 \| 📅 2017-04-09       |
+|   Exchange-Rate   |    Timeseries   |      -     |            Regression            |       7,409       |       [Exchange-Rate](https://github.com/laiguokun/multivariate-time-series-data) ⭐ 895 \| 🐛 6 \| 📅 2017-04-09      |
+|    Electricity    |    Timeseries   |      -     |            Regression            |       26,113      |        [Electricity](https://github.com/laiguokun/multivariate-time-series-data) ⭐ 895 \| 🐛 6 \| 📅 2017-04-09       |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,319 | 🐛 1 | 📅 2026-07-27 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,326 | 🐛 1 | 📅 2026-07-27 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
