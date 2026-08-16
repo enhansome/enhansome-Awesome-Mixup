@@ -1132,7 +1132,7 @@
             "last_commit": "2026-08-10T13:44:43Z",
             "owner": "torch-uncertainty",
             "repo": "torch-uncertainty",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:00:40.902Z",
+    "last_updated": "2026-08-16T19:59:55.895Z",
     "original_repository": "Westlake-AI/Awesome-Mixup",
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",
     "enhanced_repository": "enhansome/enhansome-Awesome-Mixup",

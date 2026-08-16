@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,540 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,548 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1297,7 +1297,7 @@ class="center">
 * **Tailoring Mixup to Data using Kernel Warping functions**<br>
   *Quentin Bouniot, Pavlo Mozharovskyi, Florence d'Alché-Buc*<br>
   arXiv'2023 \[[Paper](https://arxiv.org/abs/2311.01434)]
-  \[[Code](https://github.com/ENSTA-U2IS/torch-uncertainty) ⭐ 527 | 🐛 25 | 🌐 Python | 📅 2026-08-10]
+  \[[Code](https://github.com/ENSTA-U2IS/torch-uncertainty) ⭐ 528 | 🐛 25 | 🌐 Python | 📅 2026-08-10]
    <details close>
    <summary>Warped Mixup Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/061f5f2b-ff56-415b-9f58-68e895fdad3f" /></p>
@@ -2169,7 +2169,7 @@ class="center">
 |     CoNLL2003     |       Text      |      4     |          Classification          |       2,302       |                                   [CoNLL2003](https://data.deepai.org/conll2003.zip)                                  |
 |   20 Newsgroups   |       Text      |     20     |           OOD Detection          |       20,000      |                                 [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)                                |
 |        WOS        |       Text      |     134    |           OOD Detection          |       46,985      |                                      [WOS](http://archive.ics.uci.edu/index.php)                                      |
-|       SST-2       |       Text      |      2     |      Sentiment Understanding     |       68,800      |  [SST-2](https://github.com/YJiangcm/SST-2-sentiment-analysis) ⭐ 111 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2020-12-09  |
+|       SST-2       |       Text      |      2     |      Sentiment Understanding     |       68,800      |  [SST-2](https://github.com/YJiangcm/SST-2-sentiment-analysis) ⭐ 112 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2020-12-09  |
 |        Cora       |      Graph      |      7     |        Node Classification       |       2,708       |               [Cora](https://github.com/phanein/deepwalk) ⭐ 2,760 \| 🐛 46 \| 🌐 Python \| 📅 2023-06-14              |
 |      Citeseer     |      Graph      |      6     |        Node Classification       |       3,312       |                                       [Citeseer](https://csxstatic.ist.psu.edu/)                                      |
 |       PubMed      |      Graph      |      3     |        Node Classification       |       19,717      |                                       [PubMed](https://pubmed.ncbi.nlm.nih.gov)                                       |
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,326 | 🐛 1 | 📅 2026-07-27 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,331 | 🐛 1 | 📅 2026-07-27 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
