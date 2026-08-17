@@ -242,7 +242,7 @@ class="center">
 * **CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features**<br>
   *Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo*<br>
   ICCV'2019 \[[Paper](https://arxiv.org/abs/1905.04899)]
-  \[[Code](https://github.com/clovaai/CutMix-PyTorch) ⭐ 1,250 | 🐛 6 | 🌐 Python | 📅 2020-09-16]
+  \[[Code](https://github.com/clovaai/CutMix-PyTorch) ⭐ 1,251 | 🐛 6 | 🌐 Python | 📅 2020-09-16]
    <details close>
    <summary>CutMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204564166-49707535-43f9-4d15-af89-d1a5a302db24.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,548 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,567 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1223,7 +1223,7 @@ class="center">
 * **LaserMix for Semi-Supervised LiDAR Semantic Segmentation**<br>
   *Lingdong Kong, Jiawei Ren, Liang Pan, Ziwei Liu*<br>
   CVPR'2023 \[[Paper](https://arxiv.org/abs/2207.00026)]
-  \[[Code](https://github.com/ldkong1205/LaserMix) ⭐ 321 | 🐛 7 | 🌐 Python | 📅 2025-12-06] \[[project](https://ldkong.com/LaserMix)]
+  \[[Code](https://github.com/ldkong1205/LaserMix) ⭐ 322 | 🐛 7 | 🌐 Python | 📅 2025-12-06] \[[project](https://ldkong.com/LaserMix)]
    <details close>
    <summary>LaserMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/209255964-69cab84b-ae54-4e74-be4f-a23a836c665c.png" /></p>
@@ -1398,7 +1398,7 @@ class="center">
 * **LaserMix for Semi-Supervised LiDAR Semantic Segmentation**<br>
   *Lingdong Kong, Jiawei Ren, Liang Pan, Ziwei Liu*<br>
   CVPR'2023 \[[Paper](https://arxiv.org/abs/2207.00026)]
-  \[[Code](https://github.com/ldkong1205/LaserMix) ⭐ 321 | 🐛 7 | 🌐 Python | 📅 2025-12-06] \[[project](https://ldkong.com/LaserMix)]
+  \[[Code](https://github.com/ldkong1205/LaserMix) ⭐ 322 | 🐛 7 | 🌐 Python | 📅 2025-12-06] \[[project](https://ldkong.com/LaserMix)]
    <details close>
    <summary>LaserMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/209255964-69cab84b-ae54-4e74-be4f-a23a836c665c.png" /></p>
@@ -2170,7 +2170,7 @@ class="center">
 |   20 Newsgroups   |       Text      |     20     |           OOD Detection          |       20,000      |                                 [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)                                |
 |        WOS        |       Text      |     134    |           OOD Detection          |       46,985      |                                      [WOS](http://archive.ics.uci.edu/index.php)                                      |
 |       SST-2       |       Text      |      2     |      Sentiment Understanding     |       68,800      |  [SST-2](https://github.com/YJiangcm/SST-2-sentiment-analysis) ⭐ 112 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2020-12-09  |
-|        Cora       |      Graph      |      7     |        Node Classification       |       2,708       |               [Cora](https://github.com/phanein/deepwalk) ⭐ 2,760 \| 🐛 46 \| 🌐 Python \| 📅 2023-06-14              |
+|        Cora       |      Graph      |      7     |        Node Classification       |       2,708       |               [Cora](https://github.com/phanein/deepwalk) ⭐ 2,759 \| 🐛 46 \| 🌐 Python \| 📅 2023-06-14              |
 |      Citeseer     |      Graph      |      6     |        Node Classification       |       3,312       |                                       [Citeseer](https://csxstatic.ist.psu.edu/)                                      |
 |       PubMed      |      Graph      |      3     |        Node Classification       |       19,717      |                                       [PubMed](https://pubmed.ncbi.nlm.nih.gov)                                       |
 |    BlogCatalog    |      Graph      |     39     |        Node Classification       |       10,312      |            [BlogCatalog](https://figshare.com/articles/dataset/BlogCatalog_dataset/11923611?file=22349970)            |
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,331 | 🐛 1 | 📅 2026-07-27 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,330 | 🐛 1 | 📅 2026-07-27 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

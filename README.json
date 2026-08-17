@@ -153,7 +153,7 @@
             "last_commit": "2020-09-16T03:47:45Z",
             "owner": "clovaai",
             "repo": "CutMix-PyTorch",
-            "stars": 1250
+            "stars": 1251
           }
         },
         {
@@ -1194,7 +1194,7 @@
             "last_commit": "2025-12-06T11:15:12Z",
             "owner": "worldbench",
             "repo": "LaserMix",
-            "stars": 321
+            "stars": 322
           }
         },
         {
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:59:55.895Z",
+    "last_updated": "2026-08-17T20:09:57.837Z",
     "original_repository": "Westlake-AI/Awesome-Mixup",
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",
     "enhanced_repository": "enhansome/enhansome-Awesome-Mixup",
