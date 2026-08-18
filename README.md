@@ -511,7 +511,7 @@ class="center">
 * **Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity**<br>
   *Jang-Hyun Kim, Wonho Choo, Hosan Jeong, Hyun Oh Song*<br>
   ICLR'2021 \[[Paper](https://arxiv.org/abs/2102.03065)]
-  \[[Code](https://github.com/snu-mllab/Co-Mixup) ⭐ 107 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-12-02]
+  \[[Code](https://github.com/snu-mllab/Co-Mixup) ⭐ 108 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-12-02]
    <details close>
    <summary>Co-Mixup Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204573653-68ce31e8-fa01-4cf8-9493-c2311fd99e13.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,567 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,576 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1667,7 +1667,7 @@ class="center">
 * **Frequency-Enhanced Data Augmentation for Vision-and-Language Navigation**<br>
   *Keji He, Chenyang Si, Zhihe Lu, Yan Huang, Liang Wang, Xinchao Wang*<br>
   NIPS'2023 \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/0d9e08f247ca7fbbfd5e50b7ff9cf357-Paper-Conference.pdf)]
-  \[[Code](https://github.com/hekj/FDA) ⭐ 14 | 🐛 3 | 🌐 Python | 📅 2024-01-08]
+  \[[Code](https://github.com/hekj/FDA) ⭐ 15 | 🐛 3 | 🌐 Python | 📅 2024-01-08]
 
 * **VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix**<br>
   *Teng Wang, Wenhao Jiang, Zhichao Lu, Feng Zheng, Ran Cheng, Chengguo Yin, Ping Luo*<br>
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,809 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,810 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2146,9 +2146,9 @@ class="center">
 |      Food-101     |      Image      |     101    |          Classification          |      101,000      |                        [Food-101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)                        |
 |       SUN397      |      Image      |     899    |          Classification          |      130,519      |                               [SUN397](https://vision.princeton.edu/projects/2010/SUN//)                              |
 |    iNaturalist    |      Image      |    5,089   |          Classification          |      675,170      |   [iNaturalist](https://github.com/visipedia/inat_comp/tree/master/2017) ⭐ 813 \| 🐛 5 \| 🌐 Python \| 📅 2021-05-26  |
-|      CIFAR-C      |      Image      |   10,100   |     Corruption Classification    |       60,000      |           [CIFAR-C](https://github.com/hendrycks/robustness/) ⭐ 1,173 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24          |
-|      CIFAR-LT     |      Image      |   10,100   |     Long-tail Classification     |       60,000      |          [CIFAR-LT](https://github.com/hendrycks/robustness/) ⭐ 1,173 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24          |
-|   ImageNet-1K-C   |      Image      |    1,000   |     Corruption Classification    |     1,431,167     |        [ImageNet-1K-C](https://github.com/hendrycks/robustness/) ⭐ 1,173 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24       |
+|      CIFAR-C      |      Image      |   10,100   |     Corruption Classification    |       60,000      |           [CIFAR-C](https://github.com/hendrycks/robustness/) ⭐ 1,172 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24          |
+|      CIFAR-LT     |      Image      |   10,100   |     Long-tail Classification     |       60,000      |          [CIFAR-LT](https://github.com/hendrycks/robustness/) ⭐ 1,172 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24          |
+|   ImageNet-1K-C   |      Image      |    1,000   |     Corruption Classification    |     1,431,167     |        [ImageNet-1K-C](https://github.com/hendrycks/robustness/) ⭐ 1,172 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24       |
 |     ImageNet-A    |      Image      |     200    |          Classification          |       7,500       |      [ImageNet-A](https://github.com/hendrycks/natural-adv-examples) ⭐ 621 \| 🐛 7 \| 🌐 Python \| 📅 2024-03-23      |
 |   Pascal VOC 102  |      Image      |     20     |         Object Detection         |       33,043      |                               [Pascal VOC 102](http://host.robots.ox.ac.uk/pascal/VOC/)                               |
 | MS-COCO Detection |      Image      |     91     |         Object Detection         |      164,062      |                              [MS-COCO Detection](https://cocodataset.org/detection-eval)                              |
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,330 | 🐛 1 | 📅 2026-07-27 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,331 | 🐛 1 | 📅 2026-07-27 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

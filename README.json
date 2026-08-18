@@ -403,7 +403,7 @@
             "last_commit": "2021-12-02T09:58:45Z",
             "owner": "snu-mllab",
             "repo": "Co-Mixup",
-            "stars": 107
+            "stars": 108
           }
         },
         {
@@ -1562,7 +1562,7 @@
             "last_commit": "2024-01-08T10:10:38Z",
             "owner": "hekj",
             "repo": "FDA",
-            "stars": 14
+            "stars": 15
           }
         }
       ],
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:09:57.837Z",
+    "last_updated": "2026-08-18T20:01:54.466Z",
     "original_repository": "Westlake-AI/Awesome-Mixup",
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",
     "enhanced_repository": "enhansome/enhansome-Awesome-Mixup",
