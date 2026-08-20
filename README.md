@@ -712,7 +712,7 @@ class="center">
 * **Combining Ensembles and Data Augmentation can Harm your Calibration**<br>
   *Yeming Wen, Ghassen Jerfel, Rafael Muller, Michael W. Dusenberry, Jasper Snoek, Balaji Lakshminarayanan, Dustin Tran*<br>
   ICLR'2021 \[[Paper](https://arxiv.org/abs/2010.09875)]
-  \[[Code](https://github.com/google/edward2/tree/main/experimental/marginalization_mixup) ⭐ 712 | 🐛 77 | 🌐 Jupyter Notebook | 📅 2026-07-02]
+  \[[Code](https://github.com/google/edward2/tree/main/experimental/marginalization_mixup) ⭐ 712 | 🐛 78 | 🌐 Jupyter Notebook | 📅 2026-07-02]
    <details close>
    <summary>CAMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204577092-06b2c74a-47cc-44f5-8423-9f37b1d0cbdc.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,580 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,589 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-19]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1297,7 +1297,7 @@ class="center">
 * **Tailoring Mixup to Data using Kernel Warping functions**<br>
   *Quentin Bouniot, Pavlo Mozharovskyi, Florence d'Alché-Buc*<br>
   arXiv'2023 \[[Paper](https://arxiv.org/abs/2311.01434)]
-  \[[Code](https://github.com/ENSTA-U2IS/torch-uncertainty) ⭐ 528 | 🐛 25 | 🌐 Python | 📅 2026-08-10]
+  \[[Code](https://github.com/ENSTA-U2IS/torch-uncertainty) ⭐ 527 | 🐛 25 | 🌐 Python | 📅 2026-08-10]
    <details close>
    <summary>Warped Mixup Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/061f5f2b-ff56-415b-9f58-68e895fdad3f" /></p>
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,809 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,808 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2163,7 +2163,7 @@ class="center">
 |        BACH       |  Medical Image  |      4     |          Classification          |        400        |                                [BACH](https://iciar2018-challenge.grand-challenge.org/)                               |
 |    CAME-Lyon16    |  Medical Image  |      2     |         Anomaly Detection        |        360        |                                 [CAME-Lyon16](https://camelyon16.grand-challenge.org/)                                |
 |    Chest X-Ray    |  Medical Image  |      2     |         Anomaly Detection        |       5,856       |                             [Chest X-Ray](https://data.mendeley.com/datasets/rscbjbr9sj/2)                            |
-|        BCCD       |  Medical Image  |    4,888   |         Object Detection         |        364        |              [BCCD](https://github.com/Shenggan/BCCD_Dataset) ⭐ 453 \| 🐛 4 \| 🌐 Python \| 📅 2021-09-16             |
+|        BCCD       |  Medical Image  |    4,888   |         Object Detection         |        364        |              [BCCD](https://github.com/Shenggan/BCCD_Dataset) ⭐ 452 \| 🐛 4 \| 🌐 Python \| 📅 2021-09-16             |
 |       TJU600      | Palm-Vein Image |     600    |          Classification          |       12,000      |                                [TJU600](https://cslinzhang.github.io/ContactlessPalm/)                                |
 |      VERA220      | Palm-Vein Image |     220    |          Classification          |       2,200       |                       [VERA220](https://www.idiap.ch/en/scientific-research/data/vera-palmvein)                       |
 |     CoNLL2003     |       Text      |      4     |          Classification          |       2,302       |                                   [CoNLL2003](https://data.deepai.org/conll2003.zip)                                  |
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,336 | 🐛 1 | 📅 2026-07-27 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,342 | 🐛 1 | 📅 2026-08-20 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

@@ -1182,10 +1182,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-16T18:45:46Z",
+                "last_commit": "2026-08-19T20:48:11Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38580
+                "stars": 38589
               }
             },
             {
@@ -1288,7 +1288,7 @@
                 "last_commit": "2026-08-10T13:44:43Z",
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 528
+                "stars": 527
               }
             },
             {
@@ -2430,7 +2430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:09:25.407Z",
+    "last_updated": "2026-08-20T20:12:33.921Z",
     "original_repository": "Westlake-AI/Awesome-Mixup",
     "original_repository_id": 539144756,
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",
