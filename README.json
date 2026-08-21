@@ -1182,10 +1182,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T20:48:11Z",
+                "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38589
+                "stars": 38593
               }
             },
             {
@@ -1288,7 +1288,7 @@
                 "last_commit": "2026-08-10T13:44:43Z",
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 527
+                "stars": 526
               }
             },
             {
@@ -1452,7 +1452,7 @@
                 "last_commit": "2024-07-10T07:43:56Z",
                 "owner": "Atten4Vis",
                 "repo": "MS-DETR",
-                "stars": 129
+                "stars": 128
               }
             },
             {
@@ -2090,7 +2090,7 @@
                 "last_commit": "2024-07-25T10:58:37Z",
                 "owner": "clovaai",
                 "repo": "cutblur",
-                "stars": 390
+                "stars": 389
               }
             },
             {
@@ -2430,7 +2430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:12:33.921Z",
+    "last_updated": "2026-08-21T20:02:38.926Z",
     "original_repository": "Westlake-AI/Awesome-Mixup",
     "original_repository_id": 539144756,
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",

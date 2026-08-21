@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,589 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-19]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,593 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1297,7 +1297,7 @@ class="center">
 * **Tailoring Mixup to Data using Kernel Warping functions**<br>
   *Quentin Bouniot, Pavlo Mozharovskyi, Florence d'Alché-Buc*<br>
   arXiv'2023 \[[Paper](https://arxiv.org/abs/2311.01434)]
-  \[[Code](https://github.com/ENSTA-U2IS/torch-uncertainty) ⭐ 527 | 🐛 25 | 🌐 Python | 📅 2026-08-10]
+  \[[Code](https://github.com/ENSTA-U2IS/torch-uncertainty) ⭐ 526 | 🐛 25 | 🌐 Python | 📅 2026-08-10]
    <details close>
    <summary>Warped Mixup Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/061f5f2b-ff56-415b-9f58-68e895fdad3f" /></p>
@@ -1485,7 +1485,7 @@ class="center">
 * **MS-DETR: Efficient DETR Training with Mixed Supervision**<br>
   *Chuyang Zhao, Yifan Sun, Wenhao Wang, Qiang Chen, Errui Ding, Yi Yang, Jingdong Wang*<br>
   arXiv'2024 \[[Paper](https://arxiv.org/abs/2401.03989)]
-  \[[Code](https://github.com/Atten4Vis/MS-DETR) ⭐ 129 | 🐛 18 | 🌐 Python | 📅 2024-07-10]
+  \[[Code](https://github.com/Atten4Vis/MS-DETR) ⭐ 128 | 🐛 18 | 🌐 Python | 📅 2024-07-10]
    <details close>
    <summary>MS-DETR Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/5efea70c-d4f6-4ff8-819b-f68b99fa3c08" /></p>
@@ -1850,7 +1850,7 @@ class="center">
 * **Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy**<br>
   *Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn*<br>
   CVPR'2020 & IJCV'2024 \[[Paper](https://arxiv.org/abs/2110.06976)]
-  \[[Code](https://github.com/clovaai/cutblur) ⭐ 390 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-07-25]
+  \[[Code](https://github.com/clovaai/cutblur) ⭐ 389 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-07-25]
 
 * **DNABERT-S: Learning Species-Aware DNA Embedding with Genome Foundation Models**<br>
   *Zhihan Zhou, Weimin Wu, Harrison Ho, Jiayi Wang, Lizhen Shi, Ramana V Davuluri, Zhong Wang, Han Liu*<br>
@@ -2145,7 +2145,7 @@ class="center">
 |        SOP        |      Image      |   22,634   |          Classification          |      120,053      |                                [SOP](https://cvgl.stanford.edu/projects/lifted_struct/)                               |
 |      Food-101     |      Image      |     101    |          Classification          |      101,000      |                        [Food-101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)                        |
 |       SUN397      |      Image      |     899    |          Classification          |      130,519      |                               [SUN397](https://vision.princeton.edu/projects/2010/SUN//)                              |
-|    iNaturalist    |      Image      |    5,089   |          Classification          |      675,170      |   [iNaturalist](https://github.com/visipedia/inat_comp/tree/master/2017) ⭐ 813 \| 🐛 5 \| 🌐 Python \| 📅 2021-05-26  |
+|    iNaturalist    |      Image      |    5,089   |          Classification          |      675,170      |   [iNaturalist](https://github.com/visipedia/inat_comp/tree/master/2017) ⭐ 809 \| 🐛 5 \| 🌐 Python \| 📅 2021-05-26  |
 |      CIFAR-C      |      Image      |   10,100   |     Corruption Classification    |       60,000      |           [CIFAR-C](https://github.com/hendrycks/robustness/) ⭐ 1,171 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24          |
 |      CIFAR-LT     |      Image      |   10,100   |     Long-tail Classification     |       60,000      |          [CIFAR-LT](https://github.com/hendrycks/robustness/) ⭐ 1,171 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24          |
 |   ImageNet-1K-C   |      Image      |    1,000   |     Corruption Classification    |     1,431,167     |        [ImageNet-1K-C](https://github.com/hendrycks/robustness/) ⭐ 1,171 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24       |
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,342 | 🐛 1 | 📅 2026-08-20 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,355 | 🐛 1 | 📅 2026-08-20 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
