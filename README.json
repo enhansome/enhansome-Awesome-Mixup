@@ -1185,7 +1185,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38593
+                "stars": 38597
               }
             },
             {
@@ -2430,7 +2430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T20:02:38.926Z",
+    "last_updated": "2026-08-22T20:00:53.123Z",
     "original_repository": "Westlake-AI/Awesome-Mixup",
     "original_repository_id": 539144756,
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",

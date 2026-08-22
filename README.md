@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,593 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,597 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,355 | 🐛 1 | 📅 2026-08-20 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,356 | 🐛 1 | 📅 2026-08-20 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
