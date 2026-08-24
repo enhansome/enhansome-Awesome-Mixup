@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "You can see the figuer of mixup augmentation methods deirtly that we summarized.",
+      "description": null,
       "items": [
         {
           "children": [
@@ -280,6 +280,28 @@
               "description": null,
               "node_type": "group",
               "title": "Cutting-based"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Observations on K-image Expansion of Image-Mixing Augmentation for Classification Joonhyun Jeong, Sungmin Cha, Youngjoon Yoo, Sangdoo Yun, Taesup Moon, Jongwon Choi IEEE Access'2021 [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 597702071,
+                    "language": null,
+                    "last_commit": "2023-04-25T07:37:38Z",
+                    "owner": "yjyoo3312",
+                    "repo": "DCutMix-PyTorch",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "K Samples Mixup"
             },
             {
               "children": [
@@ -601,7 +623,7 @@
                     "last_commit": "2026-01-13T03:42:38Z",
                     "owner": "khawar-islam",
                     "repo": "diffuseMix",
-                    "stars": 136
+                    "stars": 137
                   }
                 },
                 {
@@ -895,9 +917,31 @@
           "description": null,
           "node_type": "group",
           "title": "Attention Score"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data Shaoli Huang, Xinchao Wang, Dacheng Tao AAAI'2021 [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 319199536,
+                "language": "Python",
+                "last_commit": "2020-12-26T05:12:44Z",
+                "owner": "Shaoli-Huang",
+                "repo": "SnapMix",
+                "stars": 129
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Saliency Token"
         }
       ],
-      "title": "Figuer of Contents"
+      "title": "Table of Contents"
     },
     {
       "description": null,
@@ -1185,7 +1229,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38606
+                "stars": 38611
               }
             },
             {
@@ -1340,6 +1384,28 @@
           "description": null,
           "node_type": "group",
           "title": "Regression"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective Zhengzhuo Xu, Zenghao Chai, Chun Yuan NIPS'2021 [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 428977271,
+                "language": "Python",
+                "last_commit": "2023-03-07T16:03:57Z",
+                "owner": "XuZhengzhuo",
+                "repo": "Prior-LT",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Long tail distribution"
         },
         {
           "children": [
@@ -2105,7 +2171,7 @@
                 "last_commit": "2026-01-01T02:35:14Z",
                 "owner": "MAGICS-LAB",
                 "repo": "DNABERT_S",
-                "stars": 132
+                "stars": 133
               }
             },
             {
@@ -2337,6 +2403,234 @@
       "items": [
         {
           "node_type": "item",
+          "title": "A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability Chengtai Cao, Fan Zhou, Yurou Dai, Jianping Wang arXiv'2022 [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 485038764,
+            "language": null,
+            "last_commit": "2022-12-23T09:58:32Z",
+            "owner": "ChengtaiCao",
+            "repo": "Awesome-Mix",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "Survey"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenMixup: A Comprehensive Mixup Benchmark for Visual Classification Siyuan Li, Zedong Wang, Zicheng Liu, Di Wu, Cheng Tan, Weiyang Jin, Stan Z. Li arXiv'2024 [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 443031097,
+            "language": "Python",
+            "last_commit": "2025-10-15T10:20:58Z",
+            "owner": "Westlake-AI",
+            "repo": "openmixup",
+            "stars": 658
+          }
+        }
+      ],
+      "title": "Benchmark"
+    },
+    {
+      "description": "Summary of datasets for mixup methods tasks. Link to dataset websites is provided.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fashion-MNIST",
+          "description": "Image 10 Classification 70,000 Fashion-MINIST",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101399935,
+            "language": "Python",
+            "last_commit": "2022-06-13T20:36:21Z",
+            "owner": "zalandoresearch",
+            "repo": "fashion-mnist",
+            "stars": 12807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iNaturalist",
+          "description": "Image 5,089 Classification 675,170 iNaturalist",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85874492,
+            "language": "Python",
+            "last_commit": "2021-05-26T22:00:50Z",
+            "owner": "visipedia",
+            "repo": "inat_comp",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CIFAR-C",
+          "description": "Image 10,100 Corruption Classification 60,000 CIFAR-C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128312370,
+            "language": "Python",
+            "last_commit": "2022-08-24T14:27:43Z",
+            "owner": "hendrycks",
+            "repo": "robustness",
+            "stars": 1171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CIFAR-LT",
+          "description": "Image 10,100 Long-tail Classification 60,000 CIFAR-LT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128312370,
+            "language": "Python",
+            "last_commit": "2022-08-24T14:27:43Z",
+            "owner": "hendrycks",
+            "repo": "robustness",
+            "stars": 1171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageNet-1K-C",
+          "description": "Image 1,000 Corruption Classification 1,431,167 ImageNet-1K-C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128312370,
+            "language": "Python",
+            "last_commit": "2022-08-24T14:27:43Z",
+            "owner": "hendrycks",
+            "repo": "robustness",
+            "stars": 1171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageNet-A",
+          "description": "Image 200 Classification 7,500 ImageNet-A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191111394,
+            "language": "Python",
+            "last_commit": "2024-03-23T14:43:00Z",
+            "owner": "hendrycks",
+            "repo": "natural-adv-examples",
+            "stars": 621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSprites",
+          "description": "Image 737,280*6 Disentanglement 737,280 DSprites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90755551,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-03T18:24:42Z",
+            "owner": "google-deepmind",
+            "repo": "dsprites-dataset",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BCCD",
+          "description": "Medical Image 4,888 Object Detection 364 BCCD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 113445118,
+            "language": "Python",
+            "last_commit": "2021-09-16T17:47:24Z",
+            "owner": "Shenggan",
+            "repo": "BCCD_Dataset",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SST-2",
+          "description": "Text 2 Sentiment Understanding 68,800 SST-2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313551401,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-12-09T19:40:00Z",
+            "owner": "YJiangcm",
+            "repo": "SST-2-sentiment-analysis",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cora",
+          "description": "Graph 7 Node Classification 2,708 Cora",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23246978,
+            "language": "Python",
+            "last_commit": "2023-06-14T23:22:41Z",
+            "owner": "phanein",
+            "repo": "deepwalk",
+            "stars": 2759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exchange-Rate",
+          "description": "Timeseries - Regression 7,409 Exchange-Rate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82130264,
+            "language": null,
+            "last_commit": "2017-04-09T18:19:32Z",
+            "owner": "laiguokun",
+            "repo": "multivariate-time-series-data",
+            "stars": 895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Electricity",
+          "description": "Timeseries - Regression 26,113 Electricity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82130264,
+            "language": null,
+            "last_commit": "2017-04-09T18:19:32Z",
+            "owner": "laiguokun",
+            "repo": "multivariate-time-series-data",
+            "stars": 895
+          }
+        }
+      ],
+      "title": "Related Datasets Link"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "data-augmentation-review",
           "description": "List of useful data augmentation resources.",
           "children": [],
@@ -2430,7 +2724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:00:48.279Z",
+    "last_updated": "2026-08-24T14:34:52.346Z",
     "original_repository": "Westlake-AI/Awesome-Mixup",
     "original_repository_id": 539144756,
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",

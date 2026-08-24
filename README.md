@@ -348,6 +348,15 @@ class="center">
 
 #### **K Samples Mixup**
 
+* **Observations on K-image Expansion of Image-Mixing Augmentation for Classification**<br>
+  *Joonhyun Jeong, Sungmin Cha, Youngjoon Yoo, Sangdoo Yun, Taesup Moon, Jongwon Choi*<br>
+  IEEE Access'2021 \[[Paper](https://arxiv.org/abs/2110.04248)]
+  \[[Code](https://github.com/yjyoo3312/DCutMix-PyTorch) ⭐ 0 | 🐛 1 | 📅 2023-04-25]
+   <details close>
+   <summary>DCutMix Framework</summary>
+   <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/230492924-e9008de1-913f-44f5-ac2e-3d21f07d1b7f.png" /></p>
+   </details>
+
 * **You Only Look Once: Unified, Real-Time Object Detection**<br>
   *Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi*<br>
   CVPR'2016 \[[Paper](https://arxiv.org/abs/1506.02640)]
@@ -371,15 +380,6 @@ class="center">
    <details close>
    <summary>k-Mixup Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204569488-d4862400-3304-488d-ad24-06eff4e0c0b2.png" /></p>
-   </details>
-
-* **Observations on K-image Expansion of Image-Mixing Augmentation for Classification**<br>
-  *Joonhyun Jeong, Sungmin Cha, Youngjoon Yoo, Sangdoo Yun, Taesup Moon, Jongwon Choi*<br>
-  IEEE Access'2021 \[[Paper](https://arxiv.org/abs/2110.04248)]
-  \[[Code](https://github.com/yjyoo3312/DCutMix-PyTorch) ⭐ 0 | 🐛 1 | 📅 2023-04-25]
-   <details close>
-   <summary>DCutMix Framework</summary>
-   <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/230492924-e9008de1-913f-44f5-ac2e-3d21f07d1b7f.png" /></p>
    </details>
 
 * **MixMo: Mixing Multiple Inputs for Multiple Outputs via Deep Subnetworks**<br>
@@ -659,7 +659,7 @@ class="center">
 * **DiffuseMix: Label-Preserving Data Augmentation with Diffusion Models**<br>
   *Khawar Islam, Muhammad Zaigham Zaheer, Arif Mahmood, Karthik Nandakumar*<br>
   CVPR'2024 \[[Paper](https://arxiv.org/abs/2405.14881)]
-  \[[Code](https://github.com/khawar-islam/diffuseMix) ⭐ 136 | 🐛 0 | 🌐 Python | 📅 2026-01-13]
+  \[[Code](https://github.com/khawar-islam/diffuseMix) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2026-01-13]
    <details close>
    <summary>DiffuseMix Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/8478e528-a96f-45af-81dc-a3469a6f84bd" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,606 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,611 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1358,14 +1358,6 @@ class="center">
 
 ### **Long tail distribution**
 
-* **Remix: Rebalanced Mixup**<br>
-  *Hsin-Ping Chou, Shih-Chieh Chang, Jia-Yu Pan, Wei Wei, Da-Cheng Juan*<br>
-  ECCVW'2020 \[[Paper](https://arxiv.org/abs/2007.03943)]
-   <details close>
-   <summary>Remix Framework</summary>
-   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/c776fc89-559f-4e7b-b43a-3e154f3b87c6" /></p>
-   </details>
-
 * **Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective**<br>
   *Zhengzhuo Xu, Zenghao Chai, Chun Yuan*<br>
   NIPS'2021 \[[Paper](https://arxiv.org/abs/2111.03874)]
@@ -1373,6 +1365,14 @@ class="center">
    <details close>
    <summary>UniMix Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/3d7819d1-c2b8-488f-8a6d-8583a66c7f00" /></p>
+   </details>
+
+* **Remix: Rebalanced Mixup**<br>
+  *Hsin-Ping Chou, Shih-Chieh Chang, Jia-Yu Pan, Wei Wei, Da-Cheng Juan*<br>
+  ECCVW'2020 \[[Paper](https://arxiv.org/abs/2007.03943)]
+   <details close>
+   <summary>Remix Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/c776fc89-559f-4e7b-b43a-3e154f3b87c6" /></p>
    </details>
 
 * **Label-Occurrence-Balanced Mixup for Long-tailed Recognition**<br>
@@ -1855,7 +1855,7 @@ class="center">
 * **DNABERT-S: Learning Species-Aware DNA Embedding with Genome Foundation Models**<br>
   *Zhihan Zhou, Weimin Wu, Harrison Ho, Jiayi Wang, Lizhen Shi, Ramana V Davuluri, Zhong Wang, Han Liu*<br>
   arXiv'2024 \[[Paper](https://ieeexplore.ieee.org/document/9156551)]
-  \[[Code](https://github.com/MAGICS-LAB/DNABERT_S) ⭐ 132 | 🐛 5 | 🌐 Python | 📅 2026-01-01]
+  \[[Code](https://github.com/MAGICS-LAB/DNABERT_S) ⭐ 133 | 🐛 5 | 🌐 Python | 📅 2026-01-01]
 
 * **Inter-Instance Similarity Modeling for Contrastive Learning**<br>
   *Chengchao Shen, Dawei Liu, Hao Tang, Zhe Qu, Jianxin Wang*<br>
@@ -2031,6 +2031,11 @@ class="center">
 
 ## Survey
 
+* **A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability**<br>
+  *Chengtai Cao, Fan Zhou, Yurou Dai, Jianping Wang*<br>
+  arXiv'2022 \[[Paper](https://arxiv.org/abs/2212.10888)]
+  \[[Code](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 73 | 🐛 1 | 📅 2022-12-23]
+
 * **A survey on Image Data Augmentation for Deep Learning**<br>
   *Connor Shorten and Taghi Khoshgoftaar*<br>
   Journal of Big Data'2019 \[[Paper](https://www.researchgate.net/publication/334279066_A_survey_on_Image_Data_Augmentation_for_Deep_Learning)]
@@ -2042,11 +2047,6 @@ class="center">
 * **Image Data Augmentation for Deep Learning: A Survey**<br>
   *Suorong Yang, Weikang Xiao, Mengcheng Zhang, Suhan Guo, Jian Zhao, Furao Shen*<br>
   arXiv'2022 \[[Paper](https://arxiv.org/abs/2204.08610)]
-
-* **A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability**<br>
-  *Chengtai Cao, Fan Zhou, Yurou Dai, Jianping Wang*<br>
-  arXiv'2022 \[[Paper](https://arxiv.org/abs/2212.10888)]
-  \[[Code](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 73 | 🐛 1 | 📅 2022-12-23]
 
 * **A Survey of Automated Data Augmentation for Image Classification: Learning to Compose, Mix, and Generate**<br>
   *Tsz-Him Cheung, Dit-Yan Yeung*<br>
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,809 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,807 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,362 | 🐛 1 | 📅 2026-08-20 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,364 | 🐛 1 | 📅 2026-08-20 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
