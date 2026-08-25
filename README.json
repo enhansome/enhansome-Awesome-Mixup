@@ -1226,10 +1226,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38618
               }
             },
             {
@@ -2724,7 +2724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:01.881Z",
+    "last_updated": "2026-08-25T20:11:25.754Z",
     "original_repository": "Westlake-AI/Awesome-Mixup",
     "original_repository_id": 539144756,
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",
