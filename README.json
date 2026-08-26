@@ -1226,10 +1226,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-26T22:27:42Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38618
+                "stars": 38625
               }
             },
             {
@@ -1332,7 +1332,7 @@
                 "last_commit": "2026-08-10T13:44:43Z",
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 526
+                "stars": 527
               }
             },
             {
@@ -1710,7 +1710,7 @@
                 "last_commit": "2021-04-08T18:15:28Z",
                 "owner": "YuanWu3",
                 "repo": "Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation",
-                "stars": 12
+                "stars": 13
               }
             },
             {
@@ -2455,7 +2455,7 @@
             "last_commit": "2022-06-13T20:36:21Z",
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12808
+            "stars": 12810
           }
         },
         {
@@ -2470,7 +2470,7 @@
             "last_commit": "2021-05-26T22:00:50Z",
             "owner": "visipedia",
             "repo": "inat_comp",
-            "stars": 809
+            "stars": 810
           }
         },
         {
@@ -2485,7 +2485,7 @@
             "last_commit": "2022-08-24T14:27:43Z",
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1171
+            "stars": 1172
           }
         },
         {
@@ -2500,7 +2500,7 @@
             "last_commit": "2022-08-24T14:27:43Z",
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1171
+            "stars": 1172
           }
         },
         {
@@ -2515,7 +2515,7 @@
             "last_commit": "2022-08-24T14:27:43Z",
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1171
+            "stars": 1172
           }
         },
         {
@@ -2724,7 +2724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:11:25.754Z",
+    "last_updated": "2026-08-26T22:31:33.549Z",
     "original_repository": "Westlake-AI/Awesome-Mixup",
     "original_repository_id": 539144756,
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",
