@@ -101,7 +101,7 @@
                     "last_commit": "2024-03-31T17:36:48Z",
                     "owner": "vikasverma1077",
                     "repo": "manifold_mixup",
-                    "stars": 492
+                    "stars": 493
                   }
                 },
                 {
@@ -1226,10 +1226,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T22:27:42Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38625
+                "stars": 38630
               }
             },
             {
@@ -2605,7 +2605,7 @@
             "last_commit": "2017-04-09T18:19:32Z",
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
-            "stars": 895
+            "stars": 894
           }
         },
         {
@@ -2620,7 +2620,7 @@
             "last_commit": "2017-04-09T18:19:32Z",
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
-            "stars": 895
+            "stars": 894
           }
         }
       ],
@@ -2724,9 +2724,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:31:33.549Z",
-    "original_repository": "Westlake-AI/Awesome-Mixup",
-    "original_repository_id": 539144756,
+    "last_updated": "2026-08-27T11:31:14.183Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 539144756,
+      "language": null,
+      "last_commit": "2024-10-14T09:18:22Z",
+      "owner": "Westlake-AI",
+      "repo": "Awesome-Mixup",
+      "stars": 169
+    },
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",
     "enhanced_repository": "enhansome/enhansome-Awesome-Mixup",
     "enhanced_repository_description": null,

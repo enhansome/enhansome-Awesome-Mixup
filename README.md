@@ -203,7 +203,7 @@ class="center">
 * **Manifold Mixup: Better Representations by Interpolating Hidden States**<br>
   *Vikas Verma, Alex Lamb, Christopher Beckham, Amir Najafi, Ioannis Mitliagkas, David Lopez-Paz, Yoshua Bengio*<br>
   ICML'2019 \[[Paper](https://arxiv.org/abs/1806.05236)]
-  \[[Code](https://github.com/vikasverma1077/manifold_mixup) ⭐ 492 | 🐛 9 | 🌐 Python | 📅 2024-03-31]
+  \[[Code](https://github.com/vikasverma1077/manifold_mixup) ⭐ 493 | 🐛 9 | 🌐 Python | 📅 2024-03-31]
    <details close>
    <summary>ManifoldMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204565193-c5416185-ed98-4b86-bc7c-f5b6cc2f839b.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,625 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-26]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,630 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-27]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -2185,8 +2185,8 @@ class="center">
 |    Kinetics400    |      Video      |     400    |        Action Recognition        |      260,000      |                                        [Kinetics400](https://deepmind.google/)                                        |
 |      Airfoil      |     Tabular     |      -     |            Regression            |       1,503       |                         [Airfoil](https://archive.ics.uci.edu/dataset/291/airfoil+self+noise)                         |
 |        NO2        |     Tabular     |      -     |            Regression            |        500        |                    [NO2](https://drive.google.com/drive/folders/1pTRT7fA-hq6p1F7ZX5oJ0tg_I1RRG6OW)                    |
-|   Exchange-Rate   |    Timeseries   |      -     |            Regression            |       7,409       |       [Exchange-Rate](https://github.com/laiguokun/multivariate-time-series-data) ⭐ 895 \| 🐛 6 \| 📅 2017-04-09      |
-|    Electricity    |    Timeseries   |      -     |            Regression            |       26,113      |        [Electricity](https://github.com/laiguokun/multivariate-time-series-data) ⭐ 895 \| 🐛 6 \| 📅 2017-04-09       |
+|   Exchange-Rate   |    Timeseries   |      -     |            Regression            |       7,409       |       [Exchange-Rate](https://github.com/laiguokun/multivariate-time-series-data) ⭐ 894 \| 🐛 6 \| 📅 2017-04-09      |
+|    Electricity    |    Timeseries   |      -     |            Regression            |       26,113      |        [Electricity](https://github.com/laiguokun/multivariate-time-series-data) ⭐ 894 \| 🐛 6 \| 📅 2017-04-09       |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,376 | 🐛 1 | 📅 2026-08-20 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,377 | 🐛 1 | 📅 2026-08-20 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
