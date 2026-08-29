@@ -147,7 +147,7 @@ class="center">
 * **AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty**<br>
   *Dan Hendrycks, Norman Mu, Ekin D. Cubuk, Barret Zoph, Justin Gilmer, Balaji Lakshminarayanan*<br>
   ICLR'2020 \[[Paper](https://arxiv.org/abs/1912.02781)]
-  \[[Code](https://github.com/google-research/augmix) ⭐ 990 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
+  \[[Code](https://github.com/google-research/augmix) ⭐ 991 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
    <details close>
    <summary>AugMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204567137-f71b0437-9267-4f99-b7dc-911ffa4f8b73.png" /></p>
@@ -466,7 +466,7 @@ class="center">
 * **Where to Cut and Paste: Data Regularization with Selective Features**<br>
   *Jiyeon Kim, Ik-Hee Shin, Jong-Ryul, Lee, Yong-Ju Lee*<br>
   ICTC'2020 \[[Paper](https://ieeexplore.ieee.org/abstract/document/9289404)]
-  \[[Code](https://github.com/google-research/augmix) ⭐ 990 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
+  \[[Code](https://github.com/google-research/augmix) ⭐ 991 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
    <details close>
    <summary>FocusMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204567137-f71b0437-9267-4f99-b7dc-911ffa4f8b73.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,643 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,650 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,389 | 🐛 1 | 📅 2026-08-20 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,391 | 🐛 1 | 📅 2026-08-20 repository.
 
 ## Related Project
 
