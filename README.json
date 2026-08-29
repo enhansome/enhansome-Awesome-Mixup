@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "mixup: Beyond Empirical Risk Minimization",
+                    "homepage": null,
                     "id": 122017965,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-10-12T21:33:03Z",
+                    "open_issues": 15,
                     "owner": "facebookresearch",
                     "repo": "mixup-cifar10",
-                    "stars": 1197
+                    "stars": 1197,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -30,12 +35,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty",
+                    "homepage": null,
                     "id": 226020168,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-17T18:03:33Z",
+                    "open_issues": 7,
                     "owner": "google-research",
                     "repo": "augmix",
-                    "stars": 990
+                    "stars": 990,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -46,12 +56,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures (CVPR 2022)",
+                    "homepage": null,
                     "id": 435020445,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-07-05T17:52:45Z",
+                    "open_issues": 2,
                     "owner": "andyzoujm",
                     "repo": "pixmix",
-                    "stars": 110
+                    "stars": 110,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -62,12 +77,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chainer implementation of between-class learning for Image classification https://arxiv.org/abs/1711.10284",
+                    "homepage": null,
                     "id": 113934009,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2017-12-13T12:31:51Z",
+                    "open_issues": 2,
                     "owner": "mil-tokyo",
                     "repo": "bc_learning_image",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -78,12 +98,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The offical repository of \"IPMix: Label-Preserving Data Augmentation Method for Training Robust Classifiers\"",
+                    "homepage": null,
                     "id": 702339784,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-07T07:01:21Z",
+                    "open_issues": 2,
                     "owner": "hzlsaber",
                     "repo": "IPMix",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 }
@@ -101,12 +126,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for reproducing Manifold Mixup results (ICML 2019)",
+                    "homepage": null,
                     "id": 137075504,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-03-31T17:36:48Z",
+                    "open_issues": 9,
                     "owner": "vikasverma1077",
                     "repo": "manifold_mixup",
-                    "stars": 493
+                    "stars": 493,
+                    "topics": [
+                      "data-augumentation",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "icml2019",
+                      "pytorch",
+                      "regularization",
+                      "supervised-learning",
+                      "supervised-machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -117,12 +156,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MoEx (Moment Exchange)",
+                    "homepage": null,
                     "id": 239047642,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-06-24T02:52:22Z",
+                    "open_issues": 1,
                     "owner": "Boyiliee",
                     "repo": "MoEx",
-                    "stars": 140
+                    "stars": 140,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -133,12 +177,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 271663254,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-08T04:21:18Z",
+                    "open_issues": 5,
                     "owner": "chandar-lab",
                     "repo": "PatchUp",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": [
+                      "convolutional-neural-network",
+                      "pytorch",
+                      "regularization-methods"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 }
@@ -156,12 +209,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Pytorch implementation of CutMix regularizer",
+                    "homepage": null,
                     "id": 189136525,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-09-16T03:47:45Z",
+                    "open_issues": 6,
                     "owner": "clovaai",
                     "repo": "CutMix-PyTorch",
-                    "stars": 1251
+                    "stars": 1251,
+                    "topics": [
+                      "augmentation",
+                      "cutmix",
+                      "iccv2019",
+                      "regularization",
+                      "transfer-learning"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -172,12 +236,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                    "homepage": "https://openmixup.readthedocs.io",
                     "id": 443031097,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-15T10:20:58Z",
+                    "open_issues": 7,
                     "owner": "Westlake-AI",
                     "repo": "openmixup",
-                    "stars": 658
+                    "stars": 658,
+                    "topics": [
+                      "automix",
+                      "awesome-list",
+                      "awesome-mim",
+                      "awesome-mixup",
+                      "benchmark",
+                      "contrastive-learning",
+                      "data-augmentation",
+                      "data-generation",
+                      "deep-learning",
+                      "image-classifcation",
+                      "imagenet",
+                      "machine-learning",
+                      "masked-image-modeling",
+                      "mixup",
+                      "pytorch",
+                      "self-supervised-learning",
+                      "semi-supervised-learning",
+                      "vision-transformer"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -188,12 +276,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                    "homepage": "https://openmixup.readthedocs.io",
                     "id": 443031097,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-15T10:20:58Z",
+                    "open_issues": 7,
                     "owner": "Westlake-AI",
                     "repo": "openmixup",
-                    "stars": 658
+                    "stars": 658,
+                    "topics": [
+                      "automix",
+                      "awesome-list",
+                      "awesome-mim",
+                      "awesome-mixup",
+                      "benchmark",
+                      "contrastive-learning",
+                      "data-augmentation",
+                      "data-generation",
+                      "deep-learning",
+                      "image-classifcation",
+                      "imagenet",
+                      "machine-learning",
+                      "masked-image-modeling",
+                      "mixup",
+                      "pytorch",
+                      "self-supervised-learning",
+                      "semi-supervised-learning",
+                      "vision-transformer"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -204,12 +316,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of 'FMix: Enhancing Mixed Sample Data Augmentation'",
+                    "homepage": "https://arxiv.org/abs/2002.12047",
                     "id": 239993380,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2021-03-26T19:00:33Z",
+                    "open_issues": 5,
                     "owner": "ecs-vlc",
                     "repo": "FMix",
-                    "stars": 339
+                    "stars": 339,
+                    "topics": [
+                      "augmentation",
+                      "pytorch",
+                      "pytorch-lightning",
+                      "tensorflow",
+                      "torchbearer"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -220,12 +343,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for You Only Cut Once: Boosting Data Augmentation with a Single Cut, ICML 2022.",
+                    "homepage": null,
                     "id": 452704480,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-08-01T09:05:26Z",
+                    "open_issues": 1,
                     "owner": "JunlinHan",
                     "repo": "YOCO",
-                    "stars": 106
+                    "stars": 106,
+                    "topics": [
+                      "cifar10",
+                      "cifar100",
+                      "classification",
+                      "computer-vision",
+                      "contrastive-learning",
+                      "data-augmentation",
+                      "data-augmentation-strategies",
+                      "data-augmentations",
+                      "icml",
+                      "imagenet",
+                      "imagenet-classifier",
+                      "instance-segmentation",
+                      "object-detection",
+                      "pytorch",
+                      "rain-removal",
+                      "super-resolution"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -236,12 +381,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A GridMixup augmentation, inspired by GridMask and CutMix",
+                    "homepage": null,
                     "id": 321269411,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-12-24T14:04:03Z",
+                    "open_issues": 0,
                     "owner": "IlyaDobrynin",
                     "repo": "GridMixup",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -252,12 +402,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 527209806,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-11-07T07:30:23Z",
+                    "open_issues": 0,
                     "owner": "naver-ai",
                     "repo": "hmix-gmix",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -268,12 +423,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 166514073,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-01-19T06:52:58Z",
+                    "open_issues": 0,
                     "owner": "ceciliaresearch",
                     "repo": "MixedExample",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -284,12 +444,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SuperpixelGridMasks is an approach for sensor-based data augmentation towards image classification tasks and so on.",
+                    "homepage": "https://github.com/hammoudiproject/SuperpixelGridMasks",
                     "id": 480462231,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-01-18T11:06:48Z",
+                    "open_issues": 1,
                     "owner": "hammoudiproject",
                     "repo": "SuperpixelGridMasks",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "artificial-intelligence",
+                      "cnn",
+                      "data-augmentation",
+                      "data-augmentations",
+                      "data-generation",
+                      "datascience",
+                      "deep-learning",
+                      "image-augmentation",
+                      "image-classification",
+                      "image-recognition",
+                      "imagery",
+                      "imaging",
+                      "machine-learning",
+                      "sensor-data",
+                      "training-dataset"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 }
@@ -307,12 +488,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch Implementation of the paper \"Observations on K-image Expansion of Image-Mixing Augmentation\"",
+                    "homepage": null,
                     "id": 597702071,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-04-25T07:37:38Z",
+                    "open_issues": 1,
                     "owner": "yjyoo3312",
                     "repo": "DCutMix-PyTorch",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 }
@@ -330,12 +516,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Domain Generalization with MixStyle (ICLR'21)",
+                    "homepage": null,
                     "id": 282191005,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-06T12:44:06Z",
+                    "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 334
+                    "stars": 334,
+                    "topics": [
+                      "domain-generalization",
+                      "feature-statistics",
+                      "iclr2021",
+                      "image-classification",
+                      "person-reidentification",
+                      "reinforcement-learning",
+                      "representation-learning"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -346,12 +545,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation of AlignMixup - CVPR 2022",
+                    "homepage": null,
                     "id": 468217044,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-04-04T06:33:56Z",
+                    "open_issues": 4,
                     "owner": "shashankvkt",
                     "repo": "AlignMixup_CVPR22",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": [
+                      "alignment",
+                      "augmentation",
+                      "cvpr2022",
+                      "deep-learning",
+                      "mixup",
+                      "optimal-transport",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -362,12 +574,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 352472980,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-06-23T13:22:23Z",
+                    "open_issues": 0,
                     "owner": "alsdml",
                     "repo": "StyleMix",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 }
@@ -385,12 +602,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty",
+                    "homepage": null,
                     "id": 226020168,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-17T18:03:33Z",
+                    "open_issues": 7,
                     "owner": "google-research",
                     "repo": "augmix",
-                    "stars": 990
+                    "stars": 990,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -401,12 +623,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                    "homepage": "https://openmixup.readthedocs.io",
                     "id": 443031097,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-15T10:20:58Z",
+                    "open_issues": 7,
                     "owner": "Westlake-AI",
                     "repo": "openmixup",
-                    "stars": 658
+                    "stars": 658,
+                    "topics": [
+                      "automix",
+                      "awesome-list",
+                      "awesome-mim",
+                      "awesome-mixup",
+                      "benchmark",
+                      "contrastive-learning",
+                      "data-augmentation",
+                      "data-generation",
+                      "deep-learning",
+                      "image-classifcation",
+                      "imagenet",
+                      "machine-learning",
+                      "masked-image-modeling",
+                      "mixup",
+                      "pytorch",
+                      "self-supervised-learning",
+                      "semi-supervised-learning",
+                      "vision-transformer"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -417,12 +663,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                    "homepage": "https://openmixup.readthedocs.io",
                     "id": 443031097,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-15T10:20:58Z",
+                    "open_issues": 7,
                     "owner": "Westlake-AI",
                     "repo": "openmixup",
-                    "stars": 658
+                    "stars": 658,
+                    "topics": [
+                      "automix",
+                      "awesome-list",
+                      "awesome-mim",
+                      "awesome-mixup",
+                      "benchmark",
+                      "contrastive-learning",
+                      "data-augmentation",
+                      "data-generation",
+                      "deep-learning",
+                      "image-classifcation",
+                      "imagenet",
+                      "machine-learning",
+                      "masked-image-modeling",
+                      "mixup",
+                      "pytorch",
+                      "self-supervised-learning",
+                      "semi-supervised-learning",
+                      "vision-transformer"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -433,12 +703,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of \"Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup\" (ICML'20)",
+                    "homepage": null,
                     "id": 230866910,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2021-11-25T05:35:33Z",
+                    "open_issues": 0,
                     "owner": "snu-mllab",
                     "repo": "PuzzleMix",
-                    "stars": 156
+                    "stars": 156,
+                    "topics": [
+                      "data-augmentation",
+                      "mixup"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -449,12 +727,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data (AAAI 2021)",
+                    "homepage": null,
                     "id": 319199536,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-12-26T05:12:44Z",
+                    "open_issues": 4,
                     "owner": "Shaoli-Huang",
                     "repo": "SnapMix",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": [
+                      "aaai2021",
+                      "cutmix",
+                      "data-augmentation",
+                      "fine-grained-recognition",
+                      "mixup"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -465,12 +754,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of \"Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity\" (ICLR'21 Oral)",
+                    "homepage": null,
                     "id": 335542865,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2021-12-02T09:58:45Z",
+                    "open_issues": 0,
                     "owner": "snu-mllab",
                     "repo": "Co-Mixup",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": [
+                      "data-augmentation",
+                      "mixup"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -481,12 +778,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation of CVPR2021 paper: SuperMix: Supervising the Mixing Data Augmentation",
+                    "homepage": null,
                     "id": 231245106,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-01-06T01:55:11Z",
+                    "open_issues": 1,
                     "owner": "alldbi",
                     "repo": "SuperMix",
-                    "stars": 92
+                    "stars": 92,
+                    "topics": [
+                      "augmentation",
+                      "cvpr2021",
+                      "deep-learning",
+                      "distillation",
+                      "pytorch",
+                      "saliency-detection",
+                      "supervised"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -497,12 +807,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch(MMCV) implementation of “Adversarial AutoMixup” (ICLR 2024 spotlight)",
+                    "homepage": "https://arxiv.org/abs/2312.11954",
                     "id": 722884429,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-02T04:52:39Z",
+                    "open_issues": 0,
                     "owner": "JinXins",
                     "repo": "Adversarial-AutoMixup",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "cars196",
+                      "classification",
+                      "computer-vision",
+                      "convolutional-neural-networks",
+                      "corruption",
+                      "deep-learning",
+                      "fgvc-aircraft",
+                      "imagenet",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -513,12 +838,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization",
+                    "homepage": null,
                     "id": 312258169,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-23T02:56:05Z",
+                    "open_issues": 2,
                     "owner": "afm-shahab-uddin",
                     "repo": "SaliencyMix",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -529,12 +859,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of \"GuidedMixup An Efficient Mixup Strategy Guided by Saliency Maps\" (AAAI'23 Oral)",
+                    "homepage": null,
                     "id": 696301042,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-09T14:31:16Z",
+                    "open_issues": 0,
                     "owner": "3neutronstar",
                     "repo": "GuidedMixup",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -545,12 +880,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 302183364,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-10-15T02:17:43Z",
+                    "open_issues": 1,
                     "owner": "xden2331",
                     "repo": "attentive_cutmix",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -561,12 +901,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 607574622,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-11-30T16:17:05Z",
+                    "open_issues": 1,
                     "owner": "DanielaPlusPlus",
                     "repo": "LGCOAMix",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 }
@@ -584,12 +929,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers (ECCV 2022)",
+                    "homepage": null,
                     "id": 512638545,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-09-08T06:56:48Z",
+                    "open_issues": 7,
                     "owner": "Sense-X",
                     "repo": "TokenMix",
-                    "stars": 96
+                    "stars": 96,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -600,12 +950,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official pytorch implementation of NeurIPS 2022 paper, TokenMixup",
+                    "homepage": null,
                     "id": 541370236,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-11-22T09:45:10Z",
+                    "open_issues": 0,
                     "owner": "mlvlab",
                     "repo": "TokenMixup",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": [
+                      "mixup",
+                      "neurips-2022",
+                      "vision-transformer"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -616,12 +975,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔥MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer [Official, ICLR 2023]",
+                    "homepage": null,
                     "id": 628153719,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-11-03T06:19:25Z",
+                    "open_issues": 0,
                     "owner": "fistyee",
                     "repo": "MixPro",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "classification",
+                      "data-augmentation",
+                      "vision-transformer"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -632,12 +1000,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 23]This is a Pytorch implementation of our paper \"SMMix: Self-Motivated Image Mixing for Vision Transformers\"",
+                    "homepage": null,
                     "id": 581487090,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-07-14T09:02:15Z",
+                    "open_issues": 1,
                     "owner": "ChenMnZ",
                     "repo": "SMMix",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 }
@@ -655,12 +1028,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of DiffuseMix : Label-Preserving Data Augmentation with Diffusion Models (CVPR'2024)",
+                    "homepage": "https://diffusemix.github.io",
                     "id": 767332139,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-13T03:42:38Z",
+                    "open_issues": 0,
                     "owner": "khawar-islam",
                     "repo": "diffuseMix",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": [
+                      "cutmix",
+                      "data-augmentation",
+                      "diffusion-models",
+                      "generative-data-augmentation",
+                      "image-classification",
+                      "mixup",
+                      "synthetic-data",
+                      "transfer-learning"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
@@ -671,12 +1058,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official adversarial mixup resynthesis repository",
+                    "homepage": null,
                     "id": 176797303,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2020-02-14T15:06:12Z",
+                    "open_issues": 1,
                     "owner": "christopher-beckham",
                     "repo": "amr",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "acai",
+                      "adversarial-mixup-resynthesis",
+                      "autoencoders",
+                      "celeba-dataset",
+                      "kmnist",
+                      "mixup",
+                      "mnist-dataset",
+                      "representation-learning",
+                      "svhn-dataset",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 }
@@ -699,12 +1102,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple probabilistic programming language.",
+                "homepage": null,
                 "id": 201102332,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-02T09:44:53Z",
+                "open_issues": 78,
                 "owner": "google",
                 "repo": "edward2",
-                "stars": 712
+                "stars": 712,
+                "topics": [
+                  "bayesian-methods",
+                  "data-science",
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-networks",
+                  "probabilistic-programming",
+                  "statistics",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -715,12 +1132,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"SmoothMix: Training Confidence-calibrated Smoothed Classifiers for Certified Robustness\" (NeurIPS 2021)",
+                "homepage": "https://arxiv.org/abs/2111.09277",
                 "id": 421290936,
                 "language": "Roff",
+                "license": "MIT",
                 "last_commit": "2022-09-27T02:20:10Z",
+                "open_issues": 0,
                 "owner": "jh-jeong",
                 "repo": "smoothmix",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "adversarial-defense",
+                  "deep-learning",
+                  "machine-learning",
+                  "neurips-2021",
+                  "paper",
+                  "randomized-smoothing",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -738,12 +1168,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] This repository includes the official project for the paper: TransMix: Attend to Mix for Vision Transformers.",
+                "homepage": null,
                 "id": 428958539,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-06T16:28:15Z",
+                "open_issues": 8,
                 "owner": "Beckschen",
                 "repo": "TransMix",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -761,12 +1196,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                "homepage": "https://openmixup.readthedocs.io",
                 "id": 443031097,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-15T10:20:58Z",
+                "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 658
+                "stars": 658,
+                "topics": [
+                  "automix",
+                  "awesome-list",
+                  "awesome-mim",
+                  "awesome-mixup",
+                  "benchmark",
+                  "contrastive-learning",
+                  "data-augmentation",
+                  "data-generation",
+                  "deep-learning",
+                  "image-classifcation",
+                  "imagenet",
+                  "machine-learning",
+                  "masked-image-modeling",
+                  "mixup",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "semi-supervised-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -777,12 +1236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for \"MixupE: Understanding and Improving Mixup from Directional Derivative Perspective\" UAI 2023 Oral",
+                "homepage": null,
                 "id": 684884389,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-30T05:23:44Z",
+                "open_issues": 0,
                 "owner": "jensen888",
                 "repo": "MixupE",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -800,12 +1264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 328101591,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-01-12T03:08:50Z",
+                "open_issues": 0,
                 "owner": "yuhao318",
                 "repo": "mwh",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -816,12 +1285,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the RegMixup paper",
+                "homepage": null,
                 "id": 566876413,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-30T18:43:02Z",
+                "open_issues": 0,
                 "owner": "FrancescoPinto",
                 "repo": "RegMixup",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -839,12 +1313,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the RegMixup paper",
+                "homepage": null,
                 "id": 566876413,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-30T18:43:02Z",
+                "open_issues": 0,
                 "owner": "FrancescoPinto",
                 "repo": "RegMixup",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -855,12 +1334,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "About Official PyTorch(MMCV) implementation of “SUMix: Mixup with Semantic and Uncertain Information” (ECCV 2024)",
+                "homepage": null,
                 "id": 825632510,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-02T15:08:13Z",
+                "open_issues": 0,
                 "owner": "JinXins",
                 "repo": "SUMix",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "cifar100",
+                  "convolutional-neural-networks",
+                  "image-classification",
+                  "imagenet",
+                  "mixup",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -871,12 +1362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 569378036,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-11-22T17:33:23Z",
+                "open_issues": 1,
                 "owner": "kevin-ssy",
                 "repo": "LUMix",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -894,12 +1390,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of \"All Tokens Matter: Token Labeling for Training Better Vision Transformers\"",
+                "homepage": null,
                 "id": 359763441,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-05T07:44:23Z",
+                "open_issues": 7,
                 "owner": "zihangJiang",
                 "repo": "TokenLabeling",
-                "stars": 436
+                "stars": 436,
+                "topics": [
+                  "imagenet",
+                  "lv-vit",
+                  "pytorch",
+                  "segmentation",
+                  "transformer",
+                  "vision"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -910,12 +1418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers (ECCV 2022)",
+                "homepage": null,
                 "id": 512638545,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-08T06:56:48Z",
+                "open_issues": 7,
                 "owner": "Sense-X",
                 "repo": "TokenMix",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -926,12 +1439,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official pytorch implementation of NeurIPS 2022 paper, TokenMixup",
+                "homepage": null,
                 "id": 541370236,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-22T09:45:10Z",
+                "open_issues": 0,
                 "owner": "mlvlab",
                 "repo": "TokenMixup",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "mixup",
+                  "neurips-2022",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -942,12 +1464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023]The PyTorch implementation of TL-Align: Token-Label Alignment for Vision Transformers.",
+                "homepage": null,
                 "id": 549691887,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-16T03:41:09Z",
+                "open_issues": 1,
                 "owner": "Euphoria16",
                 "repo": "TL-Align",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -958,12 +1485,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer [Official, ICLR 2023]",
+                "homepage": null,
                 "id": 628153719,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-03T06:19:25Z",
+                "open_issues": 0,
                 "owner": "fistyee",
                 "repo": "MixPro",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "classification",
+                  "data-augmentation",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -981,12 +1517,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data (AAAI 2021)",
+                "homepage": null,
                 "id": 319199536,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-26T05:12:44Z",
+                "open_issues": 4,
                 "owner": "Shaoli-Huang",
                 "repo": "SnapMix",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "aaai2021",
+                  "cutmix",
+                  "data-augmentation",
+                  "fine-grained-recognition",
+                  "mixup"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -1010,12 +1557,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                "homepage": "https://openmixup.readthedocs.io",
                 "id": 443031097,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-15T10:20:58Z",
+                "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 658
+                "stars": 658,
+                "topics": [
+                  "automix",
+                  "awesome-list",
+                  "awesome-mim",
+                  "awesome-mixup",
+                  "benchmark",
+                  "contrastive-learning",
+                  "data-augmentation",
+                  "data-generation",
+                  "deep-learning",
+                  "image-classifcation",
+                  "imagenet",
+                  "machine-learning",
+                  "masked-image-modeling",
+                  "mixup",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "semi-supervised-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1026,12 +1597,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Un-Mix: Rethinking Image Mixtures for Unsupervised Visual Representation Learning.",
+                "homepage": null,
                 "id": 246440964,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-10T11:34:10Z",
+                "open_issues": 1,
                 "owner": "szq0214",
                 "repo": "Un-Mix",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "image-mixture",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "smooth-decision-boundaries",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1042,12 +1624,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PyTorch implementation of Asymmetric Siamese (https://arxiv.org/abs/2204.00613)",
+                "homepage": null,
                 "id": 448106890,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-02T07:05:28Z",
+                "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "asym-siam",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1058,12 +1645,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improving Contrastive Learning by Visualizing Feature Transformation, ICCV 2021 Oral",
+                "homepage": "https://arxiv.org/abs/2108.02982",
                 "id": 390993137,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-10-11T14:51:51Z",
+                "open_issues": 1,
                 "owner": "DTennant",
                 "repo": "CL-Visualizing-Feature-Transformation",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1074,12 +1666,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICLR 2021 i-Mix: A Domain-Agnostic Strategy for Contrastive Representation Learning",
+                "homepage": null,
                 "id": 348947450,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-22T04:23:05Z",
+                "open_issues": 0,
                 "owner": "kibok90",
                 "repo": "imix",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1090,12 +1687,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(NeurIPS 2020 Workshop on SSL) Official Implementation of \"MixCo: Mix-up Contrastive Learning for Visual Representation\"",
+                "homepage": null,
                 "id": 312954279,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2022-11-25T09:51:30Z",
+                "open_issues": 0,
                 "owner": "Lee-Gihun",
                 "repo": "MixCo-Mixup-Contrast",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "deep-learning",
+                  "mix-up",
+                  "pytorch",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1106,12 +1713,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2022] \"ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning\"",
+                "homepage": null,
                 "id": 492433047,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-13T12:18:21Z",
+                "open_issues": 1,
                 "owner": "junxia97",
                 "repo": "ProGCL",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "contrastive-learning",
+                  "graph-neural-networks",
+                  "graph-self-supervised-learning",
+                  "hard-negative-mining",
+                  "icml-2022"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1122,12 +1740,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for NeurIPS'23 paper \"Geodesic Multi-Modal Mixup for Robust Fine-Tuning\"",
+                "homepage": null,
                 "id": 703680093,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-09-24T00:51:18Z",
+                "open_issues": 2,
                 "owner": "changdaeoh",
                 "repo": "multimodal-mixup",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1138,12 +1761,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is the official implementation of Unleashing the Power of Contrastive Self-Supervised Visual Models via Contrast-Regularized Fine-Tuning (NeurIPS21).",
+                "homepage": null,
                 "id": 416364530,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-17T09:27:56Z",
+                "open_issues": 1,
                 "owner": "YifanZhang07",
                 "repo": "Core-tuning",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1154,12 +1782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 474513023,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-01-02T03:23:10Z",
+                "open_issues": 1,
                 "owner": "OliverRensu",
                 "repo": "SDMP",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1170,12 +1803,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code of CropMix: Sampling a Rich Input Distribution via Multi-Scale Cropping",
+                "homepage": null,
                 "id": 497201105,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-10-08T16:59:04Z",
+                "open_issues": 0,
                 "owner": "JunlinHan",
                 "repo": "CropMix",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "computer-vision",
+                  "contrastive-learning",
+                  "data-augmentation",
+                  "deep-learning",
+                  "image-classification",
+                  "machine-learning",
+                  "masked-image-modeling",
+                  "representation-learning",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1186,12 +1834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIGKDD 2022 paper",
+                "homepage": null,
                 "id": 496449148,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-29T07:52:27Z",
+                "open_issues": 0,
                 "owner": "Sherrylone",
                 "repo": "M-Mix",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -1209,12 +1862,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning",
+                "homepage": null,
                 "id": 493976030,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-02T11:28:41Z",
+                "open_issues": 22,
                 "owner": "Sense-X",
                 "repo": "MixMIM",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "masked-image-modeling",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1225,12 +1886,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "i-mae Pytorch Repo",
+                "homepage": null,
                 "id": 554977816,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-06T15:05:18Z",
+                "open_issues": 1,
                 "owner": "VILA-Lab",
                 "repo": "i-mae",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -1248,12 +1914,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 186900783,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-24T22:14:44Z",
+                "open_issues": 2,
                 "owner": "google-research",
                 "repo": "mixmatch",
-                "stars": 1139
+                "stars": 1139,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1264,12 +1935,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for paper: DivideMix: Learning with Noisy Labels as Semi-supervised Learning ",
+                "homepage": null,
                 "id": 223125163,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-09-14T10:20:04Z",
+                "open_issues": 9,
                 "owner": "LiJunnan1992",
                 "repo": "DivideMix",
-                "stars": 577
+                "stars": 577,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1280,12 +1956,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 233144972,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-21T21:56:03Z",
+                "open_issues": 0,
                 "owner": "google-research",
                 "repo": "remixmatch",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1296,12 +1977,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Research",
+                "homepage": "https://research.google",
                 "id": 151619717,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:11:14Z",
+                "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38642
+                "stars": 38643,
+                "topics": [
+                  "ai",
+                  "machine-learning",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1312,12 +2002,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                "homepage": "https://openmixup.readthedocs.io",
                 "id": 443031097,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-15T10:20:58Z",
+                "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 658
+                "stars": 658,
+                "topics": [
+                  "automix",
+                  "awesome-list",
+                  "awesome-mim",
+                  "awesome-mixup",
+                  "benchmark",
+                  "contrastive-learning",
+                  "data-augmentation",
+                  "data-generation",
+                  "deep-learning",
+                  "image-classifcation",
+                  "imagenet",
+                  "machine-learning",
+                  "masked-image-modeling",
+                  "mixup",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "semi-supervised-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1328,12 +2042,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023 Highlight] LaserMix for Semi-Supervised LiDAR Semantic Segmentation",
+                "homepage": "https://ldkong.com/LaserMix",
                 "id": 505766163,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-06T11:15:12Z",
+                "open_issues": 7,
                 "owner": "worldbench",
                 "repo": "LaserMix",
-                "stars": 322
+                "stars": 322,
+                "topics": [
+                  "autonomous-driving",
+                  "lidar",
+                  "segmentation",
+                  "semi-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1344,12 +2068,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 428159974,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-28T02:30:45Z",
+                "open_issues": 4,
                 "owner": "JongMokKim",
                 "repo": "mix-unmix",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1360,12 +2089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 669943732,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-14T23:58:22Z",
+                "open_issues": 2,
                 "owner": "Fahim-F",
                 "repo": "ManifoldDivideMix",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1376,12 +2110,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " [ICIC 2024] Official Pytorch Implementation for \"PCLMix: Weakly Supervised Medical Image Segmentation via Pixel-Level Contrastive Learning and Dynamic Mix Augmentation\"",
+                "homepage": "https://arxiv.org/abs/2405.06288",
                 "id": 777026888,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-15T02:26:34Z",
+                "open_issues": 3,
                 "owner": "torpedo2003",
                 "repo": "PCLMix",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "computer-vision",
+                  "medical-image-analysis"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -1405,12 +2147,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source framework for uncertainty and deep learning models in PyTorch 🌱 ",
+                "homepage": "https://torch-uncertainty.github.io",
                 "id": 596176714,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T13:44:43Z",
+                "open_issues": 25,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 527
+                "stars": 527,
+                "topics": [
+                  "bayesian-network",
+                  "computer-vision",
+                  "ensembles",
+                  "neural-networks",
+                  "predictive-uncertainty",
+                  "pytorch",
+                  "reliable-ai",
+                  "trustworthy-machine-learning",
+                  "uncertainty",
+                  "uncertainty-quantification"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1421,12 +2179,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2023, Spotlight] Rank-N-Contrast: Learning Continuous Representations for Regression",
+                "homepage": null,
                 "id": 702663018,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-28T18:53:41Z",
+                "open_issues": 6,
                 "owner": "kaiwenzha",
                 "repo": "Rank-N-Contrast",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "continuity",
+                  "contrastive-learning",
+                  "neurips",
+                  "neurips-2023",
+                  "ranking-algorithms",
+                  "regression",
+                  "representation-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1437,12 +2208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C-Mixup for NeurIPS 2022",
+                "homepage": null,
                 "id": 549229467,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-17T05:26:44Z",
+                "open_issues": 3,
                 "owner": "huaxiuyao",
                 "repo": "C-Mixup",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1453,12 +2229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the implementation code for paper: Mixup Your Own Pairs",
+                "homepage": null,
                 "id": 697677007,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-10-01T02:52:53Z",
+                "open_issues": 0,
                 "owner": "yilei-wu",
                 "repo": "SupReMix",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -1476,12 +2257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implement Code for UniMix and Bayias Compensated Loss",
+                "homepage": null,
                 "id": 428977271,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-07T16:03:57Z",
+                "open_issues": 0,
                 "owner": "XuZhengzhuo",
                 "repo": "Prior-LT",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -1499,12 +2285,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023 Highlight] LaserMix for Semi-Supervised LiDAR Semantic Segmentation",
+                "homepage": "https://ldkong.com/LaserMix",
                 "id": 505766163,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-06T11:15:12Z",
+                "open_issues": 7,
                 "owner": "worldbench",
                 "repo": "LaserMix",
-                "stars": 322
+                "stars": 322,
+                "topics": [
+                  "autonomous-driving",
+                  "lidar",
+                  "segmentation",
+                  "semi-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1515,12 +2311,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision",
+                "homepage": null,
                 "id": 466630015,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-05T07:09:24Z",
+                "open_issues": 8,
                 "owner": "BWGZK",
                 "repo": "CycleMix",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "medical-image-segmentation",
+                  "mixup",
+                  "scribble",
+                  "scribble-segmentation",
+                  "scribble-supervision",
+                  "segmentation",
+                  "weakly-supervised-segmentation"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1531,12 +2340,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 279863747,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-22T03:29:52Z",
+                "open_issues": 7,
                 "owner": "WilhelmT",
                 "repo": "ClassMix",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1547,12 +2361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation",
+                "homepage": null,
                 "id": 772450384,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-16T09:45:09Z",
+                "open_issues": 5,
                 "owner": "MQinghe",
                 "repo": "MiDSS",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1563,12 +2382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 503675403,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-16T17:13:26Z",
+                "open_issues": 0,
                 "owner": "hust-linyi",
                 "repo": "insmix",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1579,12 +2403,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SA-MixNet: Structure-aware Mixup and Invariance Learning for Scribble-supervised Road Extraction in Remote Sensing Images",
+                "homepage": null,
                 "id": 825316772,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-07-15T15:52:47Z",
+                "open_issues": 0,
                 "owner": "xdu-jjgs",
                 "repo": "SA-MixNet-for-Scribble-based-Road-Extraction",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -1602,12 +2431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] The official implementation for \"MS-DETR: Efficient DETR Training with Mixed Supervision\"",
+                "homepage": null,
                 "id": 740363677,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-10T07:43:56Z",
+                "open_issues": 18,
                 "owner": "Atten4Vis",
                 "repo": "MS-DETR",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1618,12 +2452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mixed Pseudo Labels for Semi-Supervised Object Detection",
+                "homepage": null,
                 "id": 725491159,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-07T12:33:30Z",
+                "open_issues": 17,
                 "owner": "Czm369",
                 "repo": "MixPL",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1634,12 +2473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 428159974,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-28T02:30:45Z",
+                "open_issues": 4,
                 "owner": "JongMokKim",
                 "repo": "mix-unmix",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -1663,12 +2507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow experiment codes of XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning (FL' ICML 2020)",
+                "homepage": null,
                 "id": 286408702,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-10T08:16:10Z",
+                "open_issues": 0,
                 "owner": "ihooni",
                 "repo": "XOR-Mixup",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1679,12 +2528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "unofficial implementation of the ICLR '21 paper FedMix: Approximation of Mixup under Mean Augmented Federated Learning",
+                "homepage": null,
                 "id": 682591113,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-06T13:52:48Z",
+                "open_issues": 0,
                 "owner": "DevPranjal",
                 "repo": "fedmix",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -1702,12 +2556,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Further improve robustness of mixup-trained models in inference (ICLR 2020)",
+                "homepage": null,
                 "id": 225985836,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-07-07T13:39:21Z",
+                "open_issues": 1,
                 "owner": "P2333",
                 "repo": "Mixup-Inference",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1718,12 +2577,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the CVPR 2020 article \"Adversarial Vertex mixup: Toward Better Adversarially Robust Generalization\"",
+                "homepage": "https://arxiv.org/abs/2003.02484",
                 "id": 260228761,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-13T01:50:29Z",
+                "open_issues": 0,
                 "owner": "Saehyung-Lee",
                 "repo": "cifar10_challenge",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1734,12 +2598,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iclr 2020 anonymized submission",
+                "homepage": null,
                 "id": 210759063,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-02-07T04:15:28Z",
+                "open_issues": 0,
                 "owner": "mixupAsDirectionalAdversarial",
                 "repo": "mixup_as_dat",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -1757,12 +2626,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Adversarial Domain Adaptation with Domain Mixup (AAAI 2020 Oral). ",
+                "homepage": null,
                 "id": 228529845,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-06-09T10:15:23Z",
+                "open_issues": 6,
                 "owner": "ChrisAllenMing",
                 "repo": "Mixup_for_UDA",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1773,12 +2647,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the official implementation of CoMix (NeurIPS 2021) https://arxiv.org/pdf/2110.15128.pdf.",
+                "homepage": null,
                 "id": 441225126,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-12T13:11:55Z",
+                "open_issues": 1,
                 "owner": "CVIR",
                 "repo": "CoMix",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "action-recognition",
+                  "computer-vision",
+                  "contrastive-learning",
+                  "domain-adaptation"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1789,12 +2673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 195068106,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-08-15T14:55:45Z",
+                "open_issues": 0,
                 "owner": "xudonmao",
                 "repo": "VMT",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1805,12 +2694,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of \"Dual Mixup Regularized Learning for Adversarial Domain Adaptation\" in Pytorch",
+                "homepage": "https://arxiv.org/pdf/2007.03141.pdf",
                 "id": 297117153,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-08T18:15:28Z",
+                "open_issues": 1,
                 "owner": "YuanWu3",
                 "repo": "Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1821,12 +2715,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MICCAI 2023 - Spectral Adversarial MixUp for Few-Shot Unsupervised Domain Adaptation",
+                "homepage": null,
                 "id": 668508643,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-30T20:25:37Z",
+                "open_issues": 2,
                 "owner": "RPIDIAL",
                 "repo": "SAMix",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1837,12 +2736,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the official implementation of SLM (WACV 2023) https://arxiv.org/pdf/2012.03358.pdf.",
+                "homepage": null,
                 "id": 585282271,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-04T19:53:23Z",
+                "open_issues": 0,
                 "owner": "CVIR",
                 "repo": "SLM",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -1860,12 +2764,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MixGen: A New Multi-Modal Data Augmentation",
+                "homepage": null,
                 "id": 508979024,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-09T21:46:27Z",
+                "open_issues": 2,
                 "owner": "amazon-science",
                 "repo": "mix-generation",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "data-augmentation",
+                  "data-efficiency",
+                  "multimodal",
+                  "pretraining",
+                  "vision-language"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1876,12 +2791,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of CVPR2024 paper \"Enhance Image Classification via Inter-class Image Mixup with Diffusion Model\"\"",
+                "homepage": null,
                 "id": 735858629,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-13T05:55:52Z",
+                "open_issues": 2,
                 "owner": "Zhicaiwww",
                 "repo": "Diff-Mix",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1892,12 +2812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for NeurIPS'23 paper \"Geodesic Multi-Modal Mixup for Robust Fine-Tuning\"",
+                "homepage": null,
                 "id": 703680093,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-09-24T00:51:18Z",
+                "open_issues": 2,
                 "owner": "changdaeoh",
                 "repo": "multimodal-mixup",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1908,12 +2833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation of Frequency-enhanced Data Augmentation for Vision-and-Language Navigation (NeurIPS2023)",
+                "homepage": null,
                 "id": 711112036,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-08T10:10:38Z",
+                "open_issues": 3,
                 "owner": "hekj",
                 "repo": "FDA",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -1937,12 +2867,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TextAugment: Text Augmentation Library",
+                "homepage": null,
                 "id": 185192277,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-04T12:55:13Z",
+                "open_issues": 1,
                 "owner": "dsfsi",
                 "repo": "textaugment",
-                "stars": 443
+                "stars": 443,
+                "topics": [
+                  "augmentation",
+                  "augmentation-methods",
+                  "hacktoberfest",
+                  "low-resouce-language",
+                  "mixup",
+                  "natural-language-processing",
+                  "nlp",
+                  "nlp-augmentation",
+                  "synonym",
+                  "word2vec",
+                  "wordnet"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1953,12 +2900,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification",
+                "homepage": null,
                 "id": 258024959,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-06-05T03:42:59Z",
+                "open_issues": 5,
                 "owner": "SALT-NLP",
                 "repo": "MixText",
-                "stars": 354
+                "stars": 354,
+                "topics": [
+                  "computation",
+                  "dataaugmentation",
+                  "interpolation",
+                  "machine-learning",
+                  "mixtext",
+                  "natural-language-processing",
+                  "semisupervised-learning",
+                  "textclassification",
+                  "textgeneration"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1969,12 +2931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository for our EMNLP'20 paper SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup.",
+                "homepage": null,
                 "id": 299261590,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-05T07:20:20Z",
+                "open_issues": 3,
                 "owner": "rz-zhang",
                 "repo": "SeqMix",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -1985,12 +2952,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source codes for the paper \"Local Additivity Based Data Augmentation for Semi-supervised NER\"",
+                "homepage": null,
                 "id": 300119725,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-15T01:58:17Z",
+                "open_issues": 1,
                 "owner": "SALT-NLP",
                 "repo": "LADA",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "dataaugmentation",
+                  "lada",
+                  "mixup",
+                  "ner",
+                  "semisupervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2001,12 +2979,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Paper: Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data",
+                "homepage": null,
                 "id": 300513121,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-16T09:02:17Z",
+                "open_issues": 1,
                 "owner": "Lingkai-Kong",
                 "repo": "Calibrated-BERT-Fine-Tuning",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "bert",
+                  "calibration",
+                  "deep-learning",
+                  "language-model",
+                  "nlp",
+                  "nlp-machine-learning",
+                  "ood-detection",
+                  "open-world-classification",
+                  "robustness",
+                  "text-classification",
+                  "uncertainty-estimation",
+                  "uncertainty-quantification"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2017,12 +3013,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for ACL 2022 main conference paper \"STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation\".",
+                "homepage": null,
                 "id": 470037136,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-25T08:15:58Z",
+                "open_issues": 2,
                 "owner": "ictnlp",
                 "repo": "STEMM",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "machine-translation",
+                  "speech-to-text",
+                  "speech-translation"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2033,12 +3038,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sequence-Level Mixed Sample Data Augmentation",
+                "homepage": null,
                 "id": 314982022,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-03-07T12:44:18Z",
+                "open_issues": 1,
                 "owner": "dguo98",
                 "repo": "SeqMix",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2049,12 +3059,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sequence-Level Mixed Sample Data Augmentation",
+                "homepage": null,
                 "id": 314982022,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-03-07T12:44:18Z",
+                "open_issues": 1,
                 "owner": "dguo98",
                 "repo": "SeqMix",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2065,12 +3080,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of ICLR 2022 paper \"Enhancing Cross-lingual Transfer by Manifold Mixup\".",
+                "homepage": null,
                 "id": 485283432,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-05-25T02:42:10Z",
+                "open_issues": 1,
                 "owner": "yhy1117",
                 "repo": "X-Mixup",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "cross-lingual-transfer",
+                  "manifold-mixup",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2081,12 +3105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NAACL 2022] TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding",
+                "homepage": null,
                 "id": 423333877,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-15T15:08:14Z",
+                "open_issues": 1,
                 "owner": "lezhang7",
                 "repo": "TreeMix",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -2104,12 +3133,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for reproducing results in GraphMix paper",
+                "homepage": null,
                 "id": 210898348,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-22T03:16:17Z",
+                "open_issues": 5,
                 "owner": "vikasverma1077",
                 "repo": "GraphMix",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "gcn",
+                  "gnn",
+                  "graphneuralnetwork",
+                  "regularizer",
+                  "semisupervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2120,12 +3160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for paper \"Mixup for Node and Graph Classification\", WWW 2021",
+                "homepage": null,
                 "id": 373360356,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-03T02:39:21Z",
+                "open_issues": 3,
                 "owner": "vanoracai",
                 "repo": "MixupForGraph",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2136,12 +3181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 548690992,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-16T11:55:18Z",
+                "open_issues": 0,
                 "owner": "shimazing",
                 "repo": "Graph-Transplant",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2152,12 +3202,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for ECML-PKDD 2022 paper \"GraphMixup: Improving Class-Imbalanced Node Classification by Reinforcement Mixup and Self-supervised Context Prediction\"",
+                "homepage": null,
                 "id": 505676502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-07T07:29:54Z",
+                "open_issues": 0,
                 "owner": "LirongWu",
                 "repo": "GraphMixup",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "graph-algorithms",
+                  "graph-self-supervised-learning",
+                  "imbalanced-classification",
+                  "imbalanced-data",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2168,12 +3229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper: Fused Gromov-Wasserstein Graph Mixup for Graph-level Classifications, published in NeurIPS'23.",
+                "homepage": null,
                 "id": 644201490,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-27T11:13:56Z",
+                "open_issues": 0,
                 "owner": "ArthurLeoM",
                 "repo": "FGWMixup",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -2191,12 +3257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation for paper \"PointMixup: Augmentation for Point Cloud\". Accepted to  ECCV 2020 as spotlight presentation",
+                "homepage": null,
                 "id": 279124935,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-05T21:36:23Z",
+                "open_issues": 11,
                 "owner": "yunlu-chen",
                 "repo": "PointMixup",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2207,12 +3278,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Part-Aware Data Augmentation for 3D Object Detection in Point Cloud (IROS 2021)",
+                "homepage": null,
                 "id": 291918864,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-23T05:38:25Z",
+                "open_issues": 1,
                 "owner": "sky77764",
                 "repo": "pa-aug.pytorch",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "3d-object-detection",
+                  "data-augmentation",
+                  "lidar",
+                  "point-cloud"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2223,12 +3304,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "our code for paper 'PointCutMix: Regularization Strategy for Point Cloud Classification', Neurocomputing, 2022",
+                "homepage": "https://arxiv.org/abs/2101.01461.pdf",
                 "id": 326952280,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-19T00:22:52Z",
+                "open_issues": 0,
                 "owner": "cuge1995",
                 "repo": "PointCutMix",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "3d-deep-learning",
+                  "data-augmentation",
+                  "deep-learning",
+                  "point-cloud"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2239,12 +3330,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2021 - Official] Rigid Subset Mix (RSMix): Regularization Strategy for Point Cloud via Rigidly Mixed Samples",
+                "homepage": null,
                 "id": 344724206,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-02-11T05:55:37Z",
+                "open_issues": 0,
                 "owner": "dogyoonlee",
                 "repo": "RSMix",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "3d",
+                  "3dpointcloud",
+                  "data-augmentation",
+                  "deep-learning",
+                  "modelnet40",
+                  "pointcloud",
+                  "regularization",
+                  "shape-classification"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2255,12 +3360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official repository of our ECCV 2022 paper, \"Point MixSwap: Attentional Point Cloud Mixing via Swapping Matched Structural Divisions\".",
+                "homepage": null,
                 "id": 512614570,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-26T07:47:33Z",
+                "open_issues": 1,
                 "owner": "ardianumam",
                 "repo": "PointMixSwap",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -2278,12 +3388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rethinking Data Augmentation for Image Super-resolution (CVPR 2020)",
+                "homepage": null,
                 "id": 251523093,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:58:37Z",
+                "open_issues": 11,
                 "owner": "clovaai",
                 "repo": "cutblur",
-                "stars": 389
+                "stars": 389,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2294,12 +3409,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ISMB 2025] DNABERT_S: Learning Species-Aware DNA Embedding with Genome Foundation Models",
+                "homepage": null,
                 "id": 757836528,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-01T02:35:14Z",
+                "open_issues": 5,
                 "owner": "MAGICS-LAB",
                 "repo": "DNABERT_S",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "dna",
+                  "dna-embedding",
+                  "embedding"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2310,12 +3434,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of paper: \"Inter-Instance Similarity Modeling for Contrastive Learning\"",
+                "homepage": null,
                 "id": 644772943,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T09:27:54Z",
+                "open_issues": 0,
                 "owner": "visresearch",
                 "repo": "patchmix",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "cifar",
+                  "contrastive-learning",
+                  "imagenet",
+                  "representation-learning",
+                  "self-supervised-learning",
+                  "transfer-learning",
+                  "unsupervised-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2326,12 +3464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"Representational Continuity  for Unsupervised Continual Learning\" (ICLR 22)",
+                "homepage": null,
                 "id": 461243224,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-26T05:35:40Z",
+                "open_issues": 5,
                 "owner": "divyam3897",
                 "repo": "UCL",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2342,12 +3485,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official MXNet implementation of \"Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning\" (CVPR 2020)",
+                "homepage": null,
                 "id": 245979744,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-10T12:48:56Z",
+                "open_issues": 0,
                 "owner": "clovaai",
                 "repo": "embedding-expansion",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "cars196",
+                  "cub200-2011",
+                  "cvpr2020",
+                  "deep-learning",
+                  "image-clustering",
+                  "image-retrieval",
+                  "metric-learning",
+                  "mxnet",
+                  "stanford-online-products",
+                  "synthesis"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2358,12 +3517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Recall@k Surrogate Loss with Large Batches and Similarity Mixup, CVPR 2022.",
+                "homepage": null,
                 "id": 406741847,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-04T03:06:05Z",
+                "open_issues": 3,
                 "owner": "yashvarpatel",
                 "repo": "RecallatK_surrogate",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2374,12 +3538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 778805333,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-12T04:53:24Z",
+                "open_issues": 4,
                 "owner": "dhryougit",
                 "repo": "AFM",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2390,12 +3559,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2022] Official implementation of \"It Takes Two to Tango: Mixup for Deep Metric Learning\".",
+                "homepage": null,
                 "id": 460316047,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-15T23:56:23Z",
+                "open_issues": 1,
                 "owner": "billpsomas",
                 "repo": "metrix",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "data-augmentation",
+                  "data-augmentation-strategies",
+                  "deep-learning",
+                  "deep-metric-learning",
+                  "deep-neural-networks",
+                  "fine-grained-classification",
+                  "image-retrieval",
+                  "machine-learning",
+                  "metric-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2406,12 +3591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 394164123,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-11-19T19:01:39Z",
+                "open_issues": 0,
                 "owner": "erichson",
                 "repo": "NFM",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             },
@@ -2422,12 +3612,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch Implementation of Guarding Barlow Twins Against Overfitting with Mixed Samples",
+                "homepage": "https://arxiv.org/abs/2312.02151",
                 "id": 724589834,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-19T20:23:06Z",
+                "open_issues": 1,
                 "owner": "wgcban",
                 "repo": "mix-bt",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "barlow-twins",
+                  "byol",
+                  "cifar-10",
+                  "cifar-100",
+                  "contrastive-learning",
+                  "imagenet",
+                  "knn-classification",
+                  "linear-probing",
+                  "mixup",
+                  "representation-learning",
+                  "self-supervised-learning",
+                  "simclr",
+                  "stl-10",
+                  "tiny-imagenet"
+                ]
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
             }
@@ -2449,12 +3659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 328101591,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-01-12T03:08:50Z",
+            "open_issues": 0,
             "owner": "yuhao318",
             "repo": "mwh",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2465,12 +3680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of the RegMixup paper",
+            "homepage": null,
             "id": 566876413,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-30T18:43:02Z",
+            "open_issues": 0,
             "owner": "FrancescoPinto",
             "repo": "RegMixup",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2481,12 +3701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 527209806,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-07T07:30:23Z",
+            "open_issues": 0,
             "owner": "naver-ai",
             "repo": "hmix-gmix",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2497,12 +3722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeurIPS Reproducbility Challenge 2019 ",
+            "homepage": null,
             "id": 230524508,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-02-25T16:19:04Z",
+            "open_issues": 0,
             "owner": "paganpasta",
             "repo": "OnMixup",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2513,12 +3743,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WACV 2023",
+            "homepage": null,
             "id": 535854964,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-28T22:53:10Z",
+            "open_issues": 1,
             "owner": "hchoi71",
             "repo": "MIX-KD",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2529,12 +3764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code associated with the paper \"Towards Understanding the Data Dependency of Mixup-style Training\".",
+            "homepage": null,
             "id": 410447343,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-02-19T22:17:15Z",
+            "open_issues": 0,
             "owner": "2014mchidamb",
             "repo": "Mixup-Data-Dependency",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         }
@@ -2551,12 +3791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Mix",
+            "homepage": null,
             "id": 485038764,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-12-23T09:58:32Z",
+            "open_issues": 1,
             "owner": "ChengtaiCao",
             "repo": "Awesome-Mix",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         }
@@ -2573,12 +3818,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+            "homepage": "https://openmixup.readthedocs.io",
             "id": 443031097,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-15T10:20:58Z",
+            "open_issues": 7,
             "owner": "Westlake-AI",
             "repo": "openmixup",
-            "stars": 658
+            "stars": 658,
+            "topics": [
+              "automix",
+              "awesome-list",
+              "awesome-mim",
+              "awesome-mixup",
+              "benchmark",
+              "contrastive-learning",
+              "data-augmentation",
+              "data-generation",
+              "deep-learning",
+              "image-classifcation",
+              "imagenet",
+              "machine-learning",
+              "masked-image-modeling",
+              "mixup",
+              "pytorch",
+              "self-supervised-learning",
+              "semi-supervised-learning",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         }
@@ -2595,12 +3864,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A MNIST-like fashion product database. Benchmark :point_down: ",
+            "homepage": "http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/",
             "id": 101399935,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-13T20:36:21Z",
+            "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12810
+            "stars": 12810,
+            "topics": [
+              "benchmark",
+              "computer-vision",
+              "convolutional-neural-networks",
+              "dataset",
+              "deep-learning",
+              "fashion",
+              "fashion-mnist",
+              "gan",
+              "machine-learning",
+              "mnist",
+              "zalando"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2611,12 +3897,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iNaturalist competition details",
+            "homepage": null,
             "id": 85874492,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-26T22:00:50Z",
+            "open_issues": 5,
             "owner": "visipedia",
             "repo": "inat_comp",
-            "stars": 810
+            "stars": 810,
+            "topics": [
+              "competition",
+              "computer-vision",
+              "dataset",
+              "inaturalist"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2627,12 +3923,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Corruption and Perturbation Robustness (ICLR 2019)",
+            "homepage": null,
             "id": 128312370,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-24T14:27:43Z",
+            "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1172
+            "stars": 1172,
+            "topics": [
+              "computer-vision",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "domain-generalization",
+              "imagenet",
+              "machine-learning",
+              "ml-safety",
+              "pytorch",
+              "robustness"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2643,12 +3954,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Corruption and Perturbation Robustness (ICLR 2019)",
+            "homepage": null,
             "id": 128312370,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-24T14:27:43Z",
+            "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1172
+            "stars": 1172,
+            "topics": [
+              "computer-vision",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "domain-generalization",
+              "imagenet",
+              "machine-learning",
+              "ml-safety",
+              "pytorch",
+              "robustness"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2659,12 +3985,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Corruption and Perturbation Robustness (ICLR 2019)",
+            "homepage": null,
             "id": 128312370,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-24T14:27:43Z",
+            "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1172
+            "stars": 1172,
+            "topics": [
+              "computer-vision",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "domain-generalization",
+              "imagenet",
+              "machine-learning",
+              "ml-safety",
+              "pytorch",
+              "robustness"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2675,12 +4016,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Harder ImageNet Test Set (CVPR 2021)",
+            "homepage": null,
             "id": 191111394,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-23T14:43:00Z",
+            "open_issues": 7,
             "owner": "hendrycks",
             "repo": "natural-adv-examples",
-            "stars": 621
+            "stars": 621,
+            "topics": [
+              "adversarial-attacks",
+              "adversarial-example",
+              "domain-generalization",
+              "imagenet",
+              "ml-safety",
+              "robustness"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2691,12 +4044,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dataset to assess the disentanglement properties of unsupervised learning methods",
+            "homepage": null,
             "id": 90755551,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-03T18:24:42Z",
+            "open_issues": 2,
             "owner": "google-deepmind",
             "repo": "dsprites-dataset",
-            "stars": 540
+            "stars": 540,
+            "topics": [
+              "beta-vae",
+              "dataset",
+              "disentanglement",
+              "dsprites",
+              "vae"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2707,12 +4071,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BCCD (Blood Cell Count and Detection) Dataset is a small-scale dataset for blood cells detection.",
+            "homepage": null,
             "id": 113445118,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-09-16T17:47:24Z",
+            "open_issues": 4,
             "owner": "Shenggan",
             "repo": "BCCD_Dataset",
-            "stars": 453
+            "stars": 453,
+            "topics": [
+              "cell-detection",
+              "dataset",
+              "detection",
+              "medical-imaging"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2723,12 +4097,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use BiLSTM_attention, BERT, ALBERT, RoBERTa, XLNet model to classify the SST-2 data set based on pytorch",
+            "homepage": null,
             "id": 313551401,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-12-09T19:40:00Z",
+            "open_issues": 2,
             "owner": "YJiangcm",
             "repo": "SST-2-sentiment-analysis",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "albert",
+              "bert",
+              "bilstm-attention",
+              "google-colab",
+              "pytorch",
+              "roberta",
+              "xlnet"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2739,12 +4126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepWalk - Deep Learning for Graphs",
+            "homepage": "http://www.perozzi.net/projects/deepwalk/",
             "id": 23246978,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-14T23:22:41Z",
+            "open_issues": 46,
             "owner": "phanein",
             "repo": "deepwalk",
-            "stars": 2759
+            "stars": 2759,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2755,12 +4147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 82130264,
             "language": null,
+            "license": null,
             "last_commit": "2017-04-09T18:19:32Z",
+            "open_issues": 6,
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
-            "stars": 894
+            "stars": 894,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2771,12 +4168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 82130264,
             "language": null,
+            "license": null,
             "last_commit": "2017-04-09T18:19:32Z",
+            "open_issues": 6,
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
-            "stars": 894
+            "stars": 894,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         }
@@ -2793,12 +4195,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of useful data augmentation resources. You will find here some not common techniques, libraries, links to GitHub repos, papers, and others.",
+            "homepage": null,
             "id": 211553569,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-14T11:47:54Z",
+            "open_issues": 2,
             "owner": "AgaMiko",
             "repo": "data-augmentation-review",
-            "stars": 1639
+            "stars": 1639,
+            "topics": [
+              "audio-augmentation",
+              "augmentation-policies",
+              "autoaugment",
+              "data-augmentation",
+              "data-augmentations",
+              "data-generation",
+              "data-synthesis",
+              "generative-adversarial-network",
+              "graph-data-augmentation",
+              "image-augmentation",
+              "machine-learning",
+              "nlp-augmentation",
+              "review",
+              "style-transfer",
+              "survey"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2809,12 +4232,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+            "homepage": "https://openmixup.readthedocs.io",
             "id": 443031097,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-15T10:20:58Z",
+            "open_issues": 7,
             "owner": "Westlake-AI",
             "repo": "openmixup",
-            "stars": 658
+            "stars": 658,
+            "topics": [
+              "automix",
+              "awesome-list",
+              "awesome-mim",
+              "awesome-mixup",
+              "benchmark",
+              "contrastive-learning",
+              "data-augmentation",
+              "data-generation",
+              "deep-learning",
+              "image-classifcation",
+              "imagenet",
+              "machine-learning",
+              "masked-image-modeling",
+              "mixup",
+              "pytorch",
+              "self-supervised-learning",
+              "semi-supervised-learning",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2825,12 +4272,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome things about mixed sample data augmentation",
+            "homepage": null,
             "id": 253244039,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-05-07T13:55:49Z",
+            "open_issues": 0,
             "owner": "JasonZhang156",
             "repo": "awesome-mixed-sample-data-augmentation",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "data-augmentation",
+              "mixed-sample"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2841,12 +4296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Mix",
+            "homepage": null,
             "id": 485038764,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-12-23T09:58:32Z",
+            "open_issues": 1,
             "owner": "ChengtaiCao",
             "repo": "Awesome-Mix",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2857,12 +4317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 592895272,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-29T07:15:51Z",
+            "open_issues": 1,
             "owner": "humza909",
             "repo": "Survery-Image-Mixing-and-Deleting-for-Data-Augmentation",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         },
@@ -2873,12 +4338,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A paper list about mixup.",
+            "homepage": null,
             "id": 533826229,
             "language": null,
+            "license": null,
             "last_commit": "2022-10-04T03:06:07Z",
+            "open_issues": 0,
             "owner": "demoleiwang",
             "repo": "awesome-mixup",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "awesome-mixup",
+              "mixup",
+              "papers"
+            ]
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
         }
@@ -2887,15 +4361,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:28:29.002Z",
+    "last_updated": "2026-08-29T04:55:23.463Z",
     "original_repository_info": {
       "archived": false,
+      "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
+      "homepage": "https://arxiv.org/abs/2409.05202",
       "id": 539144756,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2024-10-14T09:18:22Z",
+      "open_issues": 0,
       "owner": "Westlake-AI",
       "repo": "Awesome-Mixup",
-      "stars": 169
+      "stars": 169,
+      "topics": [
+        "awesome-list",
+        "awesome-mixup",
+        "computer-vision",
+        "data-augmentation",
+        "deep-learning",
+        "graph",
+        "image-classification",
+        "mixup",
+        "natural-language-processing",
+        "self-supervised-learning"
+      ]
     },
     "original_repository_sha": "5f1504e73e8b3d7f998a359ffeeedfe18d692fbd",
     "enhanced_repository": "enhansome/enhansome-Awesome-Mixup",
