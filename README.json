@@ -20,7 +20,8 @@
                     "owner": "facebookresearch",
                     "repo": "mixup-cifar10",
                     "stars": 1197
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "google-research",
                     "repo": "augmix",
                     "stars": 990
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "andyzoujm",
                     "repo": "pixmix",
                     "stars": 110
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "mil-tokyo",
                     "repo": "bc_learning_image",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "hzlsaber",
                     "repo": "IPMix",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 }
               ],
               "description": null,
@@ -102,7 +107,8 @@
                     "owner": "vikasverma1077",
                     "repo": "manifold_mixup",
                     "stars": 493
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -117,7 +123,8 @@
                     "owner": "Boyiliee",
                     "repo": "MoEx",
                     "stars": 140
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "chandar-lab",
                     "repo": "PatchUp",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 }
               ],
               "description": null,
@@ -154,7 +162,8 @@
                     "owner": "clovaai",
                     "repo": "CutMix-PyTorch",
                     "stars": 1251
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -169,7 +178,8 @@
                     "owner": "Westlake-AI",
                     "repo": "openmixup",
                     "stars": 658
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -184,7 +194,8 @@
                     "owner": "Westlake-AI",
                     "repo": "openmixup",
                     "stars": 658
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -199,7 +210,8 @@
                     "owner": "ecs-vlc",
                     "repo": "FMix",
                     "stars": 339
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -214,7 +226,8 @@
                     "owner": "JunlinHan",
                     "repo": "YOCO",
                     "stars": 106
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -229,7 +242,8 @@
                     "owner": "IlyaDobrynin",
                     "repo": "GridMixup",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -244,7 +258,8 @@
                     "owner": "naver-ai",
                     "repo": "hmix-gmix",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -259,7 +274,8 @@
                     "owner": "ceciliaresearch",
                     "repo": "MixedExample",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -274,7 +290,8 @@
                     "owner": "hammoudiproject",
                     "repo": "SuperpixelGridMasks",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 }
               ],
               "description": null,
@@ -296,7 +313,8 @@
                     "owner": "yjyoo3312",
                     "repo": "DCutMix-PyTorch",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 }
               ],
               "description": null,
@@ -318,7 +336,8 @@
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
                     "stars": 334
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -333,7 +352,8 @@
                     "owner": "shashankvkt",
                     "repo": "AlignMixup_CVPR22",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -348,7 +368,8 @@
                     "owner": "alsdml",
                     "repo": "StyleMix",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 }
               ],
               "description": null,
@@ -370,7 +391,8 @@
                     "owner": "google-research",
                     "repo": "augmix",
                     "stars": 990
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -385,7 +407,8 @@
                     "owner": "Westlake-AI",
                     "repo": "openmixup",
                     "stars": 658
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -400,7 +423,8 @@
                     "owner": "Westlake-AI",
                     "repo": "openmixup",
                     "stars": 658
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -415,7 +439,8 @@
                     "owner": "snu-mllab",
                     "repo": "PuzzleMix",
                     "stars": 156
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -430,7 +455,8 @@
                     "owner": "Shaoli-Huang",
                     "repo": "SnapMix",
                     "stars": 129
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -445,7 +471,8 @@
                     "owner": "snu-mllab",
                     "repo": "Co-Mixup",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -460,7 +487,8 @@
                     "owner": "alldbi",
                     "repo": "SuperMix",
                     "stars": 92
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -475,7 +503,8 @@
                     "owner": "JinXins",
                     "repo": "Adversarial-AutoMixup",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -490,7 +519,8 @@
                     "owner": "afm-shahab-uddin",
                     "repo": "SaliencyMix",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -505,7 +535,8 @@
                     "owner": "3neutronstar",
                     "repo": "GuidedMixup",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -520,7 +551,8 @@
                     "owner": "xden2331",
                     "repo": "attentive_cutmix",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -535,7 +567,8 @@
                     "owner": "DanielaPlusPlus",
                     "repo": "LGCOAMix",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 }
               ],
               "description": null,
@@ -557,7 +590,8 @@
                     "owner": "Sense-X",
                     "repo": "TokenMix",
                     "stars": 96
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -572,7 +606,8 @@
                     "owner": "mlvlab",
                     "repo": "TokenMixup",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -587,7 +622,8 @@
                     "owner": "fistyee",
                     "repo": "MixPro",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -602,7 +638,8 @@
                     "owner": "ChenMnZ",
                     "repo": "SMMix",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 }
               ],
               "description": null,
@@ -624,7 +661,8 @@
                     "owner": "khawar-islam",
                     "repo": "diffuseMix",
                     "stars": 137
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
@@ -639,7 +677,8 @@
                     "owner": "christopher-beckham",
                     "repo": "amr",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
                 }
               ],
               "description": null,
@@ -666,7 +705,8 @@
                 "owner": "google",
                 "repo": "edward2",
                 "stars": 712
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -681,7 +721,8 @@
                 "owner": "jh-jeong",
                 "repo": "smoothmix",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -703,7 +744,8 @@
                 "owner": "Beckschen",
                 "repo": "TransMix",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -725,7 +767,8 @@
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
                 "stars": 658
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -740,7 +783,8 @@
                 "owner": "jensen888",
                 "repo": "MixupE",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -762,7 +806,8 @@
                 "owner": "yuhao318",
                 "repo": "mwh",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -777,7 +822,8 @@
                 "owner": "FrancescoPinto",
                 "repo": "RegMixup",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -799,7 +845,8 @@
                 "owner": "FrancescoPinto",
                 "repo": "RegMixup",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -814,7 +861,8 @@
                 "owner": "JinXins",
                 "repo": "SUMix",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -829,7 +877,8 @@
                 "owner": "kevin-ssy",
                 "repo": "LUMix",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -851,7 +900,8 @@
                 "owner": "zihangJiang",
                 "repo": "TokenLabeling",
                 "stars": 436
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -866,7 +916,8 @@
                 "owner": "Sense-X",
                 "repo": "TokenMix",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -881,7 +932,8 @@
                 "owner": "mlvlab",
                 "repo": "TokenMixup",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -896,7 +948,8 @@
                 "owner": "Euphoria16",
                 "repo": "TL-Align",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -911,7 +964,8 @@
                 "owner": "fistyee",
                 "repo": "MixPro",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -933,7 +987,8 @@
                 "owner": "Shaoli-Huang",
                 "repo": "SnapMix",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -961,7 +1016,8 @@
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
                 "stars": 658
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -976,7 +1032,8 @@
                 "owner": "szq0214",
                 "repo": "Un-Mix",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -991,7 +1048,8 @@
                 "owner": "facebookresearch",
                 "repo": "asym-siam",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1006,7 +1064,8 @@
                 "owner": "DTennant",
                 "repo": "CL-Visualizing-Feature-Transformation",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1021,7 +1080,8 @@
                 "owner": "kibok90",
                 "repo": "imix",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1036,7 +1096,8 @@
                 "owner": "Lee-Gihun",
                 "repo": "MixCo-Mixup-Contrast",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1051,7 +1112,8 @@
                 "owner": "junxia97",
                 "repo": "ProGCL",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1066,7 +1128,8 @@
                 "owner": "changdaeoh",
                 "repo": "multimodal-mixup",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1081,7 +1144,8 @@
                 "owner": "YifanZhang07",
                 "repo": "Core-tuning",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1096,7 +1160,8 @@
                 "owner": "OliverRensu",
                 "repo": "SDMP",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1111,7 +1176,8 @@
                 "owner": "JunlinHan",
                 "repo": "CropMix",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1126,7 +1192,8 @@
                 "owner": "Sherrylone",
                 "repo": "M-Mix",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -1148,7 +1215,8 @@
                 "owner": "Sense-X",
                 "repo": "MixMIM",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1163,7 +1231,8 @@
                 "owner": "VILA-Lab",
                 "repo": "i-mae",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -1185,7 +1254,8 @@
                 "owner": "google-research",
                 "repo": "mixmatch",
                 "stars": 1139
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1200,7 +1270,8 @@
                 "owner": "LiJunnan1992",
                 "repo": "DivideMix",
                 "stars": 577
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1215,7 +1286,8 @@
                 "owner": "google-research",
                 "repo": "remixmatch",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1229,8 +1301,9 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38634
-              }
+                "stars": 38642
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1245,7 +1318,8 @@
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
                 "stars": 658
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1260,7 +1334,8 @@
                 "owner": "worldbench",
                 "repo": "LaserMix",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1275,7 +1350,8 @@
                 "owner": "JongMokKim",
                 "repo": "mix-unmix",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1290,7 +1366,8 @@
                 "owner": "Fahim-F",
                 "repo": "ManifoldDivideMix",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1305,7 +1382,8 @@
                 "owner": "torpedo2003",
                 "repo": "PCLMix",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -1333,7 +1411,8 @@
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
                 "stars": 527
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1348,7 +1427,8 @@
                 "owner": "kaiwenzha",
                 "repo": "Rank-N-Contrast",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1363,7 +1443,8 @@
                 "owner": "huaxiuyao",
                 "repo": "C-Mixup",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1378,7 +1459,8 @@
                 "owner": "yilei-wu",
                 "repo": "SupReMix",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -1400,7 +1482,8 @@
                 "owner": "XuZhengzhuo",
                 "repo": "Prior-LT",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -1422,7 +1505,8 @@
                 "owner": "worldbench",
                 "repo": "LaserMix",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1437,7 +1521,8 @@
                 "owner": "BWGZK",
                 "repo": "CycleMix",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1452,7 +1537,8 @@
                 "owner": "WilhelmT",
                 "repo": "ClassMix",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1467,7 +1553,8 @@
                 "owner": "MQinghe",
                 "repo": "MiDSS",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1482,7 +1569,8 @@
                 "owner": "hust-linyi",
                 "repo": "insmix",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1497,7 +1585,8 @@
                 "owner": "xdu-jjgs",
                 "repo": "SA-MixNet-for-Scribble-based-Road-Extraction",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -1519,7 +1608,8 @@
                 "owner": "Atten4Vis",
                 "repo": "MS-DETR",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1534,7 +1624,8 @@
                 "owner": "Czm369",
                 "repo": "MixPL",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1549,7 +1640,8 @@
                 "owner": "JongMokKim",
                 "repo": "mix-unmix",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -1577,7 +1669,8 @@
                 "owner": "ihooni",
                 "repo": "XOR-Mixup",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1592,7 +1685,8 @@
                 "owner": "DevPranjal",
                 "repo": "fedmix",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -1614,7 +1708,8 @@
                 "owner": "P2333",
                 "repo": "Mixup-Inference",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1629,7 +1724,8 @@
                 "owner": "Saehyung-Lee",
                 "repo": "cifar10_challenge",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1644,7 +1740,8 @@
                 "owner": "mixupAsDirectionalAdversarial",
                 "repo": "mixup_as_dat",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -1666,7 +1763,8 @@
                 "owner": "ChrisAllenMing",
                 "repo": "Mixup_for_UDA",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1681,7 +1779,8 @@
                 "owner": "CVIR",
                 "repo": "CoMix",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1696,7 +1795,8 @@
                 "owner": "xudonmao",
                 "repo": "VMT",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1711,7 +1811,8 @@
                 "owner": "YuanWu3",
                 "repo": "Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1726,7 +1827,8 @@
                 "owner": "RPIDIAL",
                 "repo": "SAMix",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1741,7 +1843,8 @@
                 "owner": "CVIR",
                 "repo": "SLM",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -1763,7 +1866,8 @@
                 "owner": "amazon-science",
                 "repo": "mix-generation",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1778,7 +1882,8 @@
                 "owner": "Zhicaiwww",
                 "repo": "Diff-Mix",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1793,7 +1898,8 @@
                 "owner": "changdaeoh",
                 "repo": "multimodal-mixup",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1808,7 +1914,8 @@
                 "owner": "hekj",
                 "repo": "FDA",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -1836,7 +1943,8 @@
                 "owner": "dsfsi",
                 "repo": "textaugment",
                 "stars": 443
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1851,7 +1959,8 @@
                 "owner": "SALT-NLP",
                 "repo": "MixText",
                 "stars": 354
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1866,7 +1975,8 @@
                 "owner": "rz-zhang",
                 "repo": "SeqMix",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1881,7 +1991,8 @@
                 "owner": "SALT-NLP",
                 "repo": "LADA",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1896,7 +2007,8 @@
                 "owner": "Lingkai-Kong",
                 "repo": "Calibrated-BERT-Fine-Tuning",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1911,7 +2023,8 @@
                 "owner": "ictnlp",
                 "repo": "STEMM",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1926,7 +2039,8 @@
                 "owner": "dguo98",
                 "repo": "SeqMix",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1941,7 +2055,8 @@
                 "owner": "dguo98",
                 "repo": "SeqMix",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1956,7 +2071,8 @@
                 "owner": "yhy1117",
                 "repo": "X-Mixup",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -1971,7 +2087,8 @@
                 "owner": "lezhang7",
                 "repo": "TreeMix",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -1993,7 +2110,8 @@
                 "owner": "vikasverma1077",
                 "repo": "GraphMix",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2008,7 +2126,8 @@
                 "owner": "vanoracai",
                 "repo": "MixupForGraph",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2023,7 +2142,8 @@
                 "owner": "shimazing",
                 "repo": "Graph-Transplant",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2038,7 +2158,8 @@
                 "owner": "LirongWu",
                 "repo": "GraphMixup",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2053,7 +2174,8 @@
                 "owner": "ArthurLeoM",
                 "repo": "FGWMixup",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -2075,7 +2197,8 @@
                 "owner": "yunlu-chen",
                 "repo": "PointMixup",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2090,7 +2213,8 @@
                 "owner": "sky77764",
                 "repo": "pa-aug.pytorch",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2105,7 +2229,8 @@
                 "owner": "cuge1995",
                 "repo": "PointCutMix",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2120,7 +2245,8 @@
                 "owner": "dogyoonlee",
                 "repo": "RSMix",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2135,7 +2261,8 @@
                 "owner": "ardianumam",
                 "repo": "PointMixSwap",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -2157,7 +2284,8 @@
                 "owner": "clovaai",
                 "repo": "cutblur",
                 "stars": 389
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2172,7 +2300,8 @@
                 "owner": "MAGICS-LAB",
                 "repo": "DNABERT_S",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2187,7 +2316,8 @@
                 "owner": "visresearch",
                 "repo": "patchmix",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2202,7 +2332,8 @@
                 "owner": "divyam3897",
                 "repo": "UCL",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2217,7 +2348,8 @@
                 "owner": "clovaai",
                 "repo": "embedding-expansion",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2232,7 +2364,8 @@
                 "owner": "yashvarpatel",
                 "repo": "RecallatK_surrogate",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2247,7 +2380,8 @@
                 "owner": "dhryougit",
                 "repo": "AFM",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2262,7 +2396,8 @@
                 "owner": "billpsomas",
                 "repo": "metrix",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2277,7 +2412,8 @@
                 "owner": "erichson",
                 "repo": "NFM",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             },
             {
               "node_type": "item",
@@ -2292,7 +2428,8 @@
                 "owner": "wgcban",
                 "repo": "mix-bt",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T02:28:29.002Z"
             }
           ],
           "description": null,
@@ -2318,7 +2455,8 @@
             "owner": "yuhao318",
             "repo": "mwh",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2333,7 +2471,8 @@
             "owner": "FrancescoPinto",
             "repo": "RegMixup",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2348,7 +2487,8 @@
             "owner": "naver-ai",
             "repo": "hmix-gmix",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2363,7 +2503,8 @@
             "owner": "paganpasta",
             "repo": "OnMixup",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2378,7 +2519,8 @@
             "owner": "hchoi71",
             "repo": "MIX-KD",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2393,7 +2535,8 @@
             "owner": "2014mchidamb",
             "repo": "Mixup-Data-Dependency",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         }
       ],
       "title": "Analysis and Theorem"
@@ -2414,7 +2557,8 @@
             "owner": "ChengtaiCao",
             "repo": "Awesome-Mix",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         }
       ],
       "title": "Survey"
@@ -2435,7 +2579,8 @@
             "owner": "Westlake-AI",
             "repo": "openmixup",
             "stars": 658
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         }
       ],
       "title": "Benchmark"
@@ -2456,7 +2601,8 @@
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
             "stars": 12810
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2471,7 +2617,8 @@
             "owner": "visipedia",
             "repo": "inat_comp",
             "stars": 810
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2486,7 +2633,8 @@
             "owner": "hendrycks",
             "repo": "robustness",
             "stars": 1172
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2501,7 +2649,8 @@
             "owner": "hendrycks",
             "repo": "robustness",
             "stars": 1172
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2516,7 +2665,8 @@
             "owner": "hendrycks",
             "repo": "robustness",
             "stars": 1172
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2531,7 +2681,8 @@
             "owner": "hendrycks",
             "repo": "natural-adv-examples",
             "stars": 621
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2546,7 +2697,8 @@
             "owner": "google-deepmind",
             "repo": "dsprites-dataset",
             "stars": 540
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2561,7 +2713,8 @@
             "owner": "Shenggan",
             "repo": "BCCD_Dataset",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2576,7 +2729,8 @@
             "owner": "YJiangcm",
             "repo": "SST-2-sentiment-analysis",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2591,7 +2745,8 @@
             "owner": "phanein",
             "repo": "deepwalk",
             "stars": 2759
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2606,7 +2761,8 @@
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
             "stars": 894
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2621,7 +2777,8 @@
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
             "stars": 894
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         }
       ],
       "title": "Related Datasets Link"
@@ -2642,7 +2799,8 @@
             "owner": "AgaMiko",
             "repo": "data-augmentation-review",
             "stars": 1639
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2657,7 +2815,8 @@
             "owner": "Westlake-AI",
             "repo": "openmixup",
             "stars": 658
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2672,7 +2831,8 @@
             "owner": "JasonZhang156",
             "repo": "awesome-mixed-sample-data-augmentation",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2687,7 +2847,8 @@
             "owner": "ChengtaiCao",
             "repo": "Awesome-Mix",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2702,7 +2863,8 @@
             "owner": "humza909",
             "repo": "Survery-Image-Mixing-and-Deleting-for-Data-Augmentation",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         },
         {
           "node_type": "item",
@@ -2717,14 +2879,15 @@
             "owner": "demoleiwang",
             "repo": "awesome-mixup",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:28:29.002Z"
         }
       ],
       "title": "Related Project"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:52:10.911Z",
+    "last_updated": "2026-08-29T02:28:29.002Z",
     "original_repository_info": {
       "archived": false,
       "id": 539144756,
