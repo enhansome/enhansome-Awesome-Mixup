@@ -1986,7 +1986,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38650,
+                "stars": 38655,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12810,
+            "stars": 12808,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -3932,7 +3932,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1172,
+            "stars": 1173,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3963,7 +3963,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1172,
+            "stars": 1173,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3994,7 +3994,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1172,
+            "stars": 1173,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:01:44.445Z",
+    "last_updated": "2026-08-30T22:08:05.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
@@ -4373,7 +4373,7 @@
       "open_issues": 0,
       "owner": "Westlake-AI",
       "repo": "Awesome-Mixup",
-      "stars": 169,
+      "stars": 168,
       "topics": [
         "awesome-list",
         "awesome-mixup",
