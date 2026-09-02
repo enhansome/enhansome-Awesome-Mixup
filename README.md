@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,672 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,681 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-09-02]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1657,7 +1657,7 @@ class="center">
 * **Enhance image classification via inter-class image mixup with diffusion model**<br>
   *Efthymios Georgiou, Yannis Avrithis, Alexandros Potamianos*<br>
   CVPR'2024 \[[Paper](https://arxiv.org/abs/2403.19600)]
-  \[[Code](https://github.com/Zhicaiwww/Diff-Mix) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2024-09-13]
+  \[[Code](https://github.com/Zhicaiwww/Diff-Mix) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2024-09-13]
 
 * **Geodesic Multi-Modal Mixup for Robust Fine-Tuning**<br>
   *Changdae Oh, Junhyuk So, Hoyoon Byun, YongTaek Lim, Minchul Shin, Jong-June Jeon, Kyungwoo Song*<br>
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,808 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,809 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2185,8 +2185,8 @@ class="center">
 |    Kinetics400    |      Video      |     400    |        Action Recognition        |      260,000      |                                        [Kinetics400](https://deepmind.google/)                                        |
 |      Airfoil      |     Tabular     |      -     |            Regression            |       1,503       |                         [Airfoil](https://archive.ics.uci.edu/dataset/291/airfoil+self+noise)                         |
 |        NO2        |     Tabular     |      -     |            Regression            |        500        |                    [NO2](https://drive.google.com/drive/folders/1pTRT7fA-hq6p1F7ZX5oJ0tg_I1RRG6OW)                    |
-|   Exchange-Rate   |    Timeseries   |      -     |            Regression            |       7,409       |       [Exchange-Rate](https://github.com/laiguokun/multivariate-time-series-data) ⭐ 895 \| 🐛 6 \| 📅 2017-04-09      |
-|    Electricity    |    Timeseries   |      -     |            Regression            |       26,113      |        [Electricity](https://github.com/laiguokun/multivariate-time-series-data) ⭐ 895 \| 🐛 6 \| 📅 2017-04-09       |
+|   Exchange-Rate   |    Timeseries   |      -     |            Regression            |       7,409       |       [Exchange-Rate](https://github.com/laiguokun/multivariate-time-series-data) ⭐ 894 \| 🐛 6 \| 📅 2017-04-09      |
+|    Electricity    |    Timeseries   |      -     |            Regression            |       26,113      |        [Electricity](https://github.com/laiguokun/multivariate-time-series-data) ⭐ 894 \| 🐛 6 \| 📅 2017-04-09       |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,400 | 🐛 1 | 📅 2026-08-20 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,405 | 🐛 1 | 📅 2026-08-20 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

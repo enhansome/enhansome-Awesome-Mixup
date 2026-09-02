@@ -1982,11 +1982,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T14:53:17Z",
+                "last_commit": "2026-09-02T20:51:54Z",
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38672,
+                "stars": 38681,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2797,7 +2797,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-09-13T05:55:52Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Zhicaiwww",
                 "repo": "Diff-Mix",
                 "stars": 45,
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12808,
+            "stars": 12809,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4156,7 +4156,7 @@
             "open_issues": 6,
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
-            "stars": 895,
+            "stars": 894,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4177,7 +4177,7 @@
             "open_issues": 6,
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
-            "stars": 895,
+            "stars": 894,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:06:38.440Z",
+    "last_updated": "2026-09-02T22:01:02.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
