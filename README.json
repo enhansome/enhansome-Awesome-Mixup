@@ -218,7 +218,7 @@
                     "open_issues": 6,
                     "owner": "clovaai",
                     "repo": "CutMix-PyTorch",
-                    "stars": 1251,
+                    "stars": 1250,
                     "topics": [
                       "augmentation",
                       "cutmix",
@@ -1982,11 +1982,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T20:51:54Z",
+                "last_commit": "2026-09-03T08:28:07Z",
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38681,
+                "stars": 38689,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3418,7 +3418,7 @@
                 "open_issues": 5,
                 "owner": "MAGICS-LAB",
                 "repo": "DNABERT_S",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "dna",
                   "dna-embedding",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12809,
+            "stars": 12808,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -3932,7 +3932,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1173,
+            "stars": 1172,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3963,7 +3963,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1173,
+            "stars": 1172,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3994,7 +3994,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1173,
+            "stars": 1172,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:01:02.051Z",
+    "last_updated": "2026-09-03T21:55:16.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
