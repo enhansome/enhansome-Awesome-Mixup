@@ -17,7 +17,7 @@ If this repository has been helpful to you, please consider giving it a ⭐️ t
 
 **We summarize awesome mixup data augmentation methods for visual representation learning in various scenarios from 2018 to 2024.**
 
-The list of awesome mixup augmentation methods is summarized in chronological order and is on updating. The main branch is modified according to [Awesome-Mixup](https://github.com/Westlake-AI/openmixup/docs/en/awesome_mixups) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 in [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 and [Awesome-Mix](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 73 | 🐛 1 | 📅 2022-12-23, and we are working on a comperhensive survey on mixup augmentations. You can read our survey: [**A Survey on Mixup Augmentations and Beyond**](https://arxiv.org/abs/2409.05202) see more detailed information.
+The list of awesome mixup augmentation methods is summarized in chronological order and is on updating. The main branch is modified according to [Awesome-Mixup](https://github.com/Westlake-AI/openmixup/docs/en/awesome_mixups) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 in [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 and [Awesome-Mix](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 74 | 🐛 1 | 📅 2022-12-23, and we are working on a comperhensive survey on mixup augmentations. You can read our survey: [**A Survey on Mixup Augmentations and Beyond**](https://arxiv.org/abs/2409.05202) see more detailed information.
 
 * To find related papers and their relationships, check out [Connected Papers](https://www.connectedpapers.com/), which visualizes the academic field in a graph representation.
 * To export BibTeX citations of papers, check out [ArXiv](https://arxiv.org/) or [Semantic Scholar](https://www.semanticscholar.org/) of the paper for professional reference formats.
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,689 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-09-03]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,691 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-09-03]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1494,7 +1494,7 @@ class="center">
 * **Mixed Pseudo Labels for Semi-Supervised Object Detection**<br>
   *Zeming Chen, Wenwei Zhang, Xinjiang Wang, Kai Chen, Zhi Wang*<br>
   arXiv'2023 \[[Paper](https://arxiv.org/abs/2312.07006)]
-  \[[Code](https://github.com/czm369/mixpl) ⭐ 71 | 🐛 17 | 🌐 Python | 📅 2024-03-07]
+  \[[Code](https://github.com/czm369/mixpl) ⭐ 70 | 🐛 17 | 🌐 Python | 📅 2024-03-07]
    <details close>
    <summary>MixPL Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/Westlake-AI/Awesome-Mixup/assets/44519745/c1ac594f-18bb-465b-b0e7-e96249231e2c" /></p>
@@ -2034,7 +2034,7 @@ class="center">
 * **A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability**<br>
   *Chengtai Cao, Fan Zhou, Yurou Dai, Jianping Wang*<br>
   arXiv'2022 \[[Paper](https://arxiv.org/abs/2212.10888)]
-  \[[Code](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 73 | 🐛 1 | 📅 2022-12-23]
+  \[[Code](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 74 | 🐛 1 | 📅 2022-12-23]
 
 * **A survey on Image Data Augmentation for Deep Learning**<br>
   *Connor Shorten and Taghi Khoshgoftaar*<br>
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,808 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,810 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2227,18 +2227,18 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,407 | 🐛 1 | 📅 2026-08-20 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,412 | 🐛 1 | 📅 2026-08-20 repository.
 
 ## Related Project
 
 * [data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) ⭐ 1,639 | 🐛 2 | 📅 2024-08-14: List of useful data augmentation resources.
 * [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15: CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark.
 * [awesome-mixed-sample-data-augmentation](https://github.com/JasonZhang156/awesome-mixed-sample-data-augmentation) ⭐ 130 | 🐛 0 | 📅 2020-05-07: A collection of awesome things about mixed sample data augmentation.
-* [Awesome-Mix](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 73 | 🐛 1 | 📅 2022-12-23: An awesome list of papers for `A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability, we categorize them based on our proposed taxonomy`.
+* [Awesome-Mix](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 74 | 🐛 1 | 📅 2022-12-23: An awesome list of papers for `A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability, we categorize them based on our proposed taxonomy`.
 * [survery-image-mixing-and-deleting-for-data-augmentation](https://github.com/humza909/survery-image-mixing-and-deleting-for-data-augmentation) ⭐ 9 | 🐛 1 | 📅 2023-03-29: An awesome list of papers for `Survey: Image Mixing and Deleting for Data Augmentation`.
 * [awesome-mixup](https://github.com/demoleiwang/awesome-mixup) ⭐ 4 | 🐛 0 | 📅 2022-10-04: A collection of awesome papers about mixup.
 * [Awesome-Mixup](https://arxiv.org/abs/2409.05202): An awesome list of papers for `A Survey on Mixup Augmentations and Beyond`.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

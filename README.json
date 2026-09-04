@@ -1986,7 +1986,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38689,
+                "stars": 38691,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2461,7 +2461,7 @@
                 "open_issues": 17,
                 "owner": "Czm369",
                 "repo": "MixPL",
-                "stars": 71,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -3800,7 +3800,7 @@
             "open_issues": 1,
             "owner": "ChengtaiCao",
             "repo": "Awesome-Mix",
-            "stars": 73,
+            "stars": 74,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12808,
+            "stars": 12810,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4305,7 +4305,7 @@
             "open_issues": 1,
             "owner": "ChengtaiCao",
             "repo": "Awesome-Mix",
-            "stars": 73,
+            "stars": 74,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:55:16.620Z",
+    "last_updated": "2026-09-04T21:52:04.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
@@ -4373,7 +4373,7 @@
       "open_issues": 0,
       "owner": "Westlake-AI",
       "repo": "Awesome-Mixup",
-      "stars": 168,
+      "stars": 169,
       "topics": [
         "awesome-list",
         "awesome-mixup",
