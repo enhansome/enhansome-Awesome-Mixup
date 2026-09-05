@@ -218,7 +218,7 @@
                     "open_issues": 6,
                     "owner": "clovaai",
                     "repo": "CutMix-PyTorch",
-                    "stars": 1250,
+                    "stars": 1251,
                     "topics": [
                       "augmentation",
                       "cutmix",
@@ -1983,10 +1983,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T08:28:07Z",
-                "open_issues": 1989,
+                "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38691,
+                "stars": 38693,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12810,
+            "stars": 12813,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4053,7 +4053,7 @@
             "open_issues": 2,
             "owner": "google-deepmind",
             "repo": "dsprites-dataset",
-            "stars": 540,
+            "stars": 541,
             "topics": [
               "beta-vae",
               "dataset",
@@ -4080,7 +4080,7 @@
             "open_issues": 4,
             "owner": "Shenggan",
             "repo": "BCCD_Dataset",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "cell-detection",
               "dataset",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:52:04.373Z",
+    "last_updated": "2026-09-05T21:43:59.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
