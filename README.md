@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,693 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-03]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,697 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-03]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1407,7 +1407,7 @@ class="center">
 * **CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision**<br>
   *Ke Zhang, Xiahai Zhuang*<br>
   CVPR'2022 \[[Paper](https://arxiv.org/abs/2203.01475)]
-  \[[Code](https://github.com/BWGZK/CycleMix) ⭐ 100 | 🐛 8 | 🌐 Python | 📅 2022-06-05]
+  \[[Code](https://github.com/BWGZK/CycleMix) ⭐ 99 | 🐛 8 | 🌐 Python | 📅 2022-06-05]
    <details close>
    <summary>CyclesMix Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/21ee4b1f-255b-4888-a2ec-fb46b7e69122" /></p>
@@ -1963,7 +1963,7 @@ class="center">
 * **On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks**<br>
   *Sunil Thulasidasan, Gopinath Chennupati, Jeff Bilmes, Tanmoy Bhattacharya, Sarah Michalak*<br>
   NIPS'2019 \[[Paper](https://arxiv.org/abs/1905.11001)]
-  \[[Code](https://github.com/paganpasta/onmixup) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-02-25]
+  \[[Code](https://github.com/paganpasta/onmixup) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-02-25]
 
 * **Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study**<br>
   *Hongjun Choi, Eun Som Jeon, Ankita Shukla, Pavan Turaga*<br>
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,413 | 🐛 1 | 📅 2026-08-20 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,417 | 🐛 1 | 📅 2026-08-20 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
