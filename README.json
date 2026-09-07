@@ -44,7 +44,7 @@
                     "open_issues": 7,
                     "owner": "google-research",
                     "repo": "augmix",
-                    "stars": 991,
+                    "stars": 990,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -325,7 +325,7 @@
                     "open_issues": 5,
                     "owner": "ecs-vlc",
                     "repo": "FMix",
-                    "stars": 339,
+                    "stars": 338,
                     "topics": [
                       "augmentation",
                       "pytorch",
@@ -611,7 +611,7 @@
                     "open_issues": 7,
                     "owner": "google-research",
                     "repo": "augmix",
-                    "stars": 991,
+                    "stars": 990,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1982,11 +1982,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T08:28:07Z",
+                "last_commit": "2026-09-07T16:12:34Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38697,
+                "stars": 38708,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12813,
+            "stars": 12815,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T21:46:07.517Z",
+    "last_updated": "2026-09-07T22:17:39.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
