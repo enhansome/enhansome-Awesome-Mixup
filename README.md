@@ -147,7 +147,7 @@ class="center">
 * **AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty**<br>
   *Dan Hendrycks, Norman Mu, Ekin D. Cubuk, Barret Zoph, Justin Gilmer, Balaji Lakshminarayanan*<br>
   ICLR'2020 \[[Paper](https://arxiv.org/abs/1912.02781)]
-  \[[Code](https://github.com/google-research/augmix) ⭐ 990 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
+  \[[Code](https://github.com/google-research/augmix) ⭐ 989 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
    <details close>
    <summary>AugMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204567137-f71b0437-9267-4f99-b7dc-911ffa4f8b73.png" /></p>
@@ -221,7 +221,7 @@ class="center">
 * **PatchUp: A Regularization Technique for Convolutional Neural Networks**<br>
   *Mojtaba Faramarzi, Mohammad Amini, Akilesh Badrinaaraayanan, Vikas Verma, Sarath Chandar*<br>
   arXiv'2020 \[[Paper](https://arxiv.org/abs/2006.07794)]
-  \[[Code](https://github.com/chandar-lab/PatchUp) ⭐ 39 | 🐛 5 | 🌐 Python | 📅 2022-12-08]
+  \[[Code](https://github.com/chandar-lab/PatchUp) ⭐ 38 | 🐛 5 | 🌐 Python | 📅 2022-12-08]
    <details close>
    <summary>PatchUp Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204566319-f2c67e8a-c10b-4ede-a57f-8c6ddf85e013.png" /></p>
@@ -466,7 +466,7 @@ class="center">
 * **Where to Cut and Paste: Data Regularization with Selective Features**<br>
   *Jiyeon Kim, Ik-Hee Shin, Jong-Ryul, Lee, Yong-Ju Lee*<br>
   ICTC'2020 \[[Paper](https://ieeexplore.ieee.org/abstract/document/9289404)]
-  \[[Code](https://github.com/google-research/augmix) ⭐ 990 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
+  \[[Code](https://github.com/google-research/augmix) ⭐ 989 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
    <details close>
    <summary>FocusMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204567137-f71b0437-9267-4f99-b7dc-911ffa4f8b73.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,708 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-07]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,713 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-08]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1297,7 +1297,7 @@ class="center">
 * **Tailoring Mixup to Data using Kernel Warping functions**<br>
   *Quentin Bouniot, Pavlo Mozharovskyi, Florence d'Alché-Buc*<br>
   arXiv'2023 \[[Paper](https://arxiv.org/abs/2311.01434)]
-  \[[Code](https://github.com/ENSTA-U2IS/torch-uncertainty) ⭐ 527 | 🐛 25 | 🌐 Python | 📅 2026-09-01]
+  \[[Code](https://github.com/ENSTA-U2IS/torch-uncertainty) ⭐ 527 | 🐛 26 | 🌐 Python | 📅 2026-09-01]
    <details close>
    <summary>Warped Mixup Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/061f5f2b-ff56-415b-9f58-68e895fdad3f" /></p>
@@ -1694,7 +1694,7 @@ class="center">
 * **Augmenting Data with Mixup for Sentence Classification: An Empirical Study**<br>
   *Hongyu Guo, Yongyi Mao, Richong Zhang*<br>
   arXiv'2019 \[[Paper](https://arxiv.org/abs/1905.08941)]
-  \[[Code](https://github.com/dsfsi/textaugment) ⭐ 444 | 🐛 1 | 🌐 Python | 📅 2026-03-04]
+  \[[Code](https://github.com/dsfsi/textaugment) ⭐ 445 | 🐛 1 | 🌐 Python | 📅 2026-03-04]
 
 * **MixText: Linguistically-informed Interpolation of Hidden Space for Semi-Supervised Text Classification**<br>
   *Jiaao Chen, Zichao Yang, Diyi Yang*<br>
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,815 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,816 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2170,7 +2170,7 @@ class="center">
 |   20 Newsgroups   |       Text      |     20     |           OOD Detection          |       20,000      |                                 [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)                                |
 |        WOS        |       Text      |     134    |           OOD Detection          |       46,985      |                                      [WOS](http://archive.ics.uci.edu/index.php)                                      |
 |       SST-2       |       Text      |      2     |      Sentiment Understanding     |       68,800      |  [SST-2](https://github.com/YJiangcm/SST-2-sentiment-analysis) ⭐ 112 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2020-12-09  |
-|        Cora       |      Graph      |      7     |        Node Classification       |       2,708       |               [Cora](https://github.com/phanein/deepwalk) ⭐ 2,759 \| 🐛 46 \| 🌐 Python \| 📅 2023-06-14              |
+|        Cora       |      Graph      |      7     |        Node Classification       |       2,708       |               [Cora](https://github.com/phanein/deepwalk) ⭐ 2,758 \| 🐛 46 \| 🌐 Python \| 📅 2023-06-14              |
 |      Citeseer     |      Graph      |      6     |        Node Classification       |       3,312       |                                       [Citeseer](https://csxstatic.ist.psu.edu/)                                      |
 |       PubMed      |      Graph      |      3     |        Node Classification       |       19,717      |                                       [PubMed](https://pubmed.ncbi.nlm.nih.gov)                                       |
 |    BlogCatalog    |      Graph      |     39     |        Node Classification       |       10,312      |            [BlogCatalog](https://figshare.com/articles/dataset/BlogCatalog_dataset/11923611?file=22349970)            |
@@ -2227,13 +2227,13 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,422 | 🐛 1 | 📅 2026-08-20 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,426 | 🐛 1 | 📅 2026-08-20 repository.
 
 ## Related Project
 
 * [data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) ⭐ 1,639 | 🐛 2 | 📅 2024-08-14: List of useful data augmentation resources.
 * [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15: CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark.
-* [awesome-mixed-sample-data-augmentation](https://github.com/JasonZhang156/awesome-mixed-sample-data-augmentation) ⭐ 130 | 🐛 0 | 📅 2020-05-07: A collection of awesome things about mixed sample data augmentation.
+* [awesome-mixed-sample-data-augmentation](https://github.com/JasonZhang156/awesome-mixed-sample-data-augmentation) ⭐ 129 | 🐛 0 | 📅 2020-05-07: A collection of awesome things about mixed sample data augmentation.
 * [Awesome-Mix](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 74 | 🐛 1 | 📅 2022-12-23: An awesome list of papers for `A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability, we categorize them based on our proposed taxonomy`.
 * [survery-image-mixing-and-deleting-for-data-augmentation](https://github.com/humza909/survery-image-mixing-and-deleting-for-data-augmentation) ⭐ 9 | 🐛 1 | 📅 2023-03-29: An awesome list of papers for `Survey: Image Mixing and Deleting for Data Augmentation`.
 * [awesome-mixup](https://github.com/demoleiwang/awesome-mixup) ⭐ 4 | 🐛 0 | 📅 2022-10-04: A collection of awesome papers about mixup.
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

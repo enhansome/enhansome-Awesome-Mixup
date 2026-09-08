@@ -23,7 +23,7 @@
                     "open_issues": 15,
                     "owner": "facebookresearch",
                     "repo": "mixup-cifar10",
-                    "stars": 1197,
+                    "stars": 1195,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -44,7 +44,7 @@
                     "open_issues": 7,
                     "owner": "google-research",
                     "repo": "augmix",
-                    "stars": 990,
+                    "stars": 989,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -186,7 +186,7 @@
                     "open_issues": 5,
                     "owner": "chandar-lab",
                     "repo": "PatchUp",
-                    "stars": 39,
+                    "stars": 38,
                     "topics": [
                       "convolutional-neural-network",
                       "pytorch",
@@ -611,7 +611,7 @@
                     "open_issues": 7,
                     "owner": "google-research",
                     "repo": "augmix",
-                    "stars": 990,
+                    "stars": 989,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1923,7 +1923,7 @@
                 "open_issues": 2,
                 "owner": "google-research",
                 "repo": "mixmatch",
-                "stars": 1139,
+                "stars": 1138,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1965,7 +1965,7 @@
                 "open_issues": 0,
                 "owner": "google-research",
                 "repo": "remixmatch",
-                "stars": 132,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1982,11 +1982,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T16:12:34Z",
+                "last_commit": "2026-09-08T09:22:17Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38708,
+                "stars": 38713,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2153,7 +2153,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T10:43:37Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
                 "stars": 527,
@@ -2876,7 +2876,7 @@
                 "open_issues": 1,
                 "owner": "dsfsi",
                 "repo": "textaugment",
-                "stars": 444,
+                "stars": 445,
                 "topics": [
                   "augmentation",
                   "augmentation-methods",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12815,
+            "stars": 12816,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4135,7 +4135,7 @@
             "open_issues": 46,
             "owner": "phanein",
             "repo": "deepwalk",
-            "stars": 2759,
+            "stars": 2758,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4281,7 +4281,7 @@
             "open_issues": 0,
             "owner": "JasonZhang156",
             "repo": "awesome-mixed-sample-data-augmentation",
-            "stars": 130,
+            "stars": 129,
             "topics": [
               "data-augmentation",
               "mixed-sample"
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:17:39.130Z",
+    "last_updated": "2026-09-08T22:02:51.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
