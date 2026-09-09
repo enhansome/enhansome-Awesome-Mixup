@@ -1982,11 +1982,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T09:22:17Z",
+                "last_commit": "2026-09-09T16:18:29Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38713,
+                "stars": 38719,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4204,7 +4204,7 @@
             "open_issues": 2,
             "owner": "AgaMiko",
             "repo": "data-augmentation-review",
-            "stars": 1639,
+            "stars": 1638,
             "topics": [
               "audio-augmentation",
               "augmentation-policies",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:02:51.181Z",
+    "last_updated": "2026-09-09T21:59:54.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
