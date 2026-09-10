@@ -1982,11 +1982,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T16:18:29Z",
-                "open_issues": 1990,
+                "last_commit": "2026-09-10T00:21:25Z",
+                "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38719,
+                "stars": 38724,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12816,
+            "stars": 12817,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4053,7 +4053,7 @@
             "open_issues": 2,
             "owner": "google-deepmind",
             "repo": "dsprites-dataset",
-            "stars": 541,
+            "stars": 542,
             "topics": [
               "beta-vae",
               "dataset",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:59:54.626Z",
+    "last_updated": "2026-09-10T21:58:15.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
