@@ -1986,7 +1986,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38724,
+                "stars": 38737,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3418,7 +3418,7 @@
                 "open_issues": 5,
                 "owner": "MAGICS-LAB",
                 "repo": "DNABERT_S",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "dna",
                   "dna-embedding",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12817,
+            "stars": 12818,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -3932,7 +3932,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1172,
+            "stars": 1173,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3963,7 +3963,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1172,
+            "stars": 1173,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3994,7 +3994,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1172,
+            "stars": 1173,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4156,7 +4156,7 @@
             "open_issues": 6,
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
-            "stars": 894,
+            "stars": 895,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4177,7 +4177,7 @@
             "open_issues": 6,
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
-            "stars": 894,
+            "stars": 895,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:58:15.492Z",
+    "last_updated": "2026-09-11T22:01:07.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
