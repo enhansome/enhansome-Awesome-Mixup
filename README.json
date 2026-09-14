@@ -525,7 +525,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 334,
+                    "stars": 335,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -1983,10 +1983,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T00:21:25Z",
-                "open_issues": 1992,
+                "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38750,
+                "stars": 38759,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12818,
+            "stars": 12824,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4080,7 +4080,7 @@
             "open_issues": 4,
             "owner": "Shenggan",
             "repo": "BCCD_Dataset",
-            "stars": 455,
+            "stars": 456,
             "topics": [
               "cell-detection",
               "dataset",
@@ -4135,7 +4135,7 @@
             "open_issues": 46,
             "owner": "phanein",
             "repo": "deepwalk",
-            "stars": 2758,
+            "stars": 2757,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4281,7 +4281,7 @@
             "open_issues": 0,
             "owner": "JasonZhang156",
             "repo": "awesome-mixed-sample-data-augmentation",
-            "stars": 129,
+            "stars": 128,
             "topics": [
               "data-augmentation",
               "mixed-sample"
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:47:38.771Z",
+    "last_updated": "2026-09-14T22:46:45.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
