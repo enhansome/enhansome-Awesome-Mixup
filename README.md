@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,759 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-10]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,770 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-15]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,824 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,826 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,437 | 🐛 1 | 📅 2026-09-10 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,444 | 🐛 1 | 📅 2026-09-10 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
