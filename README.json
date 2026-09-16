@@ -1107,11 +1107,11 @@
                 "id": 201102332,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-02T09:44:53Z",
-                "open_issues": 78,
+                "last_commit": "2026-09-16T12:52:09Z",
+                "open_issues": 77,
                 "owner": "google",
                 "repo": "edward2",
-                "stars": 712,
+                "stars": 711,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -1982,11 +1982,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T17:14:49Z",
+                "last_commit": "2026-09-16T19:46:42Z",
                 "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38770,
+                "stars": 38776,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2051,7 +2051,7 @@
                 "open_issues": 7,
                 "owner": "worldbench",
                 "repo": "LaserMix",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "autonomous-driving",
                   "lidar",
@@ -2294,7 +2294,7 @@
                 "open_issues": 7,
                 "owner": "worldbench",
                 "repo": "LaserMix",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "autonomous-driving",
                   "lidar",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12826,
+            "stars": 12827,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:27:16.662Z",
+    "last_updated": "2026-09-16T22:24:03.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
