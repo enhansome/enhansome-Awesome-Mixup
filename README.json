@@ -218,7 +218,7 @@
                     "open_issues": 6,
                     "owner": "clovaai",
                     "repo": "CutMix-PyTorch",
-                    "stars": 1251,
+                    "stars": 1252,
                     "topics": [
                       "augmentation",
                       "cutmix",
@@ -1986,7 +1986,7 @@
                 "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38776,
+                "stars": 38785,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T22:24:03.068Z",
+    "last_updated": "2026-09-17T22:27:14.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
