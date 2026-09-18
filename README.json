@@ -1986,7 +1986,7 @@
                 "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38785,
+                "stars": 38788,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12827,
+            "stars": 12829,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4156,7 +4156,7 @@
             "open_issues": 6,
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
-            "stars": 895,
+            "stars": 896,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4177,7 +4177,7 @@
             "open_issues": 6,
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
-            "stars": 895,
+            "stars": 896,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:27:14.823Z",
+    "last_updated": "2026-09-18T21:56:43.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
