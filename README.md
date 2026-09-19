@@ -147,7 +147,7 @@ class="center">
 * **AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty**<br>
   *Dan Hendrycks, Norman Mu, Ekin D. Cubuk, Barret Zoph, Justin Gilmer, Balaji Lakshminarayanan*<br>
   ICLR'2020 \[[Paper](https://arxiv.org/abs/1912.02781)]
-  \[[Code](https://github.com/google-research/augmix) ⭐ 989 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
+  \[[Code](https://github.com/google-research/augmix) ⭐ 988 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
    <details close>
    <summary>AugMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204567137-f71b0437-9267-4f99-b7dc-911ffa4f8b73.png" /></p>
@@ -203,7 +203,7 @@ class="center">
 * **Manifold Mixup: Better Representations by Interpolating Hidden States**<br>
   *Vikas Verma, Alex Lamb, Christopher Beckham, Amir Najafi, Ioannis Mitliagkas, David Lopez-Paz, Yoshua Bengio*<br>
   ICML'2019 \[[Paper](https://arxiv.org/abs/1806.05236)]
-  \[[Code](https://github.com/vikasverma1077/manifold_mixup) ⭐ 493 | 🐛 9 | 🌐 Python | 📅 2024-03-31]
+  \[[Code](https://github.com/vikasverma1077/manifold_mixup) ⭐ 494 | 🐛 9 | 🌐 Python | 📅 2024-03-31]
    <details close>
    <summary>ManifoldMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204565193-c5416185-ed98-4b86-bc7c-f5b6cc2f839b.png" /></p>
@@ -242,7 +242,7 @@ class="center">
 * **CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features**<br>
   *Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo*<br>
   ICCV'2019 \[[Paper](https://arxiv.org/abs/1905.04899)]
-  \[[Code](https://github.com/clovaai/CutMix-PyTorch) ⭐ 1,252 | 🐛 6 | 🌐 Python | 📅 2020-09-16]
+  \[[Code](https://github.com/clovaai/CutMix-PyTorch) ⭐ 1,251 | 🐛 6 | 🌐 Python | 📅 2020-09-16]
    <details close>
    <summary>CutMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204564166-49707535-43f9-4d15-af89-d1a5a302db24.png" /></p>
@@ -425,7 +425,7 @@ class="center">
 * **Domain Generalization with MixStyle**<br>
   *Kaiyang Zhou, Yongxin Yang, Yu Qiao, Tao Xiang*<br>
   ICLR'2021 \[[Paper](https://openreview.net/forum?id=6xHJ37MVxxp)]
-  \[[Code](https://github.com/KaiyangZhou/mixstyle-release) ⭐ 335 | 🐛 10 | 🌐 Python | 📅 2022-10-06]
+  \[[Code](https://github.com/KaiyangZhou/mixstyle-release) ⭐ 336 | 🐛 10 | 🌐 Python | 📅 2022-10-06]
    <details close>
    <summary>MixStyle Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204568994-eb45528e-e83b-4ac5-bed9-642da987ec89.png" /></p>
@@ -466,7 +466,7 @@ class="center">
 * **Where to Cut and Paste: Data Regularization with Selective Features**<br>
   *Jiyeon Kim, Ik-Hee Shin, Jong-Ryul, Lee, Yong-Ju Lee*<br>
   ICTC'2020 \[[Paper](https://ieeexplore.ieee.org/abstract/document/9289404)]
-  \[[Code](https://github.com/google-research/augmix) ⭐ 989 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
+  \[[Code](https://github.com/google-research/augmix) ⭐ 988 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
    <details close>
    <summary>FocusMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204567137-f71b0437-9267-4f99-b7dc-911ffa4f8b73.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,788 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,795 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-16]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1306,7 +1306,7 @@ class="center">
 * **Rank-N-Contrast: Learning Continuous Representations for Regression**<br>
   *Kaiwen Zha, Peng Cao, Jeany Son, Yuzhe Yang, Dina Katabi*<br>
   NIPS'2023 \[[Paper](https://arxiv.org/abs/2210.01189)]
-  \[[Code](https://github.com/kaiwenzha/Rank-N-Contrast) ⭐ 139 | 🐛 6 | 🌐 Python | 📅 2024-02-28]
+  \[[Code](https://github.com/kaiwenzha/Rank-N-Contrast) ⭐ 140 | 🐛 6 | 🌐 Python | 📅 2024-02-28]
 
 * **C-Mixup: Improving Generalization in Regression**<br>
   *Huaxiu Yao, Yiping Wang, Linjun Zhang, James Zou, Chelsea Finn*<br>
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,451 | 🐛 1 | 📅 2026-09-17 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,452 | 🐛 1 | 📅 2026-09-17 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
