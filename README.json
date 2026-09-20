@@ -1986,7 +1986,7 @@
                 "open_issues": 1995,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38795,
+                "stars": 38805,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12829,
+            "stars": 12831,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:48:02.489Z",
+    "last_updated": "2026-09-20T21:54:52.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
