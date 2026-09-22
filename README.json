@@ -959,7 +959,7 @@
                     "open_issues": 0,
                     "owner": "mlvlab",
                     "repo": "TokenMixup",
-                    "stars": 48,
+                    "stars": 47,
                     "topics": [
                       "mixup",
                       "neurips-2022",
@@ -1448,7 +1448,7 @@
                 "open_issues": 0,
                 "owner": "mlvlab",
                 "repo": "TokenMixup",
-                "stars": 48,
+                "stars": 47,
                 "topics": [
                   "mixup",
                   "neurips-2022",
@@ -1986,7 +1986,7 @@
                 "open_issues": 1995,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38807,
+                "stars": 38814,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3287,7 +3287,7 @@
                 "open_issues": 1,
                 "owner": "sky77764",
                 "repo": "pa-aug.pytorch",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "3d-object-detection",
                   "data-augmentation",
@@ -3932,7 +3932,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1174,
+            "stars": 1175,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3963,7 +3963,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1174,
+            "stars": 1175,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3994,7 +3994,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1174,
+            "stars": 1175,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4135,7 +4135,7 @@
             "open_issues": 46,
             "owner": "phanein",
             "repo": "deepwalk",
-            "stars": 2757,
+            "stars": 2756,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:50:44.572Z",
+    "last_updated": "2026-09-22T22:26:36.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
