@@ -1986,7 +1986,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38822,
+                "stars": 38829,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2156,7 +2156,7 @@
                 "open_issues": 27,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 528,
+                "stars": 529,
                 "topics": [
                   "bayesian-network",
                   "computer-vision",
@@ -2909,7 +2909,7 @@
                 "open_issues": 5,
                 "owner": "SALT-NLP",
                 "repo": "MixText",
-                "stars": 354,
+                "stars": 353,
                 "topics": [
                   "computation",
                   "dataaugmentation",
@@ -2988,7 +2988,7 @@
                 "open_issues": 1,
                 "owner": "Lingkai-Kong",
                 "repo": "Calibrated-BERT-Fine-Tuning",
-                "stars": 36,
+                "stars": 35,
                 "topics": [
                   "bert",
                   "calibration",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12833,
+            "stars": 12835,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4025,7 +4025,7 @@
             "open_issues": 7,
             "owner": "hendrycks",
             "repo": "natural-adv-examples",
-            "stars": 621,
+            "stars": 622,
             "topics": [
               "adversarial-attacks",
               "adversarial-example",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T22:28:53.099Z",
+    "last_updated": "2026-09-24T22:44:47.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
