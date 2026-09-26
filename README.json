@@ -1986,7 +1986,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38834,
+                "stars": 38831,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2153,7 +2153,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T10:43:37Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
                 "stars": 530,
@@ -3932,7 +3932,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1175,
+            "stars": 1176,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3963,7 +3963,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1175,
+            "stars": 1176,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3994,7 +3994,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1175,
+            "stars": 1176,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T22:50:39.860Z",
+    "last_updated": "2026-09-26T22:13:02.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
