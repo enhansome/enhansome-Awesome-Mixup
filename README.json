@@ -1986,7 +1986,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38832,
+                "stars": 38840,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2156,7 +2156,7 @@
                 "open_issues": 29,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 530,
+                "stars": 529,
                 "topics": [
                   "bayesian-network",
                   "computer-vision",
@@ -3418,7 +3418,7 @@
                 "open_issues": 5,
                 "owner": "MAGICS-LAB",
                 "repo": "DNABERT_S",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "dna",
                   "dna-embedding",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12834,
+            "stars": 12835,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4080,7 +4080,7 @@
             "open_issues": 4,
             "owner": "Shenggan",
             "repo": "BCCD_Dataset",
-            "stars": 456,
+            "stars": 457,
             "topics": [
               "cell-detection",
               "dataset",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:35:54.368Z",
+    "last_updated": "2026-09-28T23:58:34.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
