@@ -1986,7 +1986,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38840,
+                "stars": 38851,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2156,7 +2156,7 @@
                 "open_issues": 29,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 529,
+                "stars": 530,
                 "topics": [
                   "bayesian-network",
                   "computer-vision",
@@ -2320,7 +2320,7 @@
                 "open_issues": 8,
                 "owner": "BWGZK",
                 "repo": "CycleMix",
-                "stars": 100,
+                "stars": 99,
                 "topics": [
                   "medical-image-segmentation",
                   "mixup",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12835,
+            "stars": 12841,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4204,7 +4204,7 @@
             "open_issues": 2,
             "owner": "AgaMiko",
             "repo": "data-augmentation-review",
-            "stars": 1638,
+            "stars": 1637,
             "topics": [
               "audio-augmentation",
               "augmentation-policies",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:58:34.119Z",
+    "last_updated": "2026-09-29T23:14:06.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
