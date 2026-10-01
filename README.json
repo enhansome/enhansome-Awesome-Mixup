@@ -1986,7 +1986,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38856,
+                "stars": 38859,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4053,7 +4053,7 @@
             "open_issues": 2,
             "owner": "google-deepmind",
             "repo": "dsprites-dataset",
-            "stars": 542,
+            "stars": 541,
             "topics": [
               "beta-vae",
               "dataset",
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:13:44.615Z",
+    "last_updated": "2026-10-01T23:28:16.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",

@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,856 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,859 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -2152,7 +2152,7 @@ class="center">
 |     ImageNet-A    |      Image      |     200    |          Classification          |       7,500       |      [ImageNet-A](https://github.com/hendrycks/natural-adv-examples) ⭐ 622 \| 🐛 7 \| 🌐 Python \| 📅 2024-03-23      |
 |   Pascal VOC 102  |      Image      |     20     |         Object Detection         |       33,043      |                               [Pascal VOC 102](http://host.robots.ox.ac.uk/pascal/VOC/)                               |
 | MS-COCO Detection |      Image      |     91     |         Object Detection         |      164,062      |                              [MS-COCO Detection](https://cocodataset.org/detection-eval)                              |
-|      DSprites     |      Image      | 737,280\*6 |          Disentanglement         |      737,280      | [DSprites](https://github.com/google-deepmind/dsprites-dataset) ⭐ 542 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2021-01-03 |
+|      DSprites     |      Image      | 737,280\*6 |          Disentanglement         |      737,280      | [DSprites](https://github.com/google-deepmind/dsprites-dataset) ⭐ 541 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2021-01-03 |
 |      Place205     |      Image      |     205    |            Recognition           |     2,500,000     |                               [Place205](http://places.csail.mit.edu/downloadData.html)                               |
 |   Pascal Context  |      Image      |     459    |           Segmentation           |       10,103      |                            [Pascal Context](http://places.csail.mit.edu/downloadData.html)                            |
 |       ADE20K      |      Image      |    3,169   |           Segmentation           |       25,210      |                             [ADE20K](https://groups.csail.mit.edu/vision/datasets/ADE20K/)                            |
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,516 | 🐛 2 | 📅 2026-09-28 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,521 | 🐛 2 | 📅 2026-09-28 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
