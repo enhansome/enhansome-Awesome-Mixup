@@ -65,7 +65,7 @@
                     "open_issues": 2,
                     "owner": "andyzoujm",
                     "repo": "pixmix",
-                    "stars": 110,
+                    "stars": 111,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1037,7 +1037,7 @@
                     "open_issues": 0,
                     "owner": "khawar-islam",
                     "repo": "diffuseMix",
-                    "stars": 138,
+                    "stars": 137,
                     "topics": [
                       "cutmix",
                       "data-augmentation",
@@ -1986,7 +1986,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38859,
+                "stars": 38862,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3873,7 +3873,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12841,
+            "stars": 12842,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4135,7 +4135,7 @@
             "open_issues": 46,
             "owner": "phanein",
             "repo": "deepwalk",
-            "stars": 2756,
+            "stars": 2757,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T23:28:16.190Z",
+    "last_updated": "2026-10-02T23:18:22.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
