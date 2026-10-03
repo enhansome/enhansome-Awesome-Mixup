@@ -1,113 +1,1185 @@
 {
   "items": [
     {
-      "description": null,
+      "description": "You can see the figuer of mixup augmentation methods deirtly that we summarized.",
       "items": [
         {
           "children": [
             {
               "children": [
                 {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "mixup: Beyond Empirical Risk Minimization Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz ICLR'2018 [Paper",
+                      "description": "facebookresearch/mixup-cifar10",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "description": "mixup: Beyond Empirical Risk Minimization",
+                        "homepage": null,
+                        "id": 122017965,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2021-10-12T21:33:03Z",
+                        "open_issues": 15,
+                        "owner": "facebookresearch",
+                        "repo": "mixup-cifar10",
+                        "stars": 1195,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty Dan Hendrycks, Norman Mu, Ekin D. Cubuk, Barret Zoph, Justin Gilmer, Balaji Lakshminarayanan ICLR'2020 [Paper",
+                      "description": "google-research/augmix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty",
+                        "homepage": null,
+                        "id": 226020168,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-07-17T18:03:33Z",
+                        "open_issues": 7,
+                        "owner": "google-research",
+                        "repo": "augmix",
+                        "stars": 988,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures Dan Hendrycks, Andy Zou, Mantas Mazeika, Leonard Tang, Bo Li, Dawn Song, Jacob Steinhardt CVPR'2022 [Paper",
+                      "description": "andyzoujm/pixmix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures (CVPR 2022)",
+                        "homepage": null,
+                        "id": 435020445,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2022-07-05T17:52:45Z",
+                        "open_issues": 2,
+                        "owner": "andyzoujm",
+                        "repo": "pixmix",
+                        "stars": 111,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Between-class Learning for Image Classification Yuji Tokozume, Yoshitaka Ushiku, Tatsuya Harada CVPR'2018 [Paper",
+                      "description": "mil-tokyo/bc_learning_image",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Chainer implementation of between-class learning for Image classification https://arxiv.org/abs/1711.10284",
+                        "homepage": null,
+                        "id": 113934009,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2017-12-13T12:31:51Z",
+                        "open_issues": 2,
+                        "owner": "mil-tokyo",
+                        "repo": "bc_learning_image",
+                        "stars": 64,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "IPMix: Label-Preserving Data Augmentation Method for Training Robust Classifiers Zhenglin Huang, Xiaoan Bao, Na Zhang, Qingqi Zhang, Xiaomei Tu, Biao Wu, Xi Yang NIPS'2023 [Paper",
+                      "description": "hzlsaber/IPMix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "The offical repository of \"IPMix: Label-Preserving Data Augmentation Method for Training Robust Classifiers\"",
+                        "homepage": null,
+                        "id": 702339784,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2024-05-07T07:01:21Z",
+                        "open_issues": 2,
+                        "owner": "hzlsaber",
+                        "repo": "IPMix",
+                        "stars": 15,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Static Linear"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Manifold Mixup: Better Representations by Interpolating Hidden States Vikas Verma, Alex Lamb, Christopher Beckham, Amir Najafi, Ioannis Mitliagkas, David Lopez-Paz, Yoshua Bengio ICML'2019 [Paper",
+                      "description": "vikasverma1077/manifold_mixup",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Code for reproducing Manifold Mixup results (ICML 2019)",
+                        "homepage": null,
+                        "id": 137075504,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2024-03-31T17:36:48Z",
+                        "open_issues": 9,
+                        "owner": "vikasverma1077",
+                        "repo": "manifold_mixup",
+                        "stars": 494,
+                        "topics": [
+                          "data-augumentation",
+                          "deep-learning",
+                          "deep-neural-networks",
+                          "icml2019",
+                          "pytorch",
+                          "regularization",
+                          "supervised-learning",
+                          "supervised-machine-learning"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "On Feature Normalization and Data Augmentation Boyi Li, Felix Wu, Ser-Nam Lim, Serge Belongie, Kilian Q. Weinberger CVPR'2021 [Paper",
+                      "description": "Boyiliee/MoEx",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "MoEx (Moment Exchange)",
+                        "homepage": null,
+                        "id": 239047642,
+                        "language": "Python",
+                        "license": "BSD-3-Clause",
+                        "last_commit": "2021-06-24T02:52:22Z",
+                        "open_issues": 1,
+                        "owner": "Boyiliee",
+                        "repo": "MoEx",
+                        "stars": 140,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "PatchUp: A Regularization Technique for Convolutional Neural Networks Mojtaba Faramarzi, Mohammad Amini, Akilesh Badrinaaraayanan, Vikas Verma, Sarath Chandar arXiv'2020 [Paper",
+                      "description": "chandar-lab/PatchUp",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 271663254,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2022-12-08T04:21:18Z",
+                        "open_issues": 5,
+                        "owner": "chandar-lab",
+                        "repo": "PatchUp",
+                        "stars": 38,
+                        "topics": [
+                          "convolutional-neural-network",
+                          "pytorch",
+                          "regularization-methods"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Feature-based"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo ICCV'2019 [Paper",
+                      "description": "clovaai/CutMix-PyTorch",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official Pytorch implementation of CutMix regularizer",
+                        "homepage": null,
+                        "id": 189136525,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2020-09-16T03:47:45Z",
+                        "open_issues": 6,
+                        "owner": "clovaai",
+                        "repo": "CutMix-PyTorch",
+                        "stars": 1251,
+                        "topics": [
+                          "augmentation",
+                          "cutmix",
+                          "iccv2019",
+                          "regularization",
+                          "transfer-learning"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers Jin-Ha Lee, Muhammad Zaigham Zaheer, Marcella Astrid, Seung-Ik Lee CVPRW'2020 [Paper",
+                      "description": "Westlake-AI/openmixup",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                        "homepage": "https://openmixup.readthedocs.io",
+                        "id": 443031097,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2025-10-15T10:20:58Z",
+                        "open_issues": 7,
+                        "owner": "Westlake-AI",
+                        "repo": "openmixup",
+                        "stars": 657,
+                        "topics": [
+                          "automix",
+                          "awesome-list",
+                          "awesome-mim",
+                          "awesome-mixup",
+                          "benchmark",
+                          "contrastive-learning",
+                          "data-augmentation",
+                          "data-generation",
+                          "deep-learning",
+                          "image-classifcation",
+                          "imagenet",
+                          "machine-learning",
+                          "masked-image-modeling",
+                          "mixup",
+                          "pytorch",
+                          "self-supervised-learning",
+                          "semi-supervised-learning",
+                          "vision-transformer"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "ResizeMix: Mixing Data with Preserved Object Information and True Labels Jie Qin, Jiemin Fang, Qian Zhang, Wenyu Liu, Xingang Wang, Xinggang Wang arXiv'2020 [Paper",
+                      "description": "Westlake-AI/openmixup",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                        "homepage": "https://openmixup.readthedocs.io",
+                        "id": 443031097,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2025-10-15T10:20:58Z",
+                        "open_issues": 7,
+                        "owner": "Westlake-AI",
+                        "repo": "openmixup",
+                        "stars": 657,
+                        "topics": [
+                          "automix",
+                          "awesome-list",
+                          "awesome-mim",
+                          "awesome-mixup",
+                          "benchmark",
+                          "contrastive-learning",
+                          "data-augmentation",
+                          "data-generation",
+                          "deep-learning",
+                          "image-classifcation",
+                          "imagenet",
+                          "machine-learning",
+                          "masked-image-modeling",
+                          "mixup",
+                          "pytorch",
+                          "self-supervised-learning",
+                          "semi-supervised-learning",
+                          "vision-transformer"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "FMix: Enhancing Mixed Sample Data Augmentation Ethan Harris, Antonia Marcu, Matthew Painter, Mahesan Niranjan, Adam Prügel-Bennett, Jonathon Hare arXiv'2020 [Paper",
+                      "description": "ecs-vlc/FMix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official implementation of 'FMix: Enhancing Mixed Sample Data Augmentation'",
+                        "homepage": "https://arxiv.org/abs/2002.12047",
+                        "id": 239993380,
+                        "language": "Jupyter Notebook",
+                        "license": "MIT",
+                        "last_commit": "2021-03-26T19:00:33Z",
+                        "open_issues": 5,
+                        "owner": "ecs-vlc",
+                        "repo": "FMix",
+                        "stars": 338,
+                        "topics": [
+                          "augmentation",
+                          "pytorch",
+                          "pytorch-lightning",
+                          "tensorflow",
+                          "torchbearer"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "You Only Cut Once: Boosting Data Augmentation with a Single Cut Junlin Han, Pengfei Fang, Weihao Li, Jie Hong, Mohammad Ali Armin, Ian Reid, Lars Petersson, Hongdong Li ICML'2022 [Paper",
+                      "description": "JunlinHan/YOCO",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Code for You Only Cut Once: Boosting Data Augmentation with a Single Cut, ICML 2022.",
+                        "homepage": null,
+                        "id": 452704480,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2023-08-01T09:05:26Z",
+                        "open_issues": 1,
+                        "owner": "JunlinHan",
+                        "repo": "YOCO",
+                        "stars": 106,
+                        "topics": [
+                          "cifar10",
+                          "cifar100",
+                          "classification",
+                          "computer-vision",
+                          "contrastive-learning",
+                          "data-augmentation",
+                          "data-augmentation-strategies",
+                          "data-augmentations",
+                          "icml",
+                          "imagenet",
+                          "imagenet-classifier",
+                          "instance-segmentation",
+                          "object-detection",
+                          "pytorch",
+                          "rain-removal",
+                          "super-resolution"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "GridMix: Strong regularization through local context mapping Kyungjune Baek, Duhyeon Bang, Hyunjung Shim Pattern Recognition'2021 [Paper",
+                      "description": "IlyaDobrynin/GridMixup",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A GridMixup augmentation, inspired by GridMask and CutMix",
+                        "homepage": null,
+                        "id": 321269411,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2020-12-24T14:04:03Z",
+                        "open_issues": 0,
+                        "owner": "IlyaDobrynin",
+                        "repo": "GridMixup",
+                        "stars": 42,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective Chanwoo Park, Sangdoo Yun, Sanghyuk Chun NIPS'2022 [Paper",
+                      "description": "naver-ai/hmix-gmix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 527209806,
+                        "language": "Jupyter Notebook",
+                        "license": "NOASSERTION",
+                        "last_commit": "2022-11-07T07:30:23Z",
+                        "open_issues": 0,
+                        "owner": "naver-ai",
+                        "repo": "hmix-gmix",
+                        "stars": 21,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Improved Mixed-Example Data Augmentation Cecilia Summers, Michael J. Dinneen WACV'2019 [Paper",
+                      "description": "ceciliaresearch/MixedExample",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 166514073,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2019-01-19T06:52:58Z",
+                        "open_issues": 0,
+                        "owner": "ceciliaresearch",
+                        "repo": "MixedExample",
+                        "stars": 17,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika, Mahmoud Melkemi arXiv'2022 [Paper",
+                      "description": "hammoudiproject/SuperpixelGridMasks",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "SuperpixelGridMasks is an approach for sensor-based data augmentation towards image classification tasks and so on.",
+                        "homepage": "https://github.com/hammoudiproject/SuperpixelGridMasks",
+                        "id": 480462231,
+                        "language": null,
+                        "license": null,
+                        "last_commit": "2023-01-18T11:06:48Z",
+                        "open_issues": 1,
+                        "owner": "hammoudiproject",
+                        "repo": "SuperpixelGridMasks",
+                        "stars": 14,
+                        "topics": [
+                          "artificial-intelligence",
+                          "cnn",
+                          "data-augmentation",
+                          "data-augmentations",
+                          "data-generation",
+                          "datascience",
+                          "deep-learning",
+                          "image-augmentation",
+                          "image-classification",
+                          "image-recognition",
+                          "imagery",
+                          "imaging",
+                          "machine-learning",
+                          "sensor-data",
+                          "training-dataset"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Cutting-based"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Observations on K-image Expansion of Image-Mixing Augmentation for Classification Joonhyun Jeong, Sungmin Cha, Youngjoon Yoo, Sangdoo Yun, Taesup Moon, Jongwon Choi IEEE Access'2021 [Paper",
+                      "description": "yjyoo3312/DCutMix-PyTorch",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official PyTorch Implementation of the paper \"Observations on K-image Expansion of Image-Mixing Augmentation\"",
+                        "homepage": null,
+                        "id": 597702071,
+                        "language": null,
+                        "license": null,
+                        "last_commit": "2023-04-25T07:37:38Z",
+                        "open_issues": 1,
+                        "owner": "yjyoo3312",
+                        "repo": "DCutMix-PyTorch",
+                        "stars": 0,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "K Samples Mixup"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Domain Generalization with MixStyle Kaiyang Zhou, Yongxin Yang, Yu Qiao, Tao Xiang ICLR'2021 [Paper",
+                      "description": "KaiyangZhou/mixstyle-release",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Domain Generalization with MixStyle (ICLR'21)",
+                        "homepage": null,
+                        "id": 282191005,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2022-10-06T12:44:06Z",
+                        "open_issues": 10,
+                        "owner": "KaiyangZhou",
+                        "repo": "mixstyle-release",
+                        "stars": 336,
+                        "topics": [
+                          "domain-generalization",
+                          "feature-statistics",
+                          "iclr2021",
+                          "image-classification",
+                          "person-reidentification",
+                          "reinforcement-learning",
+                          "representation-learning"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "AlignMix: Improving representation by interpolating aligned features Shashanka Venkataramanan, Ewa Kijak, Laurent Amsaleg, Yannis Avrithis CVPR'2022 [Paper",
+                      "description": "shashankvkt/AlignMixup_CVPR22",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official Implementation of AlignMixup - CVPR 2022",
+                        "homepage": null,
+                        "id": 468217044,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2022-04-04T06:33:56Z",
+                        "open_issues": 4,
+                        "owner": "shashankvkt",
+                        "repo": "AlignMixup_CVPR22",
+                        "stars": 72,
+                        "topics": [
+                          "alignment",
+                          "augmentation",
+                          "cvpr2022",
+                          "deep-learning",
+                          "mixup",
+                          "optimal-transport",
+                          "pytorch"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "StyleMix: Separating Content and Style for Enhanced Data Augmentation Minui Hong, Jinwoo Choi, Gunhee Kim CVPR'2021 [Paper",
+                      "description": "alsdml/StyleMix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 352472980,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2021-06-23T13:22:23Z",
+                        "open_issues": 0,
+                        "owner": "alsdml",
+                        "repo": "StyleMix",
+                        "stars": 33,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Style-based"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Where to Cut and Paste: Data Regularization with Selective Features Jiyeon Kim, Ik-Hee Shin, Jong-Ryul, Lee, Yong-Ju Lee ICTC'2020 [Paper",
+                      "description": "google-research/augmix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty",
+                        "homepage": null,
+                        "id": 226020168,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-07-17T18:03:33Z",
+                        "open_issues": 7,
+                        "owner": "google-research",
+                        "repo": "augmix",
+                        "stars": 988,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "AutoMix: Unveiling the Power of Mixup for Stronger Classifiers Zicheng Liu, Siyuan Li, Di Wu, Zihan Liu, Zhiyuan Chen, Lirong Wu, Stan Z. Li ECCV'2022 [Paper",
+                      "description": "Westlake-AI/openmixup",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                        "homepage": "https://openmixup.readthedocs.io",
+                        "id": 443031097,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2025-10-15T10:20:58Z",
+                        "open_issues": 7,
+                        "owner": "Westlake-AI",
+                        "repo": "openmixup",
+                        "stars": 657,
+                        "topics": [
+                          "automix",
+                          "awesome-list",
+                          "awesome-mim",
+                          "awesome-mixup",
+                          "benchmark",
+                          "contrastive-learning",
+                          "data-augmentation",
+                          "data-generation",
+                          "deep-learning",
+                          "image-classifcation",
+                          "imagenet",
+                          "machine-learning",
+                          "masked-image-modeling",
+                          "mixup",
+                          "pytorch",
+                          "self-supervised-learning",
+                          "semi-supervised-learning",
+                          "vision-transformer"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup Siyuan Li, Zicheng Liu, Di Wu, Zihan Liu, Stan Z. Li arXiv'2021 [Paper",
+                      "description": "Westlake-AI/openmixup",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                        "homepage": "https://openmixup.readthedocs.io",
+                        "id": 443031097,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2025-10-15T10:20:58Z",
+                        "open_issues": 7,
+                        "owner": "Westlake-AI",
+                        "repo": "openmixup",
+                        "stars": 657,
+                        "topics": [
+                          "automix",
+                          "awesome-list",
+                          "awesome-mim",
+                          "awesome-mixup",
+                          "benchmark",
+                          "contrastive-learning",
+                          "data-augmentation",
+                          "data-generation",
+                          "deep-learning",
+                          "image-classifcation",
+                          "imagenet",
+                          "machine-learning",
+                          "masked-image-modeling",
+                          "mixup",
+                          "pytorch",
+                          "self-supervised-learning",
+                          "semi-supervised-learning",
+                          "vision-transformer"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "PuzzleMix: Exploiting Saliency and Local Statistics for Optimal Mixup Jang-Hyun Kim, Wonho Choo, Hyun Oh Song ICML'2020 [Paper",
+                      "description": "snu-mllab/PuzzleMix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official PyTorch implementation of \"Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup\" (ICML'20)",
+                        "homepage": null,
+                        "id": 230866910,
+                        "language": "Jupyter Notebook",
+                        "license": "MIT",
+                        "last_commit": "2021-11-25T05:35:33Z",
+                        "open_issues": 0,
+                        "owner": "snu-mllab",
+                        "repo": "PuzzleMix",
+                        "stars": 156,
+                        "topics": [
+                          "data-augmentation",
+                          "mixup"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data Shaoli Huang, Xinchao Wang, Dacheng Tao AAAI'2021 [Paper",
+                      "description": "Shaoli-Huang/SnapMix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data (AAAI 2021)",
+                        "homepage": null,
+                        "id": 319199536,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2020-12-26T05:12:44Z",
+                        "open_issues": 4,
+                        "owner": "Shaoli-Huang",
+                        "repo": "SnapMix",
+                        "stars": 129,
+                        "topics": [
+                          "aaai2021",
+                          "cutmix",
+                          "data-augmentation",
+                          "fine-grained-recognition",
+                          "mixup"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity Jang-Hyun Kim, Wonho Choo, Hosan Jeong, Hyun Oh Song ICLR'2021 [Paper",
+                      "description": "snu-mllab/Co-Mixup",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official PyTorch implementation of \"Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity\" (ICLR'21 Oral)",
+                        "homepage": null,
+                        "id": 335542865,
+                        "language": "Jupyter Notebook",
+                        "license": "MIT",
+                        "last_commit": "2021-12-02T09:58:45Z",
+                        "open_issues": 0,
+                        "owner": "snu-mllab",
+                        "repo": "Co-Mixup",
+                        "stars": 108,
+                        "topics": [
+                          "data-augmentation",
+                          "mixup"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "SuperMix: Supervising the Mixing Data Augmentation Ali Dabouei, Sobhan Soleymani, Fariborz Taherkhani, Nasser M. Nasrabadi CVPR'2021 [Paper",
+                      "description": "alldbi/SuperMix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Pytorch implementation of CVPR2021 paper: SuperMix: Supervising the Mixing Data Augmentation",
+                        "homepage": null,
+                        "id": 231245106,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2022-01-06T01:55:11Z",
+                        "open_issues": 1,
+                        "owner": "alldbi",
+                        "repo": "SuperMix",
+                        "stars": 92,
+                        "topics": [
+                          "augmentation",
+                          "cvpr2021",
+                          "deep-learning",
+                          "distillation",
+                          "pytorch",
+                          "saliency-detection",
+                          "supervised"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Adversarial AutoMixup Huafeng Qin, Xin Jin, Yun Jiang, Mounim A. El-Yacoubi, Xinbo Gao ICLR'2024 [Paper",
+                      "description": "JinXins/Adversarial-AutoMixup",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official PyTorch(MMCV) implementation of “Adversarial AutoMixup” (ICLR 2024 spotlight)",
+                        "homepage": "https://arxiv.org/abs/2312.11954",
+                        "id": 722884429,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2024-11-02T04:52:39Z",
+                        "open_issues": 0,
+                        "owner": "JinXins",
+                        "repo": "Adversarial-AutoMixup",
+                        "stars": 71,
+                        "topics": [
+                          "cars196",
+                          "classification",
+                          "computer-vision",
+                          "convolutional-neural-networks",
+                          "corruption",
+                          "deep-learning",
+                          "fgvc-aircraft",
+                          "imagenet",
+                          "pytorch"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization A F M Shahab Uddin and Mst. Sirazam Monira and Wheemyung Shin and TaeChoong Chung and Sung-Ho Bae ICLR'2021 [Paper",
+                      "description": "afm-shahab-uddin/SaliencyMix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization",
+                        "homepage": null,
+                        "id": 312258169,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2022-11-23T02:56:05Z",
+                        "open_issues": 2,
+                        "owner": "afm-shahab-uddin",
+                        "repo": "SaliencyMix",
+                        "stars": 48,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps Minsoo Kang, Suhyun Kim AAAI'2023 [Paper",
+                      "description": "3neutronstar/GuidedMixup",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official PyTorch implementation of \"GuidedMixup An Efficient Mixup Strategy Guided by Saliency Maps\" (AAAI'23 Oral)",
+                        "homepage": null,
+                        "id": 696301042,
+                        "language": "Python",
+                        "license": "GPL-3.0",
+                        "last_commit": "2024-07-09T14:31:16Z",
+                        "open_issues": 0,
+                        "owner": "3neutronstar",
+                        "repo": "GuidedMixup",
+                        "stars": 7,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification Devesh Walawalkar, Zhiqiang Shen, Zechun Liu, Marios Savvides ICASSP'2020 [Paper",
+                      "description": "xden2331/attentive_cutmix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 302183364,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2020-10-15T02:17:43Z",
+                        "open_issues": 1,
+                        "owner": "xden2331",
+                        "repo": "attentive_cutmix",
+                        "stars": 6,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "LGCOAMix: Local and Global Context-and-Object-Part-Aware Superpixel-Based Data Augmentation for Deep Visual Recognition Fadi Dornaika, Danyang Sun TIP'2023 [Paper",
+                      "description": "DanielaPlusPlus/LGCOAMix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 607574622,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2023-11-30T16:17:05Z",
+                        "open_issues": 1,
+                        "owner": "DanielaPlusPlus",
+                        "repo": "LGCOAMix",
+                        "stars": 2,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Saliency-based"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers Jihao Liu, Boxiao Liu, Hang Zhou, Hongsheng Li, Yu Liu ECCV'2022 [Paper",
+                      "description": "Sense-X/TokenMix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers (ECCV 2022)",
+                        "homepage": null,
+                        "id": 512638545,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2022-09-08T06:56:48Z",
+                        "open_issues": 7,
+                        "owner": "Sense-X",
+                        "repo": "TokenMix",
+                        "stars": 96,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers Hyeong Kyu Choi, Joonmyung Choi, Hyunwoo J. Kim NIPS'2022 [Paper",
+                      "description": "mlvlab/TokenMixup",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official pytorch implementation of NeurIPS 2022 paper, TokenMixup",
+                        "homepage": null,
+                        "id": 541370236,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2022-11-22T09:45:10Z",
+                        "open_issues": 0,
+                        "owner": "mlvlab",
+                        "repo": "TokenMixup",
+                        "stars": 47,
+                        "topics": [
+                          "mixup",
+                          "neurips-2022",
+                          "vision-transformer"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer Qihao Zhao, Yangyu Huang, Wei Hu, Fan Zhang, Jun Liu ICLR'2023 [Paper",
+                      "description": "fistyee/MixPro",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "🔥MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer [Official, ICLR 2023]",
+                        "homepage": null,
+                        "id": 628153719,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2023-11-03T06:19:25Z",
+                        "open_issues": 0,
+                        "owner": "fistyee",
+                        "repo": "MixPro",
+                        "stars": 22,
+                        "topics": [
+                          "classification",
+                          "data-augmentation",
+                          "vision-transformer"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "SMMix: Self-Motivated Image Mixing for Vision Transformers Mengzhao Chen, Mingbao Lin, ZhiHang Lin, Yuxin Zhang, Fei Chao, Rongrong Ji ICCV'2023 [Paper",
+                      "description": "ChenMnZ/SMMix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[ICCV 23]This is a Pytorch implementation of our paper \"SMMix: Self-Motivated Image Mixing for Vision Transformers\"",
+                        "homepage": null,
+                        "id": 581487090,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2023-07-14T09:02:15Z",
+                        "open_issues": 1,
+                        "owner": "ChenMnZ",
+                        "repo": "SMMix",
+                        "stars": 16,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Attention-based"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "DiffuseMix: Label-Preserving Data Augmentation with Diffusion Models Khawar Islam, Muhammad Zaigham Zaheer, Arif Mahmood, Karthik Nandakumar CVPR'2024 [Paper",
+                      "description": "khawar-islam/diffuseMix",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official PyTorch implementation of DiffuseMix : Label-Preserving Data Augmentation with Diffusion Models (CVPR'2024)",
+                        "homepage": "https://diffusemix.github.io",
+                        "id": 767332139,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2026-01-13T03:42:38Z",
+                        "open_issues": 0,
+                        "owner": "khawar-islam",
+                        "repo": "diffuseMix",
+                        "stars": 137,
+                        "topics": [
+                          "cutmix",
+                          "data-augmentation",
+                          "diffusion-models",
+                          "generative-data-augmentation",
+                          "image-classification",
+                          "mixup",
+                          "synthetic-data",
+                          "transfer-learning"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "On Adversarial Mixup Resynthesis Christopher Beckham, Sina Honari, Vikas Verma, Alex Lamb, Farnoosh Ghadiri, R Devon Hjelm, Yoshua Bengio, Christopher Pal NIPS'2019 [Paper",
+                      "description": "christopher-beckham/amr",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official adversarial mixup resynthesis repository",
+                        "homepage": null,
+                        "id": 176797303,
+                        "language": "Python",
+                        "license": "BSD-3-Clause",
+                        "last_commit": "2020-02-14T15:06:12Z",
+                        "open_issues": 1,
+                        "owner": "christopher-beckham",
+                        "repo": "amr",
+                        "stars": 35,
+                        "topics": [
+                          "acai",
+                          "adversarial-mixup-resynthesis",
+                          "autoencoders",
+                          "celeba-dataset",
+                          "kmnist",
+                          "mixup",
+                          "mnist-dataset",
+                          "representation-learning",
+                          "svhn-dataset",
+                          "unsupervised-learning"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:28:29.002Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Generating Samples"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Sample Mixup Policies in SL"
+            },
+            {
+              "children": [
+                {
                   "node_type": "item",
-                  "title": "mixup: Beyond Empirical Risk Minimization Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz ICLR'2018 [Paper",
-                  "description": "] [Code]",
+                  "title": "Combining Ensembles and Data Augmentation can Harm your Calibration Yeming Wen, Ghassen Jerfel, Rafael Muller, Michael W. Dusenberry, Jasper Snoek, Balaji Lakshminarayanan, Dustin Tran ICLR'2021 [Paper",
+                  "description": "google/edward2",
                   "children": [],
                   "repo_info": {
-                    "archived": true,
-                    "description": "mixup: Beyond Empirical Risk Minimization",
+                    "archived": false,
+                    "description": "A simple probabilistic programming language.",
                     "homepage": null,
-                    "id": 122017965,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2021-10-12T21:33:03Z",
-                    "open_issues": 15,
-                    "owner": "facebookresearch",
-                    "repo": "mixup-cifar10",
-                    "stars": 1195,
-                    "topics": []
+                    "id": 201102332,
+                    "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-16T12:52:09Z",
+                    "open_issues": 77,
+                    "owner": "google",
+                    "repo": "edward2",
+                    "stars": 711,
+                    "topics": [
+                      "bayesian-methods",
+                      "data-science",
+                      "deep-learning",
+                      "machine-learning",
+                      "neural-networks",
+                      "probabilistic-programming",
+                      "statistics",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty Dan Hendrycks, Norman Mu, Ekin D. Cubuk, Barret Zoph, Justin Gilmer, Balaji Lakshminarayanan ICLR'2020 [Paper",
-                  "description": "] [Code]",
+                  "title": "SmoothMix: Training Confidence-calibrated Smoothed Classifiers for Certified Robustness Jongheon Jeong, Sejun Park, Minkyu Kim, Heung-Chang Lee, Doguk Kim, Jinwoo Shin NIPS'2021 [Paper",
+                  "description": "jh-jeong/smoothmix",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty",
+                    "description": "Code for the paper \"SmoothMix: Training Confidence-calibrated Smoothed Classifiers for Certified Robustness\" (NeurIPS 2021)",
+                    "homepage": "https://arxiv.org/abs/2111.09277",
+                    "id": 421290936,
+                    "language": "Roff",
+                    "license": "MIT",
+                    "last_commit": "2022-09-27T02:20:10Z",
+                    "open_issues": 0,
+                    "owner": "jh-jeong",
+                    "repo": "smoothmix",
+                    "stars": 21,
+                    "topics": [
+                      "adversarial-defense",
+                      "deep-learning",
+                      "machine-learning",
+                      "neurips-2021",
+                      "paper",
+                      "randomized-smoothing",
+                      "robustness"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Optimizing Calibration"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TransMix: Attend to Mix for Vision Transformers Jie-Neng Chen, Shuyang Sun, Ju He, Philip Torr, Alan Yuille, Song Bai CVPR'2022 [Paper",
+                  "description": "Beckschen/TransMix",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2022] This repository includes the official project for the paper: TransMix: Attend to Mix for Vision Transformers.",
                     "homepage": null,
-                    "id": 226020168,
+                    "id": 428958539,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-07-17T18:03:33Z",
-                    "open_issues": 7,
-                    "owner": "google-research",
-                    "repo": "augmix",
-                    "stars": 988,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures Dan Hendrycks, Andy Zou, Mantas Mazeika, Leonard Tang, Bo Li, Dawn Song, Jacob Steinhardt CVPR'2022 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures (CVPR 2022)",
-                    "homepage": null,
-                    "id": 435020445,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2022-07-05T17:52:45Z",
-                    "open_issues": 2,
-                    "owner": "andyzoujm",
-                    "repo": "pixmix",
-                    "stars": 111,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Between-class Learning for Image Classification Yuji Tokozume, Yoshitaka Ushiku, Tatsuya Harada CVPR'2018 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Chainer implementation of between-class learning for Image classification https://arxiv.org/abs/1711.10284",
-                    "homepage": null,
-                    "id": 113934009,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2017-12-13T12:31:51Z",
-                    "open_issues": 2,
-                    "owner": "mil-tokyo",
-                    "repo": "bc_learning_image",
-                    "stars": 64,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "IPMix: Label-Preserving Data Augmentation Method for Training Robust Classifiers Zhenglin Huang, Xiaoan Bao, Na Zhang, Qingqi Zhang, Xiaomei Tu, Biao Wu, Xi Yang NIPS'2023 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The offical repository of \"IPMix: Label-Preserving Data Augmentation Method for Training Robust Classifiers\"",
-                    "homepage": null,
-                    "id": 702339784,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2024-05-07T07:01:21Z",
-                    "open_issues": 2,
-                    "owner": "hzlsaber",
-                    "repo": "IPMix",
-                    "stars": 15,
+                    "last_commit": "2022-12-06T16:28:15Z",
+                    "open_issues": 8,
+                    "owner": "Beckschen",
+                    "repo": "TransMix",
+                    "stars": 158,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -115,389 +1187,116 @@
               ],
               "description": null,
               "node_type": "group",
-              "title": "Static Linear"
+              "title": "Area-based"
             },
             {
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Manifold Mixup: Better Representations by Interpolating Hidden States Vikas Verma, Alex Lamb, Christopher Beckham, Amir Najafi, Ioannis Mitliagkas, David Lopez-Paz, Yoshua Bengio ICML'2019 [Paper",
-                  "description": "] [Code]",
+                  "title": "Harnessing Hard Mixed Samples with Decoupled Regularizer Zicheng Liu, Siyuan Li, Ge Wang, Cheng Tan, Lirong Wu, Stan Z. Li NIPS'2023 [Paper",
+                  "description": "Westlake-AI/openmixup",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Code for reproducing Manifold Mixup results (ICML 2019)",
-                    "homepage": null,
-                    "id": 137075504,
+                    "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                    "homepage": "https://openmixup.readthedocs.io",
+                    "id": 443031097,
                     "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-03-31T17:36:48Z",
-                    "open_issues": 9,
-                    "owner": "vikasverma1077",
-                    "repo": "manifold_mixup",
-                    "stars": 494,
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-10-15T10:20:58Z",
+                    "open_issues": 7,
+                    "owner": "Westlake-AI",
+                    "repo": "openmixup",
+                    "stars": 657,
                     "topics": [
-                      "data-augumentation",
+                      "automix",
+                      "awesome-list",
+                      "awesome-mim",
+                      "awesome-mixup",
+                      "benchmark",
+                      "contrastive-learning",
+                      "data-augmentation",
+                      "data-generation",
                       "deep-learning",
-                      "deep-neural-networks",
-                      "icml2019",
+                      "image-classifcation",
+                      "imagenet",
+                      "machine-learning",
+                      "masked-image-modeling",
+                      "mixup",
                       "pytorch",
-                      "regularization",
-                      "supervised-learning",
-                      "supervised-machine-learning"
+                      "self-supervised-learning",
+                      "semi-supervised-learning",
+                      "vision-transformer"
                     ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "On Feature Normalization and Data Augmentation Boyi Li, Felix Wu, Ser-Nam Lim, Serge Belongie, Kilian Q. Weinberger CVPR'2021 [Paper",
-                  "description": "] [Code]",
+                  "title": "MixupE: Understanding and Improving Mixup from Directional Derivative Perspective Vikas Verma, Sarthak Mittal, Wai Hoh Tang, Hieu Pham, Juho Kannala, Yoshua Bengio, Arno Solin, Kenji Kawaguchi UAI'2023 [Paper",
+                  "description": "jensen888/MixupE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "MoEx (Moment Exchange)",
+                    "description": "Codes for \"MixupE: Understanding and Improving Mixup from Directional Derivative Perspective\" UAI 2023 Oral",
                     "homepage": null,
-                    "id": 239047642,
+                    "id": 684884389,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2023-08-30T05:23:44Z",
+                    "open_issues": 0,
+                    "owner": "jensen888",
+                    "repo": "MixupE",
+                    "stars": 30,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Loss Object"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Mixup Without Hesitation Hao Yu, Huanyu Wang, Jianxin Wu ICIG'2022 [Paper",
+                  "description": "yuhao318/mwh",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 328101591,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2021-06-24T02:52:22Z",
-                    "open_issues": 1,
-                    "owner": "Boyiliee",
-                    "repo": "MoEx",
-                    "stars": 140,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "PatchUp: A Regularization Technique for Convolutional Neural Networks Mojtaba Faramarzi, Mohammad Amini, Akilesh Badrinaaraayanan, Vikas Verma, Sarath Chandar arXiv'2020 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 271663254,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2022-12-08T04:21:18Z",
-                    "open_issues": 5,
-                    "owner": "chandar-lab",
-                    "repo": "PatchUp",
-                    "stars": 38,
-                    "topics": [
-                      "convolutional-neural-network",
-                      "pytorch",
-                      "regularization-methods"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Feature-based"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo ICCV'2019 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official Pytorch implementation of CutMix regularizer",
-                    "homepage": null,
-                    "id": 189136525,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2020-09-16T03:47:45Z",
-                    "open_issues": 6,
-                    "owner": "clovaai",
-                    "repo": "CutMix-PyTorch",
-                    "stars": 1251,
-                    "topics": [
-                      "augmentation",
-                      "cutmix",
-                      "iccv2019",
-                      "regularization",
-                      "transfer-learning"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers Jin-Ha Lee, Muhammad Zaigham Zaheer, Marcella Astrid, Seung-Ik Lee CVPRW'2020 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
-                    "homepage": "https://openmixup.readthedocs.io",
-                    "id": 443031097,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2025-10-15T10:20:58Z",
-                    "open_issues": 7,
-                    "owner": "Westlake-AI",
-                    "repo": "openmixup",
-                    "stars": 657,
-                    "topics": [
-                      "automix",
-                      "awesome-list",
-                      "awesome-mim",
-                      "awesome-mixup",
-                      "benchmark",
-                      "contrastive-learning",
-                      "data-augmentation",
-                      "data-generation",
-                      "deep-learning",
-                      "image-classifcation",
-                      "imagenet",
-                      "machine-learning",
-                      "masked-image-modeling",
-                      "mixup",
-                      "pytorch",
-                      "self-supervised-learning",
-                      "semi-supervised-learning",
-                      "vision-transformer"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ResizeMix: Mixing Data with Preserved Object Information and True Labels Jie Qin, Jiemin Fang, Qian Zhang, Wenyu Liu, Xingang Wang, Xinggang Wang arXiv'2020 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
-                    "homepage": "https://openmixup.readthedocs.io",
-                    "id": 443031097,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2025-10-15T10:20:58Z",
-                    "open_issues": 7,
-                    "owner": "Westlake-AI",
-                    "repo": "openmixup",
-                    "stars": 657,
-                    "topics": [
-                      "automix",
-                      "awesome-list",
-                      "awesome-mim",
-                      "awesome-mixup",
-                      "benchmark",
-                      "contrastive-learning",
-                      "data-augmentation",
-                      "data-generation",
-                      "deep-learning",
-                      "image-classifcation",
-                      "imagenet",
-                      "machine-learning",
-                      "masked-image-modeling",
-                      "mixup",
-                      "pytorch",
-                      "self-supervised-learning",
-                      "semi-supervised-learning",
-                      "vision-transformer"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "FMix: Enhancing Mixed Sample Data Augmentation Ethan Harris, Antonia Marcu, Matthew Painter, Mahesan Niranjan, Adam Prügel-Bennett, Jonathon Hare arXiv'2020 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official implementation of 'FMix: Enhancing Mixed Sample Data Augmentation'",
-                    "homepage": "https://arxiv.org/abs/2002.12047",
-                    "id": 239993380,
-                    "language": "Jupyter Notebook",
-                    "license": "MIT",
-                    "last_commit": "2021-03-26T19:00:33Z",
-                    "open_issues": 5,
-                    "owner": "ecs-vlc",
-                    "repo": "FMix",
-                    "stars": 338,
-                    "topics": [
-                      "augmentation",
-                      "pytorch",
-                      "pytorch-lightning",
-                      "tensorflow",
-                      "torchbearer"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "You Only Cut Once: Boosting Data Augmentation with a Single Cut Junlin Han, Pengfei Fang, Weihao Li, Jie Hong, Mohammad Ali Armin, Ian Reid, Lars Petersson, Hongdong Li ICML'2022 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code for You Only Cut Once: Boosting Data Augmentation with a Single Cut, ICML 2022.",
-                    "homepage": null,
-                    "id": 452704480,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2023-08-01T09:05:26Z",
-                    "open_issues": 1,
-                    "owner": "JunlinHan",
-                    "repo": "YOCO",
-                    "stars": 106,
-                    "topics": [
-                      "cifar10",
-                      "cifar100",
-                      "classification",
-                      "computer-vision",
-                      "contrastive-learning",
-                      "data-augmentation",
-                      "data-augmentation-strategies",
-                      "data-augmentations",
-                      "icml",
-                      "imagenet",
-                      "imagenet-classifier",
-                      "instance-segmentation",
-                      "object-detection",
-                      "pytorch",
-                      "rain-removal",
-                      "super-resolution"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "GridMix: Strong regularization through local context mapping Kyungjune Baek, Duhyeon Bang, Hyunjung Shim Pattern Recognition'2021 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A GridMixup augmentation, inspired by GridMask and CutMix",
-                    "homepage": null,
-                    "id": 321269411,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2020-12-24T14:04:03Z",
+                    "last_commit": "2021-01-12T03:08:50Z",
                     "open_issues": 0,
-                    "owner": "IlyaDobrynin",
-                    "repo": "GridMixup",
-                    "stars": 42,
+                    "owner": "yuhao318",
+                    "repo": "mwh",
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective Chanwoo Park, Sangdoo Yun, Sanghyuk Chun NIPS'2022 [Paper",
-                  "description": "] [Code]",
+                  "title": "RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy and Out Distribution Robustness Francesco Pinto, Harry Yang, Ser-Nam Lim, Philip H.S. Torr, Puneet K. Dokania NIPS'2022 [Paper",
+                  "description": "FrancescoPinto/RegMixup",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": null,
+                    "description": "Official implementation of the RegMixup paper",
                     "homepage": null,
-                    "id": 527209806,
-                    "language": "Jupyter Notebook",
-                    "license": "NOASSERTION",
-                    "last_commit": "2022-11-07T07:30:23Z",
-                    "open_issues": 0,
-                    "owner": "naver-ai",
-                    "repo": "hmix-gmix",
-                    "stars": 21,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Improved Mixed-Example Data Augmentation Cecilia Summers, Michael J. Dinneen WACV'2019 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 166514073,
+                    "id": 566876413,
                     "language": "Python",
-                    "license": null,
-                    "last_commit": "2019-01-19T06:52:58Z",
+                    "license": "MIT",
+                    "last_commit": "2022-11-30T18:43:02Z",
                     "open_issues": 0,
-                    "owner": "ceciliaresearch",
-                    "repo": "MixedExample",
-                    "stars": 17,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika, Mahmoud Melkemi arXiv'2022 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "SuperpixelGridMasks is an approach for sensor-based data augmentation towards image classification tasks and so on.",
-                    "homepage": "https://github.com/hammoudiproject/SuperpixelGridMasks",
-                    "id": 480462231,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2023-01-18T11:06:48Z",
-                    "open_issues": 1,
-                    "owner": "hammoudiproject",
-                    "repo": "SuperpixelGridMasks",
-                    "stars": 14,
-                    "topics": [
-                      "artificial-intelligence",
-                      "cnn",
-                      "data-augmentation",
-                      "data-augmentations",
-                      "data-generation",
-                      "datascience",
-                      "deep-learning",
-                      "image-augmentation",
-                      "image-classification",
-                      "image-recognition",
-                      "imagery",
-                      "imaging",
-                      "machine-learning",
-                      "sensor-data",
-                      "training-dataset"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Cutting-based"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Observations on K-image Expansion of Image-Mixing Augmentation for Classification Joonhyun Jeong, Sungmin Cha, Youngjoon Yoo, Sangdoo Yun, Taesup Moon, Jongwon Choi IEEE Access'2021 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official PyTorch Implementation of the paper \"Observations on K-image Expansion of Image-Mixing Augmentation\"",
-                    "homepage": null,
-                    "id": 597702071,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2023-04-25T07:37:38Z",
-                    "open_issues": 1,
-                    "owner": "yjyoo3312",
-                    "repo": "DCutMix-PyTorch",
-                    "stars": 0,
+                    "owner": "FrancescoPinto",
+                    "repo": "RegMixup",
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -505,412 +1304,76 @@
               ],
               "description": null,
               "node_type": "group",
-              "title": "K Samples Mixup"
+              "title": "Random Label Policies"
             },
             {
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Domain Generalization with MixStyle Kaiyang Zhou, Yongxin Yang, Yu Qiao, Tao Xiang ICLR'2021 [Paper",
-                  "description": "] [Code]",
+                  "title": "RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy and Out Distribution Robustness Francesco Pinto, Harry Yang, Ser-Nam Lim, Philip H.S. Torr, Puneet K. Dokania NIPS'2022 [Paper",
+                  "description": "FrancescoPinto/RegMixup",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Domain Generalization with MixStyle (ICLR'21)",
+                    "description": "Official implementation of the RegMixup paper",
                     "homepage": null,
-                    "id": 282191005,
+                    "id": 566876413,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2022-10-06T12:44:06Z",
-                    "open_issues": 10,
-                    "owner": "KaiyangZhou",
-                    "repo": "mixstyle-release",
-                    "stars": 336,
-                    "topics": [
-                      "domain-generalization",
-                      "feature-statistics",
-                      "iclr2021",
-                      "image-classification",
-                      "person-reidentification",
-                      "reinforcement-learning",
-                      "representation-learning"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "AlignMix: Improving representation by interpolating aligned features Shashanka Venkataramanan, Ewa Kijak, Laurent Amsaleg, Yannis Avrithis CVPR'2022 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official Implementation of AlignMixup - CVPR 2022",
-                    "homepage": null,
-                    "id": 468217044,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2022-04-04T06:33:56Z",
-                    "open_issues": 4,
-                    "owner": "shashankvkt",
-                    "repo": "AlignMixup_CVPR22",
-                    "stars": 72,
-                    "topics": [
-                      "alignment",
-                      "augmentation",
-                      "cvpr2022",
-                      "deep-learning",
-                      "mixup",
-                      "optimal-transport",
-                      "pytorch"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "StyleMix: Separating Content and Style for Enhanced Data Augmentation Minui Hong, Jinwoo Choi, Gunhee Kim CVPR'2021 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 352472980,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2021-06-23T13:22:23Z",
+                    "last_commit": "2022-11-30T18:43:02Z",
                     "open_issues": 0,
-                    "owner": "alsdml",
-                    "repo": "StyleMix",
-                    "stars": 33,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Style-based"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Where to Cut and Paste: Data Regularization with Selective Features Jiyeon Kim, Ik-Hee Shin, Jong-Ryul, Lee, Yong-Ju Lee ICTC'2020 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty",
-                    "homepage": null,
-                    "id": 226020168,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-07-17T18:03:33Z",
-                    "open_issues": 7,
-                    "owner": "google-research",
-                    "repo": "augmix",
-                    "stars": 988,
+                    "owner": "FrancescoPinto",
+                    "repo": "RegMixup",
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "AutoMix: Unveiling the Power of Mixup for Stronger Classifiers Zicheng Liu, Siyuan Li, Di Wu, Zihan Liu, Zhiyuan Chen, Lirong Wu, Stan Z. Li ECCV'2022 [Paper",
-                  "description": "] [Code]",
+                  "title": "SUMix: Mixup with Semantic and Uncertain Information Huafeng Qin, Xin Jin, Hongyu Zhu, Hongchao Liao, Mounîm A. El-Yacoubi, Xinbo Gao ECCV'2024 [Paper",
+                  "description": "JinXins/SUMix",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
-                    "homepage": "https://openmixup.readthedocs.io",
-                    "id": 443031097,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2025-10-15T10:20:58Z",
-                    "open_issues": 7,
-                    "owner": "Westlake-AI",
-                    "repo": "openmixup",
-                    "stars": 657,
-                    "topics": [
-                      "automix",
-                      "awesome-list",
-                      "awesome-mim",
-                      "awesome-mixup",
-                      "benchmark",
-                      "contrastive-learning",
-                      "data-augmentation",
-                      "data-generation",
-                      "deep-learning",
-                      "image-classifcation",
-                      "imagenet",
-                      "machine-learning",
-                      "masked-image-modeling",
-                      "mixup",
-                      "pytorch",
-                      "self-supervised-learning",
-                      "semi-supervised-learning",
-                      "vision-transformer"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup Siyuan Li, Zicheng Liu, Di Wu, Zihan Liu, Stan Z. Li arXiv'2021 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
-                    "homepage": "https://openmixup.readthedocs.io",
-                    "id": 443031097,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2025-10-15T10:20:58Z",
-                    "open_issues": 7,
-                    "owner": "Westlake-AI",
-                    "repo": "openmixup",
-                    "stars": 657,
-                    "topics": [
-                      "automix",
-                      "awesome-list",
-                      "awesome-mim",
-                      "awesome-mixup",
-                      "benchmark",
-                      "contrastive-learning",
-                      "data-augmentation",
-                      "data-generation",
-                      "deep-learning",
-                      "image-classifcation",
-                      "imagenet",
-                      "machine-learning",
-                      "masked-image-modeling",
-                      "mixup",
-                      "pytorch",
-                      "self-supervised-learning",
-                      "semi-supervised-learning",
-                      "vision-transformer"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "PuzzleMix: Exploiting Saliency and Local Statistics for Optimal Mixup Jang-Hyun Kim, Wonho Choo, Hyun Oh Song ICML'2020 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official PyTorch implementation of \"Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup\" (ICML'20)",
+                    "description": "About Official PyTorch(MMCV) implementation of “SUMix: Mixup with Semantic and Uncertain Information” (ECCV 2024)",
                     "homepage": null,
-                    "id": 230866910,
-                    "language": "Jupyter Notebook",
+                    "id": 825632510,
+                    "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2021-11-25T05:35:33Z",
-                    "open_issues": 0,
-                    "owner": "snu-mllab",
-                    "repo": "PuzzleMix",
-                    "stars": 156,
-                    "topics": [
-                      "data-augmentation",
-                      "mixup"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data Shaoli Huang, Xinchao Wang, Dacheng Tao AAAI'2021 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data (AAAI 2021)",
-                    "homepage": null,
-                    "id": 319199536,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2020-12-26T05:12:44Z",
-                    "open_issues": 4,
-                    "owner": "Shaoli-Huang",
-                    "repo": "SnapMix",
-                    "stars": 129,
-                    "topics": [
-                      "aaai2021",
-                      "cutmix",
-                      "data-augmentation",
-                      "fine-grained-recognition",
-                      "mixup"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity Jang-Hyun Kim, Wonho Choo, Hosan Jeong, Hyun Oh Song ICLR'2021 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official PyTorch implementation of \"Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity\" (ICLR'21 Oral)",
-                    "homepage": null,
-                    "id": 335542865,
-                    "language": "Jupyter Notebook",
-                    "license": "MIT",
-                    "last_commit": "2021-12-02T09:58:45Z",
-                    "open_issues": 0,
-                    "owner": "snu-mllab",
-                    "repo": "Co-Mixup",
-                    "stars": 108,
-                    "topics": [
-                      "data-augmentation",
-                      "mixup"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "SuperMix: Supervising the Mixing Data Augmentation Ali Dabouei, Sobhan Soleymani, Fariborz Taherkhani, Nasser M. Nasrabadi CVPR'2021 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Pytorch implementation of CVPR2021 paper: SuperMix: Supervising the Mixing Data Augmentation",
-                    "homepage": null,
-                    "id": 231245106,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2022-01-06T01:55:11Z",
-                    "open_issues": 1,
-                    "owner": "alldbi",
-                    "repo": "SuperMix",
-                    "stars": 92,
-                    "topics": [
-                      "augmentation",
-                      "cvpr2021",
-                      "deep-learning",
-                      "distillation",
-                      "pytorch",
-                      "saliency-detection",
-                      "supervised"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Adversarial AutoMixup Huafeng Qin, Xin Jin, Yun Jiang, Mounim A. El-Yacoubi, Xinbo Gao ICLR'2024 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official PyTorch(MMCV) implementation of “Adversarial AutoMixup” (ICLR 2024 spotlight)",
-                    "homepage": "https://arxiv.org/abs/2312.11954",
-                    "id": 722884429,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2024-11-02T04:52:39Z",
+                    "last_commit": "2024-09-02T15:08:13Z",
                     "open_issues": 0,
                     "owner": "JinXins",
-                    "repo": "Adversarial-AutoMixup",
-                    "stars": 71,
+                    "repo": "SUMix",
+                    "stars": 12,
                     "topics": [
-                      "cars196",
-                      "classification",
-                      "computer-vision",
+                      "cifar100",
                       "convolutional-neural-networks",
-                      "corruption",
-                      "deep-learning",
-                      "fgvc-aircraft",
+                      "image-classification",
                       "imagenet",
-                      "pytorch"
+                      "mixup",
+                      "vision-transformer"
                     ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization A F M Shahab Uddin and Mst. Sirazam Monira and Wheemyung Shin and TaeChoong Chung and Sung-Ho Bae ICLR'2021 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization",
-                    "homepage": null,
-                    "id": 312258169,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2022-11-23T02:56:05Z",
-                    "open_issues": 2,
-                    "owner": "afm-shahab-uddin",
-                    "repo": "SaliencyMix",
-                    "stars": 48,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps Minsoo Kang, Suhyun Kim AAAI'2023 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official PyTorch implementation of \"GuidedMixup An Efficient Mixup Strategy Guided by Saliency Maps\" (AAAI'23 Oral)",
-                    "homepage": null,
-                    "id": 696301042,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2024-07-09T14:31:16Z",
-                    "open_issues": 0,
-                    "owner": "3neutronstar",
-                    "repo": "GuidedMixup",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification Devesh Walawalkar, Zhiqiang Shen, Zechun Liu, Marios Savvides ICASSP'2020 [Paper",
-                  "description": "] [Code]",
+                  "title": "LUMix: Improving Mixup by Better Modelling Label Uncertainty Shuyang Sun, Jie-Neng Chen, Ruifei He, Alan Yuille, Philip Torr, Song Bai ICASSP'2024 [Paper",
+                  "description": "kevin-ssy/LUMix",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "description": null,
                     "homepage": null,
-                    "id": 302183364,
-                    "language": "Python",
+                    "id": 569378036,
+                    "language": null,
                     "license": "MIT",
-                    "last_commit": "2020-10-15T02:17:43Z",
+                    "last_commit": "2022-11-22T17:33:23Z",
                     "open_issues": 1,
-                    "owner": "xden2331",
-                    "repo": "attentive_cutmix",
-                    "stars": 6,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "LGCOAMix: Local and Global Context-and-Object-Part-Aware Superpixel-Based Data Augmentation for Deep Visual Recognition Fadi Dornaika, Danyang Sun TIP'2023 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 607574622,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2023-11-30T16:17:05Z",
-                    "open_issues": 1,
-                    "owner": "DanielaPlusPlus",
-                    "repo": "LGCOAMix",
-                    "stars": 2,
+                    "owner": "kevin-ssy",
+                    "repo": "LUMix",
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -918,14 +1381,42 @@
               ],
               "description": null,
               "node_type": "group",
-              "title": "Saliency-based"
+              "title": "Optimizing Mixing Ratio"
             },
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "All Tokens Matter: Token Labeling for Training Better Vision Transformers Zihang Jiang, Qibin Hou, Li Yuan, Daquan Zhou, Yujun Shi, Xiaojie Jin, Anran Wang, Jiashi Feng NIPS'2021 [Paper",
+                  "description": "zihangJiang/TokenLabeling",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Pytorch implementation of \"All Tokens Matter: Token Labeling for Training Better Vision Transformers\"",
+                    "homepage": null,
+                    "id": 359763441,
+                    "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
+                    "last_commit": "2023-09-05T07:44:23Z",
+                    "open_issues": 7,
+                    "owner": "zihangJiang",
+                    "repo": "TokenLabeling",
+                    "stars": 436,
+                    "topics": [
+                      "imagenet",
+                      "lv-vit",
+                      "pytorch",
+                      "segmentation",
+                      "transformer",
+                      "vision"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
+                },
                 {
                   "node_type": "item",
                   "title": "TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers Jihao Liu, Boxiao Liu, Hang Zhou, Hongsheng Li, Yu Liu ECCV'2022 [Paper",
-                  "description": "] [Code]",
+                  "description": "Sense-X/TokenMix",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -946,7 +1437,7 @@
                 {
                   "node_type": "item",
                   "title": "TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers Hyeong Kyu Choi, Joonmyung Choi, Hyunwoo J. Kim NIPS'2022 [Paper",
-                  "description": "] [Code]",
+                  "description": "mlvlab/TokenMixup",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -970,8 +1461,29 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Token-Label Alignment for Vision Transformers Han Xiao, Wenzhao Zheng, Zheng Zhu, Jie Zhou, Jiwen Lu ICCV'2023 [Paper",
+                  "description": "Euphoria16/TL-Align",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICCV 2023]The PyTorch implementation of TL-Align: Token-Label Alignment for Vision Transformers.",
+                    "homepage": null,
+                    "id": 549691887,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2023-07-16T03:41:09Z",
+                    "open_issues": 1,
+                    "owner": "Euphoria16",
+                    "repo": "TL-Align",
+                    "stars": 23,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:28:29.002Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer Qihao Zhao, Yangyu Huang, Wei Hu, Fan Zhang, Jun Liu ICLR'2023 [Paper",
-                  "description": "] [Code]",
+                  "description": "fistyee/MixPro",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -992,93 +1504,37 @@
                     ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "SMMix: Self-Motivated Image Mixing for Vision Transformers Mengzhao Chen, Mingbao Lin, ZhiHang Lin, Yuxin Zhang, Fei Chao, Rongrong Ji ICCV'2023 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICCV 23]This is a Pytorch implementation of our paper \"SMMix: Self-Motivated Image Mixing for Vision Transformers\"",
-                    "homepage": null,
-                    "id": 581487090,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2023-07-14T09:02:15Z",
-                    "open_issues": 1,
-                    "owner": "ChenMnZ",
-                    "repo": "SMMix",
-                    "stars": 16,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
                 }
               ],
               "description": null,
               "node_type": "group",
-              "title": "Attention-based"
+              "title": "Attention Score"
             },
             {
               "children": [
                 {
                   "node_type": "item",
-                  "title": "DiffuseMix: Label-Preserving Data Augmentation with Diffusion Models Khawar Islam, Muhammad Zaigham Zaheer, Arif Mahmood, Karthik Nandakumar CVPR'2024 [Paper",
-                  "description": "] [Code]",
+                  "title": "SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data Shaoli Huang, Xinchao Wang, Dacheng Tao AAAI'2021 [Paper",
+                  "description": "Shaoli-Huang/SnapMix",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Official PyTorch implementation of DiffuseMix : Label-Preserving Data Augmentation with Diffusion Models (CVPR'2024)",
-                    "homepage": "https://diffusemix.github.io",
-                    "id": 767332139,
+                    "description": "SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data (AAAI 2021)",
+                    "homepage": null,
+                    "id": 319199536,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-01-13T03:42:38Z",
-                    "open_issues": 0,
-                    "owner": "khawar-islam",
-                    "repo": "diffuseMix",
-                    "stars": 137,
+                    "last_commit": "2020-12-26T05:12:44Z",
+                    "open_issues": 4,
+                    "owner": "Shaoli-Huang",
+                    "repo": "SnapMix",
+                    "stars": 129,
                     "topics": [
+                      "aaai2021",
                       "cutmix",
                       "data-augmentation",
-                      "diffusion-models",
-                      "generative-data-augmentation",
-                      "image-classification",
-                      "mixup",
-                      "synthetic-data",
-                      "transfer-learning"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:28:29.002Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "On Adversarial Mixup Resynthesis Christopher Beckham, Sina Honari, Vikas Verma, Alex Lamb, Farnoosh Ghadiri, R Devon Hjelm, Yoshua Bengio, Christopher Pal NIPS'2019 [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official adversarial mixup resynthesis repository",
-                    "homepage": null,
-                    "id": 176797303,
-                    "language": "Python",
-                    "license": "BSD-3-Clause",
-                    "last_commit": "2020-02-14T15:06:12Z",
-                    "open_issues": 1,
-                    "owner": "christopher-beckham",
-                    "repo": "amr",
-                    "stars": 35,
-                    "topics": [
-                      "acai",
-                      "adversarial-mixup-resynthesis",
-                      "autoencoders",
-                      "celeba-dataset",
-                      "kmnist",
-                      "mixup",
-                      "mnist-dataset",
-                      "representation-learning",
-                      "svhn-dataset",
-                      "unsupervised-learning"
+                      "fine-grained-recognition",
+                      "mixup"
                     ]
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1086,464 +1542,15 @@
               ],
               "description": null,
               "node_type": "group",
-              "title": "Generating Samples"
+              "title": "Saliency Token"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Sample Mixup Policies in SL"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Combining Ensembles and Data Augmentation can Harm your Calibration Yeming Wen, Ghassen Jerfel, Rafael Muller, Michael W. Dusenberry, Jasper Snoek, Balaji Lakshminarayanan, Dustin Tran ICLR'2021 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A simple probabilistic programming language.",
-                "homepage": null,
-                "id": 201102332,
-                "language": "Jupyter Notebook",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-16T12:52:09Z",
-                "open_issues": 77,
-                "owner": "google",
-                "repo": "edward2",
-                "stars": 711,
-                "topics": [
-                  "bayesian-methods",
-                  "data-science",
-                  "deep-learning",
-                  "machine-learning",
-                  "neural-networks",
-                  "probabilistic-programming",
-                  "statistics",
-                  "tensorflow"
-                ]
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SmoothMix: Training Confidence-calibrated Smoothed Classifiers for Certified Robustness Jongheon Jeong, Sejun Park, Minkyu Kim, Heung-Chang Lee, Doguk Kim, Jinwoo Shin NIPS'2021 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for the paper \"SmoothMix: Training Confidence-calibrated Smoothed Classifiers for Certified Robustness\" (NeurIPS 2021)",
-                "homepage": "https://arxiv.org/abs/2111.09277",
-                "id": 421290936,
-                "language": "Roff",
-                "license": "MIT",
-                "last_commit": "2022-09-27T02:20:10Z",
-                "open_issues": 0,
-                "owner": "jh-jeong",
-                "repo": "smoothmix",
-                "stars": 21,
-                "topics": [
-                  "adversarial-defense",
-                  "deep-learning",
-                  "machine-learning",
-                  "neurips-2021",
-                  "paper",
-                  "randomized-smoothing",
-                  "robustness"
-                ]
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Optimizing Calibration"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "TransMix: Attend to Mix for Vision Transformers Jie-Neng Chen, Shuyang Sun, Ju He, Philip Torr, Alan Yuille, Song Bai CVPR'2022 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2022] This repository includes the official project for the paper: TransMix: Attend to Mix for Vision Transformers.",
-                "homepage": null,
-                "id": 428958539,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2022-12-06T16:28:15Z",
-                "open_issues": 8,
-                "owner": "Beckschen",
-                "repo": "TransMix",
-                "stars": 158,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Area-based"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Harnessing Hard Mixed Samples with Decoupled Regularizer Zicheng Liu, Siyuan Li, Ge Wang, Cheng Tan, Lirong Wu, Stan Z. Li NIPS'2023 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
-                "homepage": "https://openmixup.readthedocs.io",
-                "id": 443031097,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2025-10-15T10:20:58Z",
-                "open_issues": 7,
-                "owner": "Westlake-AI",
-                "repo": "openmixup",
-                "stars": 657,
-                "topics": [
-                  "automix",
-                  "awesome-list",
-                  "awesome-mim",
-                  "awesome-mixup",
-                  "benchmark",
-                  "contrastive-learning",
-                  "data-augmentation",
-                  "data-generation",
-                  "deep-learning",
-                  "image-classifcation",
-                  "imagenet",
-                  "machine-learning",
-                  "masked-image-modeling",
-                  "mixup",
-                  "pytorch",
-                  "self-supervised-learning",
-                  "semi-supervised-learning",
-                  "vision-transformer"
-                ]
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MixupE: Understanding and Improving Mixup from Directional Derivative Perspective Vikas Verma, Sarthak Mittal, Wai Hoh Tang, Hieu Pham, Juho Kannala, Yoshua Bengio, Arno Solin, Kenji Kawaguchi UAI'2023 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Codes for \"MixupE: Understanding and Improving Mixup from Directional Derivative Perspective\" UAI 2023 Oral",
-                "homepage": null,
-                "id": 684884389,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-08-30T05:23:44Z",
-                "open_issues": 0,
-                "owner": "jensen888",
-                "repo": "MixupE",
-                "stars": 30,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Loss Object"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Mixup Without Hesitation Hao Yu, Huanyu Wang, Jianxin Wu ICIG'2022 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 328101591,
-                "language": "Python",
-                "license": "BSD-3-Clause",
-                "last_commit": "2021-01-12T03:08:50Z",
-                "open_issues": 0,
-                "owner": "yuhao318",
-                "repo": "mwh",
-                "stars": 40,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            },
-            {
-              "node_type": "item",
-              "title": "RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy and Out Distribution Robustness Francesco Pinto, Harry Yang, Ser-Nam Lim, Philip H.S. Torr, Puneet K. Dokania NIPS'2022 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of the RegMixup paper",
-                "homepage": null,
-                "id": 566876413,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-11-30T18:43:02Z",
-                "open_issues": 0,
-                "owner": "FrancescoPinto",
-                "repo": "RegMixup",
-                "stars": 22,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Random Label Policies"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy and Out Distribution Robustness Francesco Pinto, Harry Yang, Ser-Nam Lim, Philip H.S. Torr, Puneet K. Dokania NIPS'2022 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of the RegMixup paper",
-                "homepage": null,
-                "id": 566876413,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-11-30T18:43:02Z",
-                "open_issues": 0,
-                "owner": "FrancescoPinto",
-                "repo": "RegMixup",
-                "stars": 22,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SUMix: Mixup with Semantic and Uncertain Information Huafeng Qin, Xin Jin, Hongyu Zhu, Hongchao Liao, Mounîm A. El-Yacoubi, Xinbo Gao ECCV'2024 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "About Official PyTorch(MMCV) implementation of “SUMix: Mixup with Semantic and Uncertain Information” (ECCV 2024)",
-                "homepage": null,
-                "id": 825632510,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-09-02T15:08:13Z",
-                "open_issues": 0,
-                "owner": "JinXins",
-                "repo": "SUMix",
-                "stars": 12,
-                "topics": [
-                  "cifar100",
-                  "convolutional-neural-networks",
-                  "image-classification",
-                  "imagenet",
-                  "mixup",
-                  "vision-transformer"
-                ]
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LUMix: Improving Mixup by Better Modelling Label Uncertainty Shuyang Sun, Jie-Neng Chen, Ruifei He, Alan Yuille, Philip Torr, Song Bai ICASSP'2024 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 569378036,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2022-11-22T17:33:23Z",
-                "open_issues": 1,
-                "owner": "kevin-ssy",
-                "repo": "LUMix",
-                "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Optimizing Mixing Ratio"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "All Tokens Matter: Token Labeling for Training Better Vision Transformers Zihang Jiang, Qibin Hou, Li Yuan, Daquan Zhou, Yujun Shi, Xiaojie Jin, Anran Wang, Jiashi Feng NIPS'2021 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Pytorch implementation of \"All Tokens Matter: Token Labeling for Training Better Vision Transformers\"",
-                "homepage": null,
-                "id": 359763441,
-                "language": "Jupyter Notebook",
-                "license": "Apache-2.0",
-                "last_commit": "2023-09-05T07:44:23Z",
-                "open_issues": 7,
-                "owner": "zihangJiang",
-                "repo": "TokenLabeling",
-                "stars": 436,
-                "topics": [
-                  "imagenet",
-                  "lv-vit",
-                  "pytorch",
-                  "segmentation",
-                  "transformer",
-                  "vision"
-                ]
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers Jihao Liu, Boxiao Liu, Hang Zhou, Hongsheng Li, Yu Liu ECCV'2022 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers (ECCV 2022)",
-                "homepage": null,
-                "id": 512638545,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-09-08T06:56:48Z",
-                "open_issues": 7,
-                "owner": "Sense-X",
-                "repo": "TokenMix",
-                "stars": 96,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers Hyeong Kyu Choi, Joonmyung Choi, Hyunwoo J. Kim NIPS'2022 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official pytorch implementation of NeurIPS 2022 paper, TokenMixup",
-                "homepage": null,
-                "id": 541370236,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-11-22T09:45:10Z",
-                "open_issues": 0,
-                "owner": "mlvlab",
-                "repo": "TokenMixup",
-                "stars": 47,
-                "topics": [
-                  "mixup",
-                  "neurips-2022",
-                  "vision-transformer"
-                ]
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Token-Label Alignment for Vision Transformers Han Xiao, Wenzhao Zheng, Zheng Zhu, Jie Zhou, Jiwen Lu ICCV'2023 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICCV 2023]The PyTorch implementation of TL-Align: Token-Label Alignment for Vision Transformers.",
-                "homepage": null,
-                "id": 549691887,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-07-16T03:41:09Z",
-                "open_issues": 1,
-                "owner": "Euphoria16",
-                "repo": "TL-Align",
-                "stars": 23,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer Qihao Zhao, Yangyu Huang, Wei Hu, Fan Zhang, Jun Liu ICLR'2023 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🔥MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer [Official, ICLR 2023]",
-                "homepage": null,
-                "id": 628153719,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-11-03T06:19:25Z",
-                "open_issues": 0,
-                "owner": "fistyee",
-                "repo": "MixPro",
-                "stars": 22,
-                "topics": [
-                  "classification",
-                  "data-augmentation",
-                  "vision-transformer"
-                ]
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Attention Score"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data Shaoli Huang, Xinchao Wang, Dacheng Tao AAAI'2021 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data (AAAI 2021)",
-                "homepage": null,
-                "id": 319199536,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2020-12-26T05:12:44Z",
-                "open_issues": 4,
-                "owner": "Shaoli-Huang",
-                "repo": "SnapMix",
-                "stars": 129,
-                "topics": [
-                  "aaai2021",
-                  "cutmix",
-                  "data-augmentation",
-                  "fine-grained-recognition",
-                  "mixup"
-                ]
-              },
-              "first_seen": "2026-08-29T02:28:29.002Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Saliency Token"
+          "title": "Table of Contents"
         }
       ],
-      "title": "Table of Contents"
+      "title": "Figuer of Contents"
     },
     {
       "description": null,
@@ -1553,7 +1560,7 @@
             {
               "node_type": "item",
               "title": "Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup Siyuan Li, Zicheng Liu, Di Wu, Zihan Liu, Stan Z. Li arXiv'2021 [Paper",
-              "description": "] [Code]",
+              "description": "Westlake-AI/openmixup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1593,7 +1600,7 @@
             {
               "node_type": "item",
               "title": "Un-Mix: Rethinking Image Mixtures for Unsupervised Visual Representation Zhiqiang Shen, Zechun Liu, Zhuang Liu, Marios Savvides, Trevor Darrell, Eric Xing AAAI'2022 [Paper",
-              "description": "] [Code]",
+              "description": "szq0214/Un-Mix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1620,7 +1627,7 @@
             {
               "node_type": "item",
               "title": "On the Importance of Asymmetry for Siamese Representation Learning Xiao Wang, Haoqi Fan, Yuandong Tian, Daisuke Kihara, Xinlei Chen CVPR'2022 [Paper",
-              "description": "] [Code]",
+              "description": "facebookresearch/asym-siam",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1641,7 +1648,7 @@
             {
               "node_type": "item",
               "title": "Improving Contrastive Learning by Visualizing Feature Transformation Rui Zhu, Bingchen Zhao, Jingen Liu, Zhenglong Sun, Chang Wen Chen ICCV'2021 [Paper",
-              "description": "] [Code]",
+              "description": "DTennant/CL-Visualizing-Feature-Transformation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1662,7 +1669,7 @@
             {
               "node_type": "item",
               "title": "i-Mix A Domain-Agnostic Strategy for Contrastive Representation Learning Kibok Lee, Yian Zhu, Kihyuk Sohn, Chun-Liang Li, Jinwoo Shin, Honglak Lee ICLR'2021 [Paper",
-              "description": "] [Code]",
+              "description": "kibok90/imix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1683,7 +1690,7 @@
             {
               "node_type": "item",
               "title": "MixCo: Mix-up Contrastive Learning for Visual Representation Sungnyun Kim, Gihun Lee, Sangmin Bae, Se-Young Yun NIPSW'2020 [Paper",
-              "description": "] [Code]",
+              "description": "Lee-Gihun/MixCo-Mixup-Contrast",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1709,7 +1716,7 @@
             {
               "node_type": "item",
               "title": "ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning Jun Xia, Lirong Wu, Ge Wang, Jintao Chen, Stan Z.Li ICML'2022 [Paper",
-              "description": "] [Code]",
+              "description": "junxia97/ProGCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1736,7 +1743,7 @@
             {
               "node_type": "item",
               "title": "Geodesic Multi-Modal Mixup for Robust Fine-Tuning Changdae Oh, Junhyuk So, Hoyoon Byun, YongTaek Lim, Minchul Shin, Jong-June Jeon, Kyungwoo Song NIPS'2023 [Paper",
-              "description": "] [Code]",
+              "description": "changdaeoh/multimodal-mixup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1757,7 +1764,7 @@
             {
               "node_type": "item",
               "title": "Unleashing the Power of Contrastive Self-Supervised Visual Models via Contrast-Regularized Fine-Tuning Yifan Zhang, Bryan Hooi, Dapeng Hu, Jian Liang, Jiashi Feng NIPS'2021 [Paper",
-              "description": "] [Code]",
+              "description": "YifanZhang07/Core-tuning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1778,7 +1785,7 @@
             {
               "node_type": "item",
               "title": "A Simple Data Mixing Prior for Improving Self-Supervised Learning Sucheng Ren, Huiyu Wang, Zhengqi Gao, Shengfeng He, Alan Yuille, Yuyin Zhou, Cihang Xie CVPR'2022 [Paper",
-              "description": "] [Code]",
+              "description": "OliverRensu/SDMP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1799,7 +1806,7 @@
             {
               "node_type": "item",
               "title": "CropMix: Sampling a Rich Input Distribution via Multi-Scale Cropping Junlin Han, Lars Petersson, Hongdong Li, Ian Reid arXiv'2022 [Paper",
-              "description": "] [Code]",
+              "description": "JunlinHan/CropMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1830,7 +1837,7 @@
             {
               "node_type": "item",
               "title": "m-Mix: Generating Hard Negatives via Multi-sample Mixing for Contrastive Learning Shaofeng Zhang, Meng Liu, Junchi Yan, Hengrui Zhang, Lingxiao Huang, Pinyan Lu, Xiaokang Yang KDD'2022 [Paper",
-              "description": "] [Code]",
+              "description": "Sherrylone/M-Mix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1858,7 +1865,7 @@
             {
               "node_type": "item",
               "title": "MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers Jihao Liu, Xin Huang, Jinliang Zheng, Yu Liu, Hongsheng Li CVPR'2023 [Paper",
-              "description": "] [Code]",
+              "description": "Sense-X/MixMIM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1882,7 +1889,7 @@
             {
               "node_type": "item",
               "title": "i-MAE: Are Latent Representations in Masked Autoencoders Linearly Separable Kevin Zhang, Zhiqiang Shen arXiv'2022 [Paper",
-              "description": "] [Code]",
+              "description": "VILA-Lab/i-mae",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1910,7 +1917,7 @@
             {
               "node_type": "item",
               "title": "MixMatch: A Holistic Approach to Semi-Supervised Learning David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel NIPS'2019 [Paper",
-              "description": "] [Code]",
+              "description": "google-research/mixmatch",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1931,7 +1938,7 @@
             {
               "node_type": "item",
               "title": "DivideMix: Learning with Noisy Labels as Semi-supervised Learning Junnan Li, Richard Socher, Steven C.H. Hoi ICLR'2020 [Paper",
-              "description": "] [Code]",
+              "description": "LiJunnan1992/DivideMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1952,7 +1959,7 @@
             {
               "node_type": "item",
               "title": "ReMixMatch: Semi-Supervised Learning with Distribution Matching and Augmentation Anchoring David Berthelot, Nicholas Carlini, Ekin D. Cubuk, Alex Kurakin, Kihyuk Sohn, Han Zhang, Colin Raffel ICLR'2020 [Paper",
-              "description": "] [Code]",
+              "description": "google-research/remixmatch",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1973,7 +1980,7 @@
             {
               "node_type": "item",
               "title": "Milking CowMask for Semi-Supervised Image Classification Geoff French, Avital Oliver, Tim Salimans NIPS'2020 [Paper",
-              "description": "] [Code]",
+              "description": "google-research/google-research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1998,7 +2005,7 @@
             {
               "node_type": "item",
               "title": "Harnessing Hard Mixed Samples with Decoupled Regularizer Zicheng Liu, Siyuan Li, Ge Wang, Cheng Tan, Lirong Wu, Stan Z. Li NIPS'2023 [Paper",
-              "description": "] [Code]",
+              "description": "Westlake-AI/openmixup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2064,7 +2071,7 @@
             {
               "node_type": "item",
               "title": "MUM: Mix Image Tiles and UnMix Feature Tiles for Semi-Supervised Object Detection JongMok Kim, Jooyoung Jang, Seunghyeon Seo, Jisoo Jeong, Jongkeun Na, Nojun Kwak CVPR'2022 [Paper",
-              "description": "] [Code]",
+              "description": "JongMokKim/mix-unmix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2085,7 +2092,7 @@
             {
               "node_type": "item",
               "title": "Manifold DivideMix: A Semi-Supervised Contrastive Learning Framework for Severe Label Noise Fahimeh Fooladgar, Minh Nguyen Nhat To, Parvin Mousavi, Purang Abolmaesumi arXiv'2023 [Paper",
-              "description": "] [Code]",
+              "description": "Fahim-F/ManifoldDivideMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2106,7 +2113,7 @@
             {
               "node_type": "item",
               "title": "PCLMix: Weakly Supervised Medical Image Segmentation via Pixel-Level Contrastive Learning and Dynamic Mix Augmentation Yu Lei, Haolun Luo, Lituan Wang, Zhenwei Zhang, Lei Zhang arXiv'2024 [Paper",
-              "description": "] [Code]",
+              "description": "torpedo2003/PCLMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2143,7 +2150,7 @@
             {
               "node_type": "item",
               "title": "Tailoring Mixup to Data using Kernel Warping functions Quentin Bouniot, Pavlo Mozharovskyi, Florence d'Alché-Buc arXiv'2023 [Paper",
-              "description": "] [Code]",
+              "description": "torch-uncertainty/torch-uncertainty",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2175,7 +2182,7 @@
             {
               "node_type": "item",
               "title": "Rank-N-Contrast: Learning Continuous Representations for Regression Kaiwen Zha, Peng Cao, Jeany Son, Yuzhe Yang, Dina Katabi NIPS'2023 [Paper",
-              "description": "] [Code]",
+              "description": "kaiwenzha/Rank-N-Contrast",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2204,7 +2211,7 @@
             {
               "node_type": "item",
               "title": "C-Mixup: Improving Generalization in Regression Huaxiu Yao, Yiping Wang, Linjun Zhang, James Zou, Chelsea Finn NIPS'2022 [Paper",
-              "description": "] [Code]",
+              "description": "huaxiuyao/C-Mixup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2225,7 +2232,7 @@
             {
               "node_type": "item",
               "title": "Mixup Your Own Pairs Yilei Wu, Zijian Dong, Chongyao Chen, Wangchunshu Zhou, Juan Helen Zhou arXiv'2023 [Paper",
-              "description": "] [Code]",
+              "description": "yilei-wu/SupReMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2253,7 +2260,7 @@
             {
               "node_type": "item",
               "title": "Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective Zhengzhuo Xu, Zenghao Chai, Chun Yuan NIPS'2021 [Paper",
-              "description": "] [Code]",
+              "description": "XuZhengzhuo/Prior-LT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2307,7 +2314,7 @@
             {
               "node_type": "item",
               "title": "CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision Ke Zhang, Xiahai Zhuang CVPR'2022 [Paper",
-              "description": "] [Code]",
+              "description": "BWGZK/CycleMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2336,7 +2343,7 @@
             {
               "node_type": "item",
               "title": "ClassMix: Segmentation-Based Data Augmentation for Semi-Supervised Learning Viktor Olsson, Wilhelm Tranheden, Juliano Pinto, Lennart Svensson WACV'2021 [Paper",
-              "description": "] [Code]",
+              "description": "WilhelmT/ClassMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2357,7 +2364,7 @@
             {
               "node_type": "item",
               "title": "Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation Qinghe Ma, Jian Zhang, Lei Qi, Qian Yu, Yinghuan Shi, Yang Gao CVPR'2024 [Paper",
-              "description": "] [Code]",
+              "description": "MQinghe/MiDSS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2378,7 +2385,7 @@
             {
               "node_type": "item",
               "title": "InsMix: Towards Realistic Generative Data Augmentation for Nuclei Instance Segmentation Yi Lin, Zeyu Wang, Kwang-Ting Cheng, Hao Chen MICCAI'2022 [Paper",
-              "description": "] [Code]",
+              "description": "hust-linyi/insmix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2399,7 +2406,7 @@
             {
               "node_type": "item",
               "title": "SA-MixNet: Structure-aware Mixup and Invariance Learning for Scribble-supervised Road Extraction in Remote Sensing Images Jie Feng, Hao Huang, Junpeng Zhang, Weisheng Dong, Dingwen Zhang, Licheng Jiao arXiv'2024 [Paper",
-              "description": "] [Code]",
+              "description": "xdu-jjgs/SA-MixNet-for-Scribble-based-Road-Extraction",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2427,7 +2434,7 @@
             {
               "node_type": "item",
               "title": "MS-DETR: Efficient DETR Training with Mixed Supervision Chuyang Zhao, Yifan Sun, Wenhao Wang, Qiang Chen, Errui Ding, Yi Yang, Jingdong Wang arXiv'2024 [Paper",
-              "description": "] [Code]",
+              "description": "Atten4Vis/MS-DETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2448,7 +2455,7 @@
             {
               "node_type": "item",
               "title": "Mixed Pseudo Labels for Semi-Supervised Object Detection Zeming Chen, Wenwei Zhang, Xinjiang Wang, Kai Chen, Zhi Wang arXiv'2023 [Paper",
-              "description": "] [Code]",
+              "description": "Czm369/MixPL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2469,7 +2476,7 @@
             {
               "node_type": "item",
               "title": "MUM: Mix Image Tiles and UnMix Feature Tiles for Semi-Supervised Object Detection JongMok Kim, Jooyoung Jang, Seunghyeon Seo, Jisoo Jeong, Jongkeun Na, Nojun Kwak CVPR'2022 [Paper",
-              "description": "] [Code]",
+              "description": "JongMokKim/mix-unmix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2503,7 +2510,7 @@
             {
               "node_type": "item",
               "title": "XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning MyungJae Shin, Chihoon Hwang, Joongheon Kim, Jihong Park, Mehdi Bennis, Seong-Lyun Kim ICML'2020 [Paper",
-              "description": "] [Code]",
+              "description": "ihooni/XOR-Mixup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2524,7 +2531,7 @@
             {
               "node_type": "item",
               "title": "FedMix: Approximation of Mixup Under Mean augmented Federated Learning Tehrim Yoon, Sumin Shin, Sung Ju Hwang, Eunho Yang ECCV'2022 [Paper",
-              "description": "] [Code]",
+              "description": "DevPranjal/fedmix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2552,7 +2559,7 @@
             {
               "node_type": "item",
               "title": "Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks Tianyu Pang, Kun Xu, Jun Zhu ICLR'2020 [Paper",
-              "description": "] [Code]",
+              "description": "P2333/Mixup-Inference",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2573,7 +2580,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization Saehyung Lee, Hyungyu Lee, Sungroh Yoon CVPR'2020 [Paper",
-              "description": "] [Code]",
+              "description": "Saehyung-Lee/cifar10_challenge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2594,7 +2601,7 @@
             {
               "node_type": "item",
               "title": "Mixup as directional adversarial training Guillaume P. Archambault, Yongyi Mao, Hongyu Guo, Richong Zhang NIPS'2019 [Paper",
-              "description": "] [Code]",
+              "description": "mixupAsDirectionalAdversarial/mixup_as_dat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2622,7 +2629,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Domain Adaptation with Domain Mixup Minghao Xu, Jian Zhang, Bingbing Ni, Teng Li, Chengjie Wang, Qi Tian, Wenjun Zhang AAAI'2020 [Paper",
-              "description": "] [Code]",
+              "description": "ChrisAllenMing/Mixup_for_UDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2643,7 +2650,7 @@
             {
               "node_type": "item",
               "title": "Contrast and Mix: Temporal Contrastive Video Domain Adaptation with Background Mixing Aadarsh Sahoo, Rutav Shah, Rameswar Panda, Kate Saenko, Abir Das NIPS'2021 [Paper",
-              "description": "] [Code]",
+              "description": "CVIR/CoMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2669,7 +2676,7 @@
             {
               "node_type": "item",
               "title": "Virtual Mixup Training for Unsupervised Domain Adaptation Xudong Mao, Yun Ma, Zhenguo Yang, Yangbin Chen, Qing Li arXiv'2019 [Paper",
-              "description": "] [Code]",
+              "description": "xudonmao/VMT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2690,7 +2697,7 @@
             {
               "node_type": "item",
               "title": "Dual Mixup Regularized Learning for Adversarial Domain Adaptation Yuan Wu, Diana Inkpen, Ahmed El-Roby ECCV'2020 [Paper",
-              "description": "] [Code]",
+              "description": "YuanWu3/Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2711,7 +2718,7 @@
             {
               "node_type": "item",
               "title": "Spectral Adversarial MixUp for Few-Shot Unsupervised Domain Adaptation Jiajin Zhang, Hanqing Chao, Amit Dhurandhar, Pin-Yu Chen, Ali Tajer, Yangyang Xu, Pingkun Yan MICCAI'2023 [Paper",
-              "description": "] [Code]",
+              "description": "RPIDIAL/SAMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2732,7 +2739,7 @@
             {
               "node_type": "item",
               "title": "Select, Label, and Mix: Learning Discriminative Invariant Feature Representations for Partial Domain Adaptation Aadarsh Sahoo, Rameswar Panda, Rogerio Feris, Kate Saenko, Abir Das WACV'2023 [Paper",
-              "description": "] [Code]",
+              "description": "CVIR/SLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2760,7 +2767,7 @@
             {
               "node_type": "item",
               "title": "MixGen: A New Multi-Modal Data Augmentation Xiaoshuai Hao, Yi Zhu, Srikar Appalaraju, Aston Zhang, Wanqian Zhang, Bo Li, Mu Li arXiv'2023 [Paper",
-              "description": "] [Code]",
+              "description": "amazon-science/mix-generation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2787,7 +2794,7 @@
             {
               "node_type": "item",
               "title": "Enhance image classification via inter-class image mixup with diffusion model Efthymios Georgiou, Yannis Avrithis, Alexandros Potamianos CVPR'2024 [Paper",
-              "description": "] [Code]",
+              "description": "Zhicaiwww/Diff-Mix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2808,7 +2815,7 @@
             {
               "node_type": "item",
               "title": "Geodesic Multi-Modal Mixup for Robust Fine-Tuning Changdae Oh, Junhyuk So, Hoyoon Byun, YongTaek Lim, Minchul Shin, Jong-June Jeon, Kyungwoo Song NIPS'2023 [Paper",
-              "description": "] [Code]",
+              "description": "changdaeoh/multimodal-mixup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2829,7 +2836,7 @@
             {
               "node_type": "item",
               "title": "Frequency-Enhanced Data Augmentation for Vision-and-Language Navigation Keji He, Chenyang Si, Zhihe Lu, Yan Huang, Liang Wang, Xinchao Wang NIPS'2023 [Paper",
-              "description": "] [Code]",
+              "description": "hekj/FDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2863,7 +2870,7 @@
             {
               "node_type": "item",
               "title": "Augmenting Data with Mixup for Sentence Classification: An Empirical Study Hongyu Guo, Yongyi Mao, Richong Zhang arXiv'2019 [Paper",
-              "description": "] [Code]",
+              "description": "dsfsi/textaugment",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2896,7 +2903,7 @@
             {
               "node_type": "item",
               "title": "MixText: Linguistically-informed Interpolation of Hidden Space for Semi-Supervised Text Classification Jiaao Chen, Zichao Yang, Diyi Yang ACL'2020 [Paper",
-              "description": "] [Code]",
+              "description": "SALT-NLP/MixText",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2927,7 +2934,7 @@
             {
               "node_type": "item",
               "title": "SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup Hongyu Guo, Yongyi Mao, Richong Zhang EMNLP'2020 [Paper",
-              "description": "] [Code]",
+              "description": "rz-zhang/SeqMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2948,7 +2955,7 @@
             {
               "node_type": "item",
               "title": "Local Additivity Based Data Augmentation for Semi-supervised NER Jiaao Chen, Zhenghui Wang, Ran Tian, Zichao Yang, Diyi Yang ACL'2020 [Paper",
-              "description": "] [Code]",
+              "description": "SALT-NLP/LADA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2975,7 +2982,7 @@
             {
               "node_type": "item",
               "title": "Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao, Chao Zhang EMNLP'2020 [Paper",
-              "description": "] [Code]",
+              "description": "Lingkai-Kong/Calibrated-BERT-Fine-Tuning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3009,7 +3016,7 @@
             {
               "node_type": "item",
               "title": "STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation Qingkai Fang, Rong Ye, Lei Li, Yang Feng, Mingxuan Wang ACL'2022 [Paper",
-              "description": "] [Code]",
+              "description": "ictnlp/STEMM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3034,7 +3041,7 @@
             {
               "node_type": "item",
               "title": "Sequence-Level Mixed Sample Data Augmentation Jiaao Chen, Zichao Yang, Diyi Yang EMNLP'2020 [Paper",
-              "description": "] [Code]",
+              "description": "dguo98/SeqMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3055,7 +3062,7 @@
             {
               "node_type": "item",
               "title": "AdvAug: Robust Adversarial Augmentation for Neural Machine Translation Yong Cheng, Lu Jiang, Wolfgang Macherey, Jacob Eisenstein ACL'2020 [Paper",
-              "description": "] [Code]",
+              "description": "dguo98/SeqMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3076,7 +3083,7 @@
             {
               "node_type": "item",
               "title": "Enhancing Cross-lingual Transfer by Manifold Mixup Huiyun Yang, Huadong Chen, Hao Zhou, Lei Li ICLR'2022 [Paper",
-              "description": "] [Code]",
+              "description": "yhy1117/X-Mixup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3101,7 +3108,7 @@
             {
               "node_type": "item",
               "title": "TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding Le Zhang, Zichao Yang, Diyi Yang NAALC'2022 [Paper",
-              "description": "] [Code]",
+              "description": "lezhang7/TreeMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3129,7 +3136,7 @@
             {
               "node_type": "item",
               "title": "GraphMix: Improved Training of GNNs for Semi-Supervised Learning Vikas Verma, Meng Qu, Kenji Kawaguchi, Alex Lamb, Yoshua Bengio, Juho Kannala, Jian Tang AAAI'2021 [Paper",
-              "description": "] [Code]",
+              "description": "vikasverma1077/GraphMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3156,7 +3163,7 @@
             {
               "node_type": "item",
               "title": "Mixup for Node and Graph Classification Yiwei Wang, Wei Wang, Yuxuan Liang, Yujun Cai, Bryan Hooi WWW'2021 [Paper",
-              "description": "] [Code]",
+              "description": "vanoracai/MixupForGraph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3177,7 +3184,7 @@
             {
               "node_type": "item",
               "title": "Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation Joonhyung Park, Hajin Shim, Eunho Yang AAAI'2022 [Paper",
-              "description": "] [Code]",
+              "description": "shimazing/Graph-Transplant",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3198,7 +3205,7 @@
             {
               "node_type": "item",
               "title": "GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction Lirong Wu, Haitao Lin, Zhangyang Gao, Cheng Tan, Stan.Z.Li ECML-PKDD'2022 [Paper",
-              "description": "] [Code]",
+              "description": "LirongWu/GraphMixup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3225,7 +3232,7 @@
             {
               "node_type": "item",
               "title": "Fused Gromov-Wasserstein Graph Mixup for Graph-level Classifications Xinyu Ma, Xu Chu, Yasha Wang, Yang Lin, Junfeng Zhao, Liantao Ma, Wenwu Zhu NIPS'2023 [Paper",
-              "description": "] [code]",
+              "description": "ArthurLeoM/FGWMixup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3253,7 +3260,7 @@
             {
               "node_type": "item",
               "title": "PointMixup: Augmentation for Point Clouds Yunlu Chen, Vincent Tao Hu, Efstratios Gavves, Thomas Mensink, Pascal Mettes, Pengwan Yang, Cees G.M. Snoek ECCV'2020 [Paper",
-              "description": "] [Code]",
+              "description": "yunlu-chen/PointMixup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3274,7 +3281,7 @@
             {
               "node_type": "item",
               "title": "Part-Aware Data Augmentation for 3D Object Detection in Point Cloud Jaeseok Choi, Yeji Song, Nojun Kwak IROS'2021 [Paper",
-              "description": "] [Code]",
+              "description": "sky77764/pa-aug.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3300,7 +3307,7 @@
             {
               "node_type": "item",
               "title": "PointCutMix: Regularization Strategy for Point Cloud Classification Jinlai Zhang, Lyujie Chen, Bo Ouyang, Binbin Liu, Jihong Zhu, Yujing Chen, Yanmei Meng, Danfeng Wu Neurocomputing'2022 [Paper",
-              "description": "] [Code]",
+              "description": "cuge1995/PointCutMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3326,7 +3333,7 @@
             {
               "node_type": "item",
               "title": "Regularization Strategy for Point Cloud via Rigidly Mixed Sample Dogyoon Lee, Jaeha Lee, Junhyeop Lee, Hyeongmin Lee, Minhyeok Lee, Sungmin Woo, Sangyoun Lee CVPR'2021 [Paper",
-              "description": "] [Code]",
+              "description": "dogyoonlee/RSMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3356,7 +3363,7 @@
             {
               "node_type": "item",
               "title": "Point MixSwap: Attentional Point Cloud Mixing via Swapping Matched Structural Divisions Ardian Umam, Cheng-Kun Yang, Yung-Yu Chuang, Jen-Hui Chuang, Yen-Yu Lin ECCV'2022 [Paper",
-              "description": "] [Code]",
+              "description": "ardianumam/PointMixSwap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3384,7 +3391,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn CVPR'2020 & IJCV'2024 [Paper",
-              "description": "] [Code]",
+              "description": "clovaai/cutblur",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3405,7 +3412,7 @@
             {
               "node_type": "item",
               "title": "DNABERT-S: Learning Species-Aware DNA Embedding with Genome Foundation Models Zhihan Zhou, Weimin Wu, Harrison Ho, Jiayi Wang, Lizhen Shi, Ramana V Davuluri, Zhong Wang, Han Liu arXiv'2024 [Paper",
-              "description": "] [Code]",
+              "description": "MAGICS-LAB/DNABERT_S",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3430,7 +3437,7 @@
             {
               "node_type": "item",
               "title": "Inter-Instance Similarity Modeling for Contrastive Learning Chengchao Shen, Dawei Liu, Hao Tang, Zhe Qu, Jianxin Wang arXiv'2023 [Paper",
-              "description": "] [Code]",
+              "description": "visresearch/patchmix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3460,7 +3467,7 @@
             {
               "node_type": "item",
               "title": "Representational Continuity for Unsupervised Continual Learning Divyam Madaan, Jaehong Yoon, Yuanchun Li, Yunxin Liu, Sung Ju Hwang ICLR'2022 [Paper",
-              "description": "] [Code]",
+              "description": "divyam3897/UCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3481,7 +3488,7 @@
             {
               "node_type": "item",
               "title": "Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning Byungsoo Ko, Geonmo Gu CVPR'2020 [Paper",
-              "description": "] [Code]",
+              "description": "clovaai/embedding-expansion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3513,7 +3520,7 @@
             {
               "node_type": "item",
               "title": "Recall@k Surrogate Loss with Large Batches and Similarity Mixup Yash Patel, Giorgos Tolias, Jiri Matas CVPR'2022 [Paper",
-              "description": "] [Code]",
+              "description": "yashvarpatel/RecallatK_surrogate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3534,7 +3541,7 @@
             {
               "node_type": "item",
               "title": "Robust Image Denoising through Adversarial Frequency Mixup Donghun Ryou, Inju Ha, Hyewon Yoo, Dongwan Kim, Bohyung Han CVPR'2024 [Paper",
-              "description": "] [Code]",
+              "description": "dhryougit/AFM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3555,7 +3562,7 @@
             {
               "node_type": "item",
               "title": "It Takes Two to Tango: Mixup for Deep Metric Learning Shashanka Venkataramanan, Bill Psomas, Ewa Kijak, Laurent Amsaleg, Konstantinos Karantzalos, Yannis Avrithis ICLR'2022 [Paper",
-              "description": "] [Code]",
+              "description": "billpsomas/metrix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3587,7 +3594,7 @@
             {
               "node_type": "item",
               "title": "Noisy Feature Mixup Soon Hoe Lim, N. Benjamin Erichson, Francisco Utrera, Winnie Xu, Michael W. Mahoney ICLR'2022 [Paper",
-              "description": "] [Code]",
+              "description": "erichson/NFM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3608,7 +3615,7 @@
             {
               "node_type": "item",
               "title": "Guarding Barlow Twins Against Overfitting with Mixed Samples Wele Gedara Chaminda Bandara, Celso M. De Melo, Vishal M. Patel arXiv'2023 [Paper",
-              "description": "] [Code]",
+              "description": "wgcban/mix-bt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3655,7 +3662,7 @@
         {
           "node_type": "item",
           "title": "Mixup Without Hesitation Hao Yu, Huanyu Wang, Jianxin Wu ICIG'2022 [Paper",
-          "description": "] [Code]",
+          "description": "yuhao318/mwh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3676,7 +3683,7 @@
         {
           "node_type": "item",
           "title": "RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy and Out Distribution Robustness Francesco Pinto, Harry Yang, Ser-Nam Lim, Philip H.S. Torr, Puneet K. Dokania NIPS'2022 [Paper",
-          "description": "] [Code]",
+          "description": "FrancescoPinto/RegMixup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3697,7 +3704,7 @@
         {
           "node_type": "item",
           "title": "A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective Chanwoo Park, Sangdoo Yun, Sanghyuk Chun NIPS'2022 [Paper",
-          "description": "] [Code]",
+          "description": "naver-ai/hmix-gmix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3718,7 +3725,7 @@
         {
           "node_type": "item",
           "title": "On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks Sunil Thulasidasan, Gopinath Chennupati, Jeff Bilmes, Tanmoy Bhattacharya, Sarah Michalak NIPS'2019 [Paper",
-          "description": "] [Code]",
+          "description": "paganpasta/OnMixup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3739,7 +3746,7 @@
         {
           "node_type": "item",
           "title": "Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study Hongjun Choi, Eun Som Jeon, Ankita Shukla, Pavan Turaga WACV'2023 [Paper",
-          "description": "] [Code]",
+          "description": "hchoi71/MIX-KD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3760,7 +3767,7 @@
         {
           "node_type": "item",
           "title": "Towards Understanding the Data Dependency of Mixup-style Training Muthu Chidambaram, Xiang Wang, Yuzheng Hu, Chenwei Wu, Rong Ge ICLR'2022 [Paper",
-          "description": "] [Code]",
+          "description": "2014mchidamb/Mixup-Data-Dependency",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3787,7 +3794,7 @@
         {
           "node_type": "item",
           "title": "A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability Chengtai Cao, Fan Zhou, Yurou Dai, Jianping Wang arXiv'2022 [Paper",
-          "description": "] [Code]",
+          "description": "ChengtaiCao/Awesome-Mix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3814,7 +3821,7 @@
         {
           "node_type": "item",
           "title": "OpenMixup: A Comprehensive Mixup Benchmark for Visual Classification Siyuan Li, Zedong Wang, Zicheng Liu, Di Wu, Cheng Tan, Weiyang Jin, Stan Z. Li arXiv'2024 [Paper",
-          "description": "] [Code]",
+          "description": "Westlake-AI/openmixup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4361,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:18:22.592Z",
+    "last_updated": "2026-10-03T04:26:30.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",

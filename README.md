@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,528 | 🐛 2 | 📅 2026-09-28 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,530 | 🐛 2 | 📅 2026-09-28 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
