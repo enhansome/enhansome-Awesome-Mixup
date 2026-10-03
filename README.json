@@ -1993,7 +1993,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38862,
+                "stars": 38868,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:30.505Z",
+    "last_updated": "2026-10-03T22:27:32.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
