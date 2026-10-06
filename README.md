@@ -147,7 +147,7 @@ class="center">
 * **AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty**<br>
   *Dan Hendrycks, Norman Mu, Ekin D. Cubuk, Barret Zoph, Justin Gilmer, Balaji Lakshminarayanan*<br>
   ICLR'2020 \[[Paper](https://arxiv.org/abs/1912.02781)]
-  \[[Code](https://github.com/google-research/augmix) ⭐ 988 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
+  \[[Code](https://github.com/google-research/augmix) ⭐ 989 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
    <details close>
    <summary>AugMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204567137-f71b0437-9267-4f99-b7dc-911ffa4f8b73.png" /></p>
@@ -466,7 +466,7 @@ class="center">
 * **Where to Cut and Paste: Data Regularization with Selective Features**<br>
   *Jiyeon Kim, Ik-Hee Shin, Jong-Ryul, Lee, Yong-Ju Lee*<br>
   ICTC'2020 \[[Paper](https://ieeexplore.ieee.org/abstract/document/9289404)]
-  \[[Code](https://github.com/google-research/augmix) ⭐ 988 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
+  \[[Code](https://github.com/google-research/augmix) ⭐ 989 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
    <details close>
    <summary>FocusMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204567137-f71b0437-9267-4f99-b7dc-911ffa4f8b73.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,874 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-09-30]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,878 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-09-30]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1485,7 +1485,7 @@ class="center">
 * **MS-DETR: Efficient DETR Training with Mixed Supervision**<br>
   *Chuyang Zhao, Yifan Sun, Wenhao Wang, Qiang Chen, Errui Ding, Yi Yang, Jingdong Wang*<br>
   arXiv'2024 \[[Paper](https://arxiv.org/abs/2401.03989)]
-  \[[Code](https://github.com/Atten4Vis/MS-DETR) ⭐ 128 | 🐛 18 | 🌐 Python | 📅 2024-07-10]
+  \[[Code](https://github.com/Atten4Vis/MS-DETR) ⭐ 129 | 🐛 18 | 🌐 Python | 📅 2024-07-10]
    <details close>
    <summary>MS-DETR Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/5efea70c-d4f6-4ff8-819b-f68b99fa3c08" /></p>
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,842 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,841 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2170,7 +2170,7 @@ class="center">
 |   20 Newsgroups   |       Text      |     20     |           OOD Detection          |       20,000      |                                 [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)                                |
 |        WOS        |       Text      |     134    |           OOD Detection          |       46,985      |                                      [WOS](http://archive.ics.uci.edu/index.php)                                      |
 |       SST-2       |       Text      |      2     |      Sentiment Understanding     |       68,800      |  [SST-2](https://github.com/YJiangcm/SST-2-sentiment-analysis) ⭐ 112 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2020-12-09  |
-|        Cora       |      Graph      |      7     |        Node Classification       |       2,708       |               [Cora](https://github.com/phanein/deepwalk) ⭐ 2,757 \| 🐛 46 \| 🌐 Python \| 📅 2023-06-14              |
+|        Cora       |      Graph      |      7     |        Node Classification       |       2,708       |               [Cora](https://github.com/phanein/deepwalk) ⭐ 2,758 \| 🐛 46 \| 🌐 Python \| 📅 2023-06-14              |
 |      Citeseer     |      Graph      |      6     |        Node Classification       |       3,312       |                                       [Citeseer](https://csxstatic.ist.psu.edu/)                                      |
 |       PubMed      |      Graph      |      3     |        Node Classification       |       19,717      |                                       [PubMed](https://pubmed.ncbi.nlm.nih.gov)                                       |
 |    BlogCatalog    |      Graph      |     39     |        Node Classification       |       10,312      |            [BlogCatalog](https://figshare.com/articles/dataset/BlogCatalog_dataset/11923611?file=22349970)            |
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,543 | 🐛 2 | 📅 2026-09-28 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,540 | 🐛 2 | 📅 2026-09-28 repository.
 
 ## Related Project
 

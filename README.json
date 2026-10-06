@@ -46,7 +46,7 @@
                         "open_issues": 7,
                         "owner": "google-research",
                         "repo": "augmix",
-                        "stars": 988,
+                        "stars": 989,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -613,7 +613,7 @@
                         "open_issues": 7,
                         "owner": "google-research",
                         "repo": "augmix",
-                        "stars": 988,
+                        "stars": 989,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1993,7 +1993,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38874,
+                "stars": 38878,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2447,7 +2447,7 @@
                 "open_issues": 18,
                 "owner": "Atten4Vis",
                 "repo": "MS-DETR",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12842,
+            "stars": 12841,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4142,7 +4142,7 @@
             "open_issues": 46,
             "owner": "phanein",
             "repo": "deepwalk",
-            "stars": 2757,
+            "stars": 2758,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:35:54.599Z",
+    "last_updated": "2026-10-06T23:21:14.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
