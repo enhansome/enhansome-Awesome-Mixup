@@ -1109,7 +1109,7 @@
                     "id": 201102332,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-16T12:52:09Z",
+                    "last_commit": "2026-10-05T15:22:46Z",
                     "open_issues": 77,
                     "owner": "google",
                     "repo": "edward2",
@@ -1993,7 +1993,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38871,
+                "stars": 38873,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12842,
+            "stars": 12841,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:32:57.879Z",
+    "last_updated": "2026-10-06T00:59:20.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
