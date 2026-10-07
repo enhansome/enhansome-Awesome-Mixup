@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T21:03:49Z",
+                "last_commit": "2026-10-07T21:04:37Z",
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38878,
+                "stars": 38880,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12841,
+            "stars": 12842,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -3939,7 +3939,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1176,
+            "stars": 1177,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3970,7 +3970,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1176,
+            "stars": 1177,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4001,7 +4001,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1176,
+            "stars": 1177,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T23:21:14.347Z",
+    "last_updated": "2026-10-07T23:53:05.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
