@@ -147,7 +147,7 @@ class="center">
 * **AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty**<br>
   *Dan Hendrycks, Norman Mu, Ekin D. Cubuk, Barret Zoph, Justin Gilmer, Balaji Lakshminarayanan*<br>
   ICLR'2020 \[[Paper](https://arxiv.org/abs/1912.02781)]
-  \[[Code](https://github.com/google-research/augmix) ⭐ 989 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
+  \[[Code](https://github.com/google-research/augmix) ⭐ 990 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
    <details close>
    <summary>AugMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204567137-f71b0437-9267-4f99-b7dc-911ffa4f8b73.png" /></p>
@@ -466,7 +466,7 @@ class="center">
 * **Where to Cut and Paste: Data Regularization with Selective Features**<br>
   *Jiyeon Kim, Ik-Hee Shin, Jong-Ryul, Lee, Yong-Ju Lee*<br>
   ICTC'2020 \[[Paper](https://ieeexplore.ieee.org/abstract/document/9289404)]
-  \[[Code](https://github.com/google-research/augmix) ⭐ 989 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
+  \[[Code](https://github.com/google-research/augmix) ⭐ 990 | 🐛 7 | 🌐 Python | 📅 2026-07-17]
    <details close>
    <summary>FocusMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204567137-f71b0437-9267-4f99-b7dc-911ffa4f8b73.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,880 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-10-07]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 38,884 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-10-08]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1657,7 +1657,7 @@ class="center">
 * **Enhance image classification via inter-class image mixup with diffusion model**<br>
   *Efthymios Georgiou, Yannis Avrithis, Alexandros Potamianos*<br>
   CVPR'2024 \[[Paper](https://arxiv.org/abs/2403.19600)]
-  \[[Code](https://github.com/Zhicaiwww/Diff-Mix) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2024-09-13]
+  \[[Code](https://github.com/Zhicaiwww/Diff-Mix) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2024-09-13]
 
 * **Geodesic Multi-Modal Mixup for Robust Fine-Tuning**<br>
   *Changdae Oh, Junhyuk So, Hoyoon Byun, YongTaek Lim, Minchul Shin, Jong-June Jeon, Kyungwoo Song*<br>
@@ -1880,7 +1880,7 @@ class="center">
 * **Robust Image Denoising through Adversarial Frequency Mixup**<br>
   *Donghun Ryou, Inju Ha, Hyewon Yoo, Dongwan Kim, Bohyung Han*<br>
   CVPR'2024 \[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ryou_Robust_Image_Denoising_through_Adversarial_Frequency_Mixup_CVPR_2024_paper.pdf)]
-  \[[Code](https://github.com/dhryougit/AFM) ⭐ 52 | 🐛 4 | 🌐 Python | 📅 2024-11-12]
+  \[[Code](https://github.com/dhryougit/AFM) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2024-11-12]
 
 * **It Takes Two to Tango: Mixup for Deep Metric Learning**<br>
   *Shashanka Venkataramanan, Bill Psomas, Ewa Kijak, Laurent Amsaleg, Konstantinos Karantzalos, Yannis Avrithis*<br>
@@ -2227,11 +2227,11 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,546 | 🐛 2 | 📅 2026-09-28 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,548 | 🐛 2 | 📅 2026-09-28 repository.
 
 ## Related Project
 
-* [data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) ⭐ 1,637 | 🐛 2 | 📅 2024-08-14: List of useful data augmentation resources.
+* [data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) ⭐ 1,636 | 🐛 2 | 📅 2024-08-14: List of useful data augmentation resources.
 * [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15: CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark.
 * [awesome-mixed-sample-data-augmentation](https://github.com/JasonZhang156/awesome-mixed-sample-data-augmentation) ⭐ 128 | 🐛 0 | 📅 2020-05-07: A collection of awesome things about mixed sample data augmentation.
 * [Awesome-Mix](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 74 | 🐛 1 | 📅 2022-12-23: An awesome list of papers for `A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability, we categorize them based on our proposed taxonomy`.
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
