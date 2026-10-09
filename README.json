@@ -220,7 +220,7 @@
                         "open_issues": 6,
                         "owner": "clovaai",
                         "repo": "CutMix-PyTorch",
-                        "stars": 1251,
+                        "stars": 1252,
                         "topics": [
                           "augmentation",
                           "cutmix",
@@ -247,7 +247,7 @@
                         "open_issues": 7,
                         "owner": "Westlake-AI",
                         "repo": "openmixup",
-                        "stars": 657,
+                        "stars": 656,
                         "topics": [
                           "automix",
                           "awesome-list",
@@ -287,7 +287,7 @@
                         "open_issues": 7,
                         "owner": "Westlake-AI",
                         "repo": "openmixup",
-                        "stars": 657,
+                        "stars": 656,
                         "topics": [
                           "automix",
                           "awesome-list",
@@ -634,7 +634,7 @@
                         "open_issues": 7,
                         "owner": "Westlake-AI",
                         "repo": "openmixup",
-                        "stars": 657,
+                        "stars": 656,
                         "topics": [
                           "automix",
                           "awesome-list",
@@ -674,7 +674,7 @@
                         "open_issues": 7,
                         "owner": "Westlake-AI",
                         "repo": "openmixup",
-                        "stars": 657,
+                        "stars": 656,
                         "topics": [
                           "automix",
                           "awesome-list",
@@ -940,7 +940,7 @@
                         "open_issues": 7,
                         "owner": "Sense-X",
                         "repo": "TokenMix",
-                        "stars": 96,
+                        "stars": 95,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1207,7 +1207,7 @@
                     "open_issues": 7,
                     "owner": "Westlake-AI",
                     "repo": "openmixup",
-                    "stars": 657,
+                    "stars": 656,
                     "topics": [
                       "automix",
                       "awesome-list",
@@ -1401,7 +1401,7 @@
                     "open_issues": 7,
                     "owner": "zihangJiang",
                     "repo": "TokenLabeling",
-                    "stars": 436,
+                    "stars": 437,
                     "topics": [
                       "imagenet",
                       "lv-vit",
@@ -1429,7 +1429,7 @@
                     "open_issues": 7,
                     "owner": "Sense-X",
                     "repo": "TokenMix",
-                    "stars": 96,
+                    "stars": 95,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1573,7 +1573,7 @@
                 "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 657,
+                "stars": 656,
                 "topics": [
                   "automix",
                   "awesome-list",
@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T17:38:14Z",
-                "open_issues": 1997,
+                "last_commit": "2026-10-09T17:22:43Z",
+                "open_issues": 1998,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38884,
+                "stars": 38886,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2018,7 +2018,7 @@
                 "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 657,
+                "stars": 656,
                 "topics": [
                   "automix",
                   "awesome-list",
@@ -3834,7 +3834,7 @@
             "open_issues": 7,
             "owner": "Westlake-AI",
             "repo": "openmixup",
-            "stars": 657,
+            "stars": 656,
             "topics": [
               "automix",
               "awesome-list",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12842,
+            "stars": 12845,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -3913,7 +3913,7 @@
             "open_issues": 5,
             "owner": "visipedia",
             "repo": "inat_comp",
-            "stars": 810,
+            "stars": 811,
             "topics": [
               "competition",
               "computer-vision",
@@ -3939,7 +3939,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1177,
+            "stars": 1178,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3970,7 +3970,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1177,
+            "stars": 1178,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4001,7 +4001,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1177,
+            "stars": 1178,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4163,7 +4163,7 @@
             "open_issues": 6,
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
-            "stars": 897,
+            "stars": 896,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4184,7 +4184,7 @@
             "open_issues": 6,
             "owner": "laiguokun",
             "repo": "multivariate-time-series-data",
-            "stars": 897,
+            "stars": 896,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4248,7 +4248,7 @@
             "open_issues": 7,
             "owner": "Westlake-AI",
             "repo": "openmixup",
-            "stars": 657,
+            "stars": 656,
             "topics": [
               "automix",
               "awesome-list",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:59:04.232Z",
+    "last_updated": "2026-10-09T23:35:49.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
