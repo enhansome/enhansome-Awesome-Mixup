@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T17:22:43Z",
+                "last_commit": "2026-10-10T14:34:09Z",
                 "open_issues": 1998,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38886,
+                "stars": 38888,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4087,7 +4087,7 @@
             "open_issues": 4,
             "owner": "Shenggan",
             "repo": "BCCD_Dataset",
-            "stars": 457,
+            "stars": 458,
             "topics": [
               "cell-detection",
               "dataset",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:35:49.597Z",
+    "last_updated": "2026-10-10T22:58:34.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
