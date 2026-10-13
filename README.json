@@ -46,7 +46,7 @@
                         "open_issues": 7,
                         "owner": "google-research",
                         "repo": "augmix",
-                        "stars": 990,
+                        "stars": 991,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -220,7 +220,7 @@
                         "open_issues": 6,
                         "owner": "clovaai",
                         "repo": "CutMix-PyTorch",
-                        "stars": 1252,
+                        "stars": 1251,
                         "topics": [
                           "augmentation",
                           "cutmix",
@@ -324,7 +324,7 @@
                         "language": "Jupyter Notebook",
                         "license": "MIT",
                         "last_commit": "2021-03-26T19:00:33Z",
-                        "open_issues": 5,
+                        "open_issues": 6,
                         "owner": "ecs-vlc",
                         "repo": "FMix",
                         "stars": 338,
@@ -527,7 +527,7 @@
                         "open_issues": 10,
                         "owner": "KaiyangZhou",
                         "repo": "mixstyle-release",
-                        "stars": 336,
+                        "stars": 337,
                         "topics": [
                           "domain-generalization",
                           "feature-statistics",
@@ -613,7 +613,7 @@
                         "open_issues": 7,
                         "owner": "google-research",
                         "repo": "augmix",
-                        "stars": 990,
+                        "stars": 991,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T14:34:09Z",
+                "last_commit": "2026-10-12T13:39:16Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38897,
+                "stars": 38902,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2163,7 +2163,7 @@
                 "open_issues": 29,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 530,
+                "stars": 531,
                 "topics": [
                   "bayesian-network",
                   "computer-vision",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12846,
+            "stars": 12847,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4211,7 +4211,7 @@
             "open_issues": 2,
             "owner": "AgaMiko",
             "repo": "data-augmentation-review",
-            "stars": 1636,
+            "stars": 1635,
             "topics": [
               "audio-augmentation",
               "augmentation-policies",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T23:13:25.384Z",
+    "last_updated": "2026-10-13T01:38:51.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
