@@ -1930,7 +1930,7 @@
                 "open_issues": 2,
                 "owner": "google-research",
                 "repo": "mixmatch",
-                "stars": 1137,
+                "stars": 1136,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T13:39:16Z",
+                "last_commit": "2026-10-13T06:27:55Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38902,
+                "stars": 38909,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2160,7 +2160,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T10:43:37Z",
-                "open_issues": 29,
+                "open_issues": 32,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
                 "stars": 531,
@@ -2916,7 +2916,7 @@
                 "open_issues": 5,
                 "owner": "SALT-NLP",
                 "repo": "MixText",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "computation",
                   "dataaugmentation",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12847,
+            "stars": 12849,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4211,7 +4211,7 @@
             "open_issues": 2,
             "owner": "AgaMiko",
             "repo": "data-augmentation-review",
-            "stars": 1635,
+            "stars": 1634,
             "topics": [
               "audio-augmentation",
               "augmentation-policies",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:38:51.209Z",
+    "last_updated": "2026-10-13T23:27:03.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
