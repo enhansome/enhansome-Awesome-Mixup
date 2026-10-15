@@ -247,7 +247,7 @@
                         "open_issues": 7,
                         "owner": "Westlake-AI",
                         "repo": "openmixup",
-                        "stars": 656,
+                        "stars": 655,
                         "topics": [
                           "automix",
                           "awesome-list",
@@ -287,7 +287,7 @@
                         "open_issues": 7,
                         "owner": "Westlake-AI",
                         "repo": "openmixup",
-                        "stars": 656,
+                        "stars": 655,
                         "topics": [
                           "automix",
                           "awesome-list",
@@ -634,7 +634,7 @@
                         "open_issues": 7,
                         "owner": "Westlake-AI",
                         "repo": "openmixup",
-                        "stars": 656,
+                        "stars": 655,
                         "topics": [
                           "automix",
                           "awesome-list",
@@ -674,7 +674,7 @@
                         "open_issues": 7,
                         "owner": "Westlake-AI",
                         "repo": "openmixup",
-                        "stars": 656,
+                        "stars": 655,
                         "topics": [
                           "automix",
                           "awesome-list",
@@ -1207,7 +1207,7 @@
                     "open_issues": 7,
                     "owner": "Westlake-AI",
                     "repo": "openmixup",
-                    "stars": 656,
+                    "stars": 655,
                     "topics": [
                       "automix",
                       "awesome-list",
@@ -1573,7 +1573,7 @@
                 "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 656,
+                "stars": 655,
                 "topics": [
                   "automix",
                   "awesome-list",
@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T21:40:54Z",
-                "open_issues": 2005,
+                "last_commit": "2026-10-15T02:18:00Z",
+                "open_issues": 2006,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38915,
+                "stars": 38922,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2018,7 +2018,7 @@
                 "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 656,
+                "stars": 655,
                 "topics": [
                   "automix",
                   "awesome-list",
@@ -3834,7 +3834,7 @@
             "open_issues": 7,
             "owner": "Westlake-AI",
             "repo": "openmixup",
-            "stars": 656,
+            "stars": 655,
             "topics": [
               "automix",
               "awesome-list",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12852,
+            "stars": 12851,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -3913,7 +3913,7 @@
             "open_issues": 5,
             "owner": "visipedia",
             "repo": "inat_comp",
-            "stars": 811,
+            "stars": 810,
             "topics": [
               "competition",
               "computer-vision",
@@ -4248,7 +4248,7 @@
             "open_issues": 7,
             "owner": "Westlake-AI",
             "repo": "openmixup",
-            "stars": 656,
+            "stars": 655,
             "topics": [
               "automix",
               "awesome-list",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T22:42:37.686Z",
+    "last_updated": "2026-10-15T22:41:50.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
