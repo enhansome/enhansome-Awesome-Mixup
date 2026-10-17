@@ -1993,7 +1993,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38928,
+                "stars": 38930,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12853,
+            "stars": 12852,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4087,7 +4087,7 @@
             "open_issues": 4,
             "owner": "Shenggan",
             "repo": "BCCD_Dataset",
-            "stars": 459,
+            "stars": 460,
             "topics": [
               "cell-detection",
               "dataset",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:13:44.725Z",
+    "last_updated": "2026-10-17T21:46:49.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
