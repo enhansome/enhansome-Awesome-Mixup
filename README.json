@@ -1993,7 +1993,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38930,
+                "stars": 38945,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2880,7 +2880,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-04T12:55:13Z",
-                "open_issues": 1,
+                "open_issues": 4,
                 "owner": "dsfsi",
                 "repo": "textaugment",
                 "stars": 446,
@@ -3425,7 +3425,7 @@
                 "open_issues": 5,
                 "owner": "MAGICS-LAB",
                 "repo": "DNABERT_S",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "dna",
                   "dna-embedding",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12852,
+            "stars": 12854,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:46:49.697Z",
+    "last_updated": "2026-10-18T21:56:22.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
