@@ -1993,7 +1993,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38945,
+                "stars": 38986,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12854,
+            "stars": 12856,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -3913,7 +3913,7 @@
             "open_issues": 5,
             "owner": "visipedia",
             "repo": "inat_comp",
-            "stars": 810,
+            "stars": 809,
             "topics": [
               "competition",
               "computer-vision",
@@ -4211,7 +4211,7 @@
             "open_issues": 2,
             "owner": "AgaMiko",
             "repo": "data-augmentation-review",
-            "stars": 1634,
+            "stars": 1635,
             "topics": [
               "audio-augmentation",
               "augmentation-policies",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:56:22.269Z",
+    "last_updated": "2026-10-20T22:43:37.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
