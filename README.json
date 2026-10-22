@@ -940,7 +940,7 @@
                         "open_issues": 7,
                         "owner": "Sense-X",
                         "repo": "TokenMix",
-                        "stars": 95,
+                        "stars": 94,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1401,7 +1401,7 @@
                     "open_issues": 7,
                     "owner": "zihangJiang",
                     "repo": "TokenLabeling",
-                    "stars": 436,
+                    "stars": 435,
                     "topics": [
                       "imagenet",
                       "lv-vit",
@@ -1429,7 +1429,7 @@
                     "open_issues": 7,
                     "owner": "Sense-X",
                     "repo": "TokenMix",
-                    "stars": 95,
+                    "stars": 94,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T07:52:25Z",
+                "last_commit": "2026-10-22T17:29:10Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39000,
+                "stars": 39007,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12857,
+            "stars": 12860,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4142,7 +4142,7 @@
             "open_issues": 46,
             "owner": "phanein",
             "repo": "deepwalk",
-            "stars": 2758,
+            "stars": 2757,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:48:52.306Z",
+    "last_updated": "2026-10-22T22:48:00.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
