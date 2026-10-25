@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T21:57:07Z",
+                "last_commit": "2026-10-25T00:00:25Z",
                 "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39016,
+                "stars": 39025,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2195,7 +2195,7 @@
                 "open_issues": 6,
                 "owner": "kaiwenzha",
                 "repo": "Rank-N-Contrast",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "continuity",
                   "contrastive-learning",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12862,
+            "stars": 12863,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4087,7 +4087,7 @@
             "open_issues": 4,
             "owner": "Shenggan",
             "repo": "BCCD_Dataset",
-            "stars": 461,
+            "stars": 460,
             "topics": [
               "cell-detection",
               "dataset",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:59:26.534Z",
+    "last_updated": "2026-10-25T22:06:06.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",

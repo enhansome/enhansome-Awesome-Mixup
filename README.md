@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,016 | 🐛 2,024 | 🌐 Jupyter Notebook | 📅 2026-10-23]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,025 | 🐛 2,024 | 🌐 Jupyter Notebook | 📅 2026-10-25]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1306,7 +1306,7 @@ class="center">
 * **Rank-N-Contrast: Learning Continuous Representations for Regression**<br>
   *Kaiwen Zha, Peng Cao, Jeany Son, Yuzhe Yang, Dina Katabi*<br>
   NIPS'2023 \[[Paper](https://arxiv.org/abs/2210.01189)]
-  \[[Code](https://github.com/kaiwenzha/Rank-N-Contrast) ⭐ 140 | 🐛 6 | 🌐 Python | 📅 2024-02-28]
+  \[[Code](https://github.com/kaiwenzha/Rank-N-Contrast) ⭐ 141 | 🐛 6 | 🌐 Python | 📅 2024-02-28]
 
 * **C-Mixup: Improving Generalization in Regression**<br>
   *Huaxiu Yao, Yiping Wang, Linjun Zhang, James Zou, Chelsea Finn*<br>
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,862 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,863 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2163,7 +2163,7 @@ class="center">
 |        BACH       |  Medical Image  |      4     |          Classification          |        400        |                                [BACH](https://iciar2018-challenge.grand-challenge.org/)                               |
 |    CAME-Lyon16    |  Medical Image  |      2     |         Anomaly Detection        |        360        |                                 [CAME-Lyon16](https://camelyon16.grand-challenge.org/)                                |
 |    Chest X-Ray    |  Medical Image  |      2     |         Anomaly Detection        |       5,856       |                             [Chest X-Ray](https://data.mendeley.com/datasets/rscbjbr9sj/2)                            |
-|        BCCD       |  Medical Image  |    4,888   |         Object Detection         |        364        |              [BCCD](https://github.com/Shenggan/BCCD_Dataset) ⭐ 461 \| 🐛 4 \| 🌐 Python \| 📅 2021-09-16             |
+|        BCCD       |  Medical Image  |    4,888   |         Object Detection         |        364        |              [BCCD](https://github.com/Shenggan/BCCD_Dataset) ⭐ 460 \| 🐛 4 \| 🌐 Python \| 📅 2021-09-16             |
 |       TJU600      | Palm-Vein Image |     600    |          Classification          |       12,000      |                                [TJU600](https://cslinzhang.github.io/ContactlessPalm/)                                |
 |      VERA220      | Palm-Vein Image |     220    |          Classification          |       2,200       |                       [VERA220](https://www.idiap.ch/en/scientific-research/data/vera-palmvein)                       |
 |     CoNLL2003     |       Text      |      4     |          Classification          |       2,302       |                                   [CoNLL2003](https://data.deepai.org/conll2003.zip)                                  |
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,613 | 🐛 2 | 📅 2026-10-23 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,615 | 🐛 2 | 📅 2026-10-23 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
