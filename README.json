@@ -25,7 +25,7 @@
                         "open_issues": 15,
                         "owner": "facebookresearch",
                         "repo": "mixup-cifar10",
-                        "stars": 1195,
+                        "stars": 1194,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T20:10:08Z",
+                "last_commit": "2026-10-27T19:38:57Z",
                 "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39037,
+                "stars": 39042,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2377,7 +2377,7 @@
                 "open_issues": 5,
                 "owner": "MQinghe",
                 "repo": "MiDSS",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -3404,7 +3404,7 @@
                 "open_issues": 11,
                 "owner": "clovaai",
                 "repo": "cutblur",
-                "stars": 389,
+                "stars": 390,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -3807,7 +3807,7 @@
             "open_issues": 1,
             "owner": "ChengtaiCao",
             "repo": "Awesome-Mix",
-            "stars": 74,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12866,
+            "stars": 12867,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4312,7 +4312,7 @@
             "open_issues": 1,
             "owner": "ChengtaiCao",
             "repo": "Awesome-Mix",
-            "stars": 74,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:23:33.855Z",
+    "last_updated": "2026-10-27T23:14:50.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
