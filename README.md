@@ -17,7 +17,7 @@ If this repository has been helpful to you, please consider giving it a ⭐️ t
 
 **We summarize awesome mixup data augmentation methods for visual representation learning in various scenarios from 2018 to 2024.**
 
-The list of awesome mixup augmentation methods is summarized in chronological order and is on updating. The main branch is modified according to [Awesome-Mixup](https://github.com/Westlake-AI/openmixup/docs/en/awesome_mixups) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15 in [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15 and [Awesome-Mix](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 73 | 🐛 1 | 📅 2022-12-23, and we are working on a comperhensive survey on mixup augmentations. You can read our survey: [**A Survey on Mixup Augmentations and Beyond**](https://arxiv.org/abs/2409.05202) see more detailed information.
+The list of awesome mixup augmentation methods is summarized in chronological order and is on updating. The main branch is modified according to [Awesome-Mixup](https://github.com/Westlake-AI/openmixup/docs/en/awesome_mixups) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15 in [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15 and [Awesome-Mix](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 73 | 🐛 1 | 📅 2022-12-23, and we are working on a comperhensive survey on mixup augmentations. You can read our survey: [**A Survey on Mixup Augmentations and Beyond**](https://arxiv.org/abs/2409.05202) see more detailed information.
 
 * To find related papers and their relationships, check out [Connected Papers](https://www.connectedpapers.com/), which visualizes the academic field in a graph representation.
 * To export BibTeX citations of papers, check out [ArXiv](https://arxiv.org/) or [Semantic Scholar](https://www.semanticscholar.org/) of the paper for professional reference formats.
@@ -251,7 +251,7 @@ class="center">
 * **SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers**<br>
   *Jin-Ha Lee, Muhammad Zaigham Zaheer, Marcella Astrid, Seung-Ik Lee*<br>
   CVPRW'2020 \[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.html)]
-  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
+  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
    <details close>
    <summary>SmoothMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204565814-fd528402-2a57-482b-b608-1ee3096984b0.png" /></p>
@@ -260,7 +260,7 @@ class="center">
 * **ResizeMix: Mixing Data with Preserved Object Information and True Labels**<br>
   *Jie Qin, Jiemin Fang, Qian Zhang, Wenyu Liu, Xingang Wang, Xinggang Wang*<br>
   arXiv'2020 \[[Paper](https://arxiv.org/abs/2012.11101)]
-  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
+  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
    <details close>
    <summary>ResizeMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204566840-69782b04-4645-41b3-a6eb-428977c63881.png" /></p>
@@ -475,7 +475,7 @@ class="center">
 * **AutoMix: Unveiling the Power of Mixup for Stronger Classifiers**<br>
   *Zicheng Liu, Siyuan Li, Di Wu, Zihan Liu, Zhiyuan Chen, Lirong Wu, Stan Z. Li*<br>
   ECCV'2022 \[[Paper](https://arxiv.org/abs/2103.13027)]
-  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
+  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
    <details close>
    <summary>AutoMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/174272662-19ce57ad-7b08-4e73-81b1-3bb81fee2fe5.png" /></p>
@@ -484,7 +484,7 @@ class="center">
 * **Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup**<br>
   *Siyuan Li, Zicheng Liu, Di Wu, Zihan Liu, Stan Z. Li*<br>
   arXiv'2021 \[[Paper](https://arxiv.org/abs/2111.15454)]
-  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
+  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
    <details close>
    <summary>SAMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/174272657-fb662377-b7c3-4faa-8d9b-ea6f1e08549e.png" /></p>
@@ -773,7 +773,7 @@ class="center">
 * **Harnessing Hard Mixed Samples with Decoupled Regularizer**<br>
   *Zicheng Liu, Siyuan Li, Ge Wang, Cheng Tan, Lirong Wu, Stan Z. Li*<br>
   NIPS'2023 \[[Paper](https://arxiv.org/abs/2203.10761)]
-  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
+  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
    <details close>
    <summary>DecoupledMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204578387-4be9567c-963a-4d2d-8c1f-c7c5ade527b8.png" /></p>
@@ -944,7 +944,7 @@ class="center">
 * **Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup**<br>
   *Siyuan Li, Zicheng Liu, Di Wu, Zihan Liu, Stan Z. Li*<br>
   arXiv'2021 \[[Paper](https://arxiv.org/abs/2111.15454)]
-  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
+  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
    <details close>
    <summary>SAMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/174272657-fb662377-b7c3-4faa-8d9b-ea6f1e08549e.png" /></p>
@@ -998,7 +998,7 @@ class="center">
 * **ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning**<br>
   *Jun Xia, Lirong Wu, Ge Wang, Jintao Chen, Stan Z.Li*<br>
   ICML'2022 \[[Paper](https://arxiv.org/abs/2110.02027)]
-  \[[Code](https://github.com/junxia97/ProGCL) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2022-06-13]
+  \[[Code](https://github.com/junxia97/ProGCL) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2022-06-13]
    <details close>
    <summary>ProGCL Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204584450-e31a6c9f-0f1c-4342-b907-1b80cae547ab.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,042 | 🐛 2,024 | 🌐 Jupyter Notebook | 📅 2026-10-27]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,046 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-28]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1214,7 +1214,7 @@ class="center">
 * **Harnessing Hard Mixed Samples with Decoupled Regularizer**<br>
   *Zicheng Liu, Siyuan Li, Ge Wang, Cheng Tan, Lirong Wu, Stan Z. Li*<br>
   NIPS'2023 \[[Paper](https://arxiv.org/abs/2203.10761)]
-  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
+  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
    <details close>
    <summary>DFixMatch Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204578387-4be9567c-963a-4d2d-8c1f-c7c5ade527b8.png" /></p>
@@ -1306,7 +1306,7 @@ class="center">
 * **Rank-N-Contrast: Learning Continuous Representations for Regression**<br>
   *Kaiwen Zha, Peng Cao, Jeany Son, Yuzhe Yang, Dina Katabi*<br>
   NIPS'2023 \[[Paper](https://arxiv.org/abs/2210.01189)]
-  \[[Code](https://github.com/kaiwenzha/Rank-N-Contrast) ⭐ 141 | 🐛 6 | 🌐 Python | 📅 2024-02-28]
+  \[[Code](https://github.com/kaiwenzha/Rank-N-Contrast) ⭐ 143 | 🐛 6 | 🌐 Python | 📅 2024-02-28]
 
 * **C-Mixup: Improving Generalization in Regression**<br>
   *Huaxiu Yao, Yiping Wang, Linjun Zhang, James Zou, Chelsea Finn*<br>
@@ -1777,7 +1777,7 @@ class="center">
 * **Mixup for Node and Graph Classification**<br>
   *Yiwei Wang, Wei Wang, Yuxuan Liang, Yujun Cai, Bryan Hooi*<br>
   WWW'2021 \[[Paper](https://dl.acm.org/doi/10.1145/3442381.3449796)]
-  \[[Code](https://github.com/vanoracai/MixupForGraph) ⭐ 47 | 🐛 3 | 🌐 Python | 📅 2021-06-03]
+  \[[Code](https://github.com/vanoracai/MixupForGraph) ⭐ 46 | 🐛 3 | 🌐 Python | 📅 2021-06-03]
 
 * **Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation**<br>
   *Joonhyung Park, Hajin Shim, Eunho Yang*<br>
@@ -2065,7 +2065,7 @@ class="center">
 * **OpenMixup: A Comprehensive Mixup Benchmark for Visual Classification**<br>
   *Siyuan Li, Zedong Wang, Zicheng Liu, Di Wu, Cheng Tan, Weiyang Jin, Stan Z. Li*<br>
   arXiv'2024 \[[Paper](https://arxiv.org/abs/2209.04851)]
-  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
+  \[[Code](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,867 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,869 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2170,7 +2170,7 @@ class="center">
 |   20 Newsgroups   |       Text      |     20     |           OOD Detection          |       20,000      |                                 [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)                                |
 |        WOS        |       Text      |     134    |           OOD Detection          |       46,985      |                                      [WOS](http://archive.ics.uci.edu/index.php)                                      |
 |       SST-2       |       Text      |      2     |      Sentiment Understanding     |       68,800      |  [SST-2](https://github.com/YJiangcm/SST-2-sentiment-analysis) ⭐ 112 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2020-12-09  |
-|        Cora       |      Graph      |      7     |        Node Classification       |       2,708       |               [Cora](https://github.com/phanein/deepwalk) ⭐ 2,757 \| 🐛 46 \| 🌐 Python \| 📅 2023-06-14              |
+|        Cora       |      Graph      |      7     |        Node Classification       |       2,708       |               [Cora](https://github.com/phanein/deepwalk) ⭐ 2,756 \| 🐛 46 \| 🌐 Python \| 📅 2023-06-14              |
 |      Citeseer     |      Graph      |      6     |        Node Classification       |       3,312       |                                       [Citeseer](https://csxstatic.ist.psu.edu/)                                      |
 |       PubMed      |      Graph      |      3     |        Node Classification       |       19,717      |                                       [PubMed](https://pubmed.ncbi.nlm.nih.gov)                                       |
 |    BlogCatalog    |      Graph      |     39     |        Node Classification       |       10,312      |            [BlogCatalog](https://figshare.com/articles/dataset/BlogCatalog_dataset/11923611?file=22349970)            |
@@ -2192,7 +2192,7 @@ class="center">
 
 ## Contribution
 
-Feel free to send [pull requests](https://github.com/Westlake-AI/openmixup/pulls) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15 to add more links with the following Markdown format. Note that the abbreviation, the code link, and the figure link are optional attributes.
+Feel free to send [pull requests](https://github.com/Westlake-AI/openmixup/pulls) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15 to add more links with the following Markdown format. Note that the abbreviation, the code link, and the figure link are optional attributes.
 
 ```markdown
 * **TITLE**<br>
@@ -2227,12 +2227,12 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,624 | 🐛 3 | 📅 2026-10-23 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,631 | 🐛 3 | 📅 2026-10-23 repository.
 
 ## Related Project
 
-* [data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) ⭐ 1,635 | 🐛 2 | 📅 2024-08-14: List of useful data augmentation resources.
-* [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15: CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark.
+* [data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) ⭐ 1,636 | 🐛 2 | 📅 2024-08-14: List of useful data augmentation resources.
+* [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15: CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark.
 * [awesome-mixed-sample-data-augmentation](https://github.com/JasonZhang156/awesome-mixed-sample-data-augmentation) ⭐ 128 | 🐛 0 | 📅 2020-05-07: A collection of awesome things about mixed sample data augmentation.
 * [Awesome-Mix](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 73 | 🐛 1 | 📅 2022-12-23: An awesome list of papers for `A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability, we categorize them based on our proposed taxonomy`.
 * [survery-image-mixing-and-deleting-for-data-augmentation](https://github.com/humza909/survery-image-mixing-and-deleting-for-data-augmentation) ⭐ 9 | 🐛 1 | 📅 2023-03-29: An awesome list of papers for `Survey: Image Mixing and Deleting for Data Augmentation`.
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
