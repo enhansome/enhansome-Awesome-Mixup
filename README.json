@@ -354,7 +354,7 @@
                         "open_issues": 1,
                         "owner": "JunlinHan",
                         "repo": "YOCO",
-                        "stars": 106,
+                        "stars": 107,
                         "topics": [
                           "cifar10",
                           "cifar100",
@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T13:44:13Z",
+                "last_commit": "2026-10-29T16:49:00Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39046,
+                "stars": 39059,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2224,7 +2224,7 @@
                 "open_issues": 3,
                 "owner": "huaxiuyao",
                 "repo": "C-Mixup",
-                "stars": 74,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12869,
+            "stars": 12874,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -3913,7 +3913,7 @@
             "open_issues": 5,
             "owner": "visipedia",
             "repo": "inat_comp",
-            "stars": 810,
+            "stars": 809,
             "topics": [
               "competition",
               "computer-vision",
@@ -4032,7 +4032,7 @@
             "open_issues": 7,
             "owner": "hendrycks",
             "repo": "natural-adv-examples",
-            "stars": 622,
+            "stars": 623,
             "topics": [
               "adversarial-attacks",
               "adversarial-example",
@@ -4087,7 +4087,7 @@
             "open_issues": 4,
             "owner": "Shenggan",
             "repo": "BCCD_Dataset",
-            "stars": 460,
+            "stars": 461,
             "topics": [
               "cell-detection",
               "dataset",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T23:39:15.670Z",
+    "last_updated": "2026-10-29T23:38:59.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
