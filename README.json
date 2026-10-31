@@ -25,7 +25,7 @@
                         "open_issues": 15,
                         "owner": "facebookresearch",
                         "repo": "mixup-cifar10",
-                        "stars": 1194,
+                        "stars": 1193,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T17:33:25Z",
+                "last_commit": "2026-10-30T23:22:33Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39065,
+                "stars": 39075,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3450,7 +3450,7 @@
                 "open_issues": 0,
                 "owner": "visresearch",
                 "repo": "patchmix",
-                "stars": 119,
+                "stars": 118,
                 "topics": [
                   "cifar",
                   "contrastive-learning",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12875,
+            "stars": 12876,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:17:31.638Z",
+    "last_updated": "2026-10-31T22:51:56.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
