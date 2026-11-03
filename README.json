@@ -1993,7 +1993,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39088,
+                "stars": 39098,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3545,7 +3545,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
+                "description": "Robust Image Denoising through Adversarial Frequency Mixup (2024 CVPR)",
                 "homepage": null,
                 "id": 778805333,
                 "language": "Python",
@@ -3554,7 +3554,7 @@
                 "open_issues": 5,
                 "owner": "dhryougit",
                 "repo": "AFM",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12879,
+            "stars": 12878,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T23:08:02.280Z",
+    "last_updated": "2026-11-03T01:51:38.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",

@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,088 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,098 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1880,7 +1880,7 @@ class="center">
 * **Robust Image Denoising through Adversarial Frequency Mixup**<br>
   *Donghun Ryou, Inju Ha, Hyewon Yoo, Dongwan Kim, Bohyung Han*<br>
   CVPR'2024 \[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ryou_Robust_Image_Denoising_through_Adversarial_Frequency_Mixup_CVPR_2024_paper.pdf)]
-  \[[Code](https://github.com/dhryougit/AFM) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2024-11-12]
+  \[[Code](https://github.com/dhryougit/AFM) ⭐ 53 | 🐛 5 | 🌐 Python | 📅 2024-11-12]
 
 * **It Takes Two to Tango: Mixup for Deep Metric Learning**<br>
   *Shashanka Venkataramanan, Bill Psomas, Ewa Kijak, Laurent Amsaleg, Konstantinos Karantzalos, Yannis Avrithis*<br>
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,879 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,878 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,654 | 🐛 3 | 📅 2026-10-23 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,663 | 🐛 3 | 📅 2026-10-23 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
