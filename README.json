@@ -109,7 +109,7 @@
                         "open_issues": 2,
                         "owner": "hzlsaber",
                         "repo": "IPMix",
-                        "stars": 15,
+                        "stars": 16,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -247,7 +247,7 @@
                         "open_issues": 7,
                         "owner": "Westlake-AI",
                         "repo": "openmixup",
-                        "stars": 656,
+                        "stars": 657,
                         "topics": [
                           "automix",
                           "awesome-list",
@@ -287,7 +287,7 @@
                         "open_issues": 7,
                         "owner": "Westlake-AI",
                         "repo": "openmixup",
-                        "stars": 656,
+                        "stars": 657,
                         "topics": [
                           "automix",
                           "awesome-list",
@@ -634,7 +634,7 @@
                         "open_issues": 7,
                         "owner": "Westlake-AI",
                         "repo": "openmixup",
-                        "stars": 656,
+                        "stars": 657,
                         "topics": [
                           "automix",
                           "awesome-list",
@@ -674,7 +674,7 @@
                         "open_issues": 7,
                         "owner": "Westlake-AI",
                         "repo": "openmixup",
-                        "stars": 656,
+                        "stars": 657,
                         "topics": [
                           "automix",
                           "awesome-list",
@@ -940,7 +940,7 @@
                         "open_issues": 7,
                         "owner": "Sense-X",
                         "repo": "TokenMix",
-                        "stars": 94,
+                        "stars": 95,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1207,7 +1207,7 @@
                     "open_issues": 7,
                     "owner": "Westlake-AI",
                     "repo": "openmixup",
-                    "stars": 656,
+                    "stars": 657,
                     "topics": [
                       "automix",
                       "awesome-list",
@@ -1429,7 +1429,7 @@
                     "open_issues": 7,
                     "owner": "Sense-X",
                     "repo": "TokenMix",
-                    "stars": 94,
+                    "stars": 95,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1573,7 +1573,7 @@
                 "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 656,
+                "stars": 657,
                 "topics": [
                   "automix",
                   "awesome-list",
@@ -1993,7 +1993,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39098,
+                "stars": 39101,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2018,7 +2018,7 @@
                 "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 656,
+                "stars": 657,
                 "topics": [
                   "automix",
                   "awesome-list",
@@ -2163,7 +2163,7 @@
                 "open_issues": 32,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 531,
+                "stars": 532,
                 "topics": [
                   "bayesian-network",
                   "computer-vision",
@@ -3834,7 +3834,7 @@
             "open_issues": 7,
             "owner": "Westlake-AI",
             "repo": "openmixup",
-            "stars": 656,
+            "stars": 657,
             "topics": [
               "automix",
               "awesome-list",
@@ -4032,7 +4032,7 @@
             "open_issues": 7,
             "owner": "hendrycks",
             "repo": "natural-adv-examples",
-            "stars": 623,
+            "stars": 621,
             "topics": [
               "adversarial-attacks",
               "adversarial-example",
@@ -4060,7 +4060,7 @@
             "open_issues": 2,
             "owner": "google-deepmind",
             "repo": "dsprites-dataset",
-            "stars": 541,
+            "stars": 542,
             "topics": [
               "beta-vae",
               "dataset",
@@ -4087,7 +4087,7 @@
             "open_issues": 4,
             "owner": "Shenggan",
             "repo": "BCCD_Dataset",
-            "stars": 461,
+            "stars": 462,
             "topics": [
               "cell-detection",
               "dataset",
@@ -4207,11 +4207,11 @@
             "id": 211553569,
             "language": null,
             "license": null,
-            "last_commit": "2024-08-14T11:47:54Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-03T09:16:33Z",
+            "open_issues": 0,
             "owner": "AgaMiko",
             "repo": "data-augmentation-review",
-            "stars": 1636,
+            "stars": 1637,
             "topics": [
               "audio-augmentation",
               "augmentation-policies",
@@ -4248,7 +4248,7 @@
             "open_issues": 7,
             "owner": "Westlake-AI",
             "repo": "openmixup",
-            "stars": 656,
+            "stars": 657,
             "topics": [
               "automix",
               "awesome-list",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:51:38.871Z",
+    "last_updated": "2026-11-04T00:13:23.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
