@@ -1993,7 +1993,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39122,
+                "stars": 39127,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2327,7 +2327,7 @@
                 "open_issues": 8,
                 "owner": "BWGZK",
                 "repo": "CycleMix",
-                "stars": 99,
+                "stars": 100,
                 "topics": [
                   "medical-image-segmentation",
                   "mixup",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:50:11.867Z",
+    "last_updated": "2026-11-07T23:07:09.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
