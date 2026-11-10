@@ -425,7 +425,7 @@ class="center">
 * **Domain Generalization with MixStyle**<br>
   *Kaiyang Zhou, Yongxin Yang, Yu Qiao, Tao Xiang*<br>
   ICLR'2021 \[[Paper](https://openreview.net/forum?id=6xHJ37MVxxp)]
-  \[[Code](https://github.com/KaiyangZhou/mixstyle-release) ⭐ 336 | 🐛 10 | 🌐 Python | 📅 2022-10-06]
+  \[[Code](https://github.com/KaiyangZhou/mixstyle-release) ⭐ 338 | 🐛 10 | 🌐 Python | 📅 2022-10-06]
    <details close>
    <summary>MixStyle Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204568994-eb45528e-e83b-4ac5-bed9-642da987ec89.png" /></p>
@@ -980,7 +980,7 @@ class="center">
 * **i-Mix A Domain-Agnostic Strategy for Contrastive Representation Learning**<br>
   *Kibok Lee, Yian Zhu, Kihyuk Sohn, Chun-Liang Li, Jinwoo Shin, Honglak Lee*<br>
   ICLR'2021 \[[Paper](https://arxiv.org/abs/2010.08887)]
-  \[[Code](https://github.com/kibok90/imix) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2023-12-22]
+  \[[Code](https://github.com/kibok90/imix) ⭐ 81 | 🐛 0 | 🌐 Python | 📅 2023-12-22]
    <details close>
    <summary>i-Mix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204581084-5460bd37-4adb-4f01-b7af-fc88ceb2683e.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,139 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,148 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-09]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1855,7 +1855,7 @@ class="center">
 * **DNABERT-S: Learning Species-Aware DNA Embedding with Genome Foundation Models**<br>
   *Zhihan Zhou, Weimin Wu, Harrison Ho, Jiayi Wang, Lizhen Shi, Ramana V Davuluri, Zhong Wang, Han Liu*<br>
   arXiv'2024 \[[Paper](https://ieeexplore.ieee.org/document/9156551)]
-  \[[Code](https://github.com/MAGICS-LAB/DNABERT_S) ⭐ 137 | 🐛 5 | 🌐 Python | 📅 2026-01-01]
+  \[[Code](https://github.com/MAGICS-LAB/DNABERT_S) ⭐ 138 | 🐛 5 | 🌐 Python | 📅 2026-01-01]
 
 * **Inter-Instance Similarity Modeling for Contrastive Learning**<br>
   *Chengchao Shen, Dawei Liu, Hao Tang, Zhe Qu, Jianxin Wang*<br>
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,882 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,884 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2149,10 +2149,10 @@ class="center">
 |      CIFAR-C      |      Image      |   10,100   |     Corruption Classification    |       60,000      |           [CIFAR-C](https://github.com/hendrycks/robustness/) ⭐ 1,178 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24          |
 |      CIFAR-LT     |      Image      |   10,100   |     Long-tail Classification     |       60,000      |          [CIFAR-LT](https://github.com/hendrycks/robustness/) ⭐ 1,178 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24          |
 |   ImageNet-1K-C   |      Image      |    1,000   |     Corruption Classification    |     1,431,167     |        [ImageNet-1K-C](https://github.com/hendrycks/robustness/) ⭐ 1,178 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24       |
-|     ImageNet-A    |      Image      |     200    |          Classification          |       7,500       |      [ImageNet-A](https://github.com/hendrycks/natural-adv-examples) ⭐ 621 \| 🐛 7 \| 🌐 Python \| 📅 2024-03-23      |
+|     ImageNet-A    |      Image      |     200    |          Classification          |       7,500       |      [ImageNet-A](https://github.com/hendrycks/natural-adv-examples) ⭐ 622 \| 🐛 7 \| 🌐 Python \| 📅 2024-03-23      |
 |   Pascal VOC 102  |      Image      |     20     |         Object Detection         |       33,043      |                               [Pascal VOC 102](http://host.robots.ox.ac.uk/pascal/VOC/)                               |
 | MS-COCO Detection |      Image      |     91     |         Object Detection         |      164,062      |                              [MS-COCO Detection](https://cocodataset.org/detection-eval)                              |
-|      DSprites     |      Image      | 737,280\*6 |          Disentanglement         |      737,280      | [DSprites](https://github.com/google-deepmind/dsprites-dataset) ⭐ 542 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2021-01-03 |
+|      DSprites     |      Image      | 737,280\*6 |          Disentanglement         |      737,280      | [DSprites](https://github.com/google-deepmind/dsprites-dataset) ⭐ 543 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2021-01-03 |
 |      Place205     |      Image      |     205    |            Recognition           |     2,500,000     |                               [Place205](http://places.csail.mit.edu/downloadData.html)                               |
 |   Pascal Context  |      Image      |     459    |           Segmentation           |       10,103      |                            [Pascal Context](http://places.csail.mit.edu/downloadData.html)                            |
 |       ADE20K      |      Image      |    3,169   |           Segmentation           |       25,210      |                             [ADE20K](https://groups.csail.mit.edu/vision/datasets/ADE20K/)                            |
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,691 | 🐛 4 | 📅 2026-10-23 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,699 | 🐛 4 | 📅 2026-10-23 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

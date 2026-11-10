@@ -527,7 +527,7 @@
                         "open_issues": 10,
                         "owner": "KaiyangZhou",
                         "repo": "mixstyle-release",
-                        "stars": 336,
+                        "stars": 338,
                         "topics": [
                           "domain-generalization",
                           "feature-statistics",
@@ -1682,7 +1682,7 @@
                 "open_issues": 0,
                 "owner": "kibok90",
                 "repo": "imix",
-                "stars": 80,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T18:41:04Z",
+                "last_commit": "2026-11-09T18:10:16Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39139,
+                "stars": 39148,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3425,7 +3425,7 @@
                 "open_issues": 5,
                 "owner": "MAGICS-LAB",
                 "repo": "DNABERT_S",
-                "stars": 137,
+                "stars": 138,
                 "topics": [
                   "dna",
                   "dna-embedding",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12882,
+            "stars": 12884,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4032,7 +4032,7 @@
             "open_issues": 7,
             "owner": "hendrycks",
             "repo": "natural-adv-examples",
-            "stars": 621,
+            "stars": 622,
             "topics": [
               "adversarial-attacks",
               "adversarial-example",
@@ -4060,7 +4060,7 @@
             "open_issues": 2,
             "owner": "google-deepmind",
             "repo": "dsprites-dataset",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "beta-vae",
               "dataset",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T23:12:26.385Z",
+    "last_updated": "2026-11-10T02:25:34.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
