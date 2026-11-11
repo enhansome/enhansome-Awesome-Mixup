@@ -1993,7 +1993,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39148,
+                "stars": 39151,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2883,7 +2883,7 @@
                 "open_issues": 4,
                 "owner": "dsfsi",
                 "repo": "textaugment",
-                "stars": 446,
+                "stars": 447,
                 "topics": [
                   "augmentation",
                   "augmentation-methods",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12884,
+            "stars": 12886,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4060,7 +4060,7 @@
             "open_issues": 2,
             "owner": "google-deepmind",
             "repo": "dsprites-dataset",
-            "stars": 543,
+            "stars": 542,
             "topics": [
               "beta-vae",
               "dataset",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:25:34.909Z",
+    "last_updated": "2026-11-11T00:15:17.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
@@ -4380,7 +4380,7 @@
       "open_issues": 0,
       "owner": "Westlake-AI",
       "repo": "Awesome-Mixup",
-      "stars": 169,
+      "stars": 170,
       "topics": [
         "awesome-list",
         "awesome-mixup",
