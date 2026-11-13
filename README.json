@@ -46,7 +46,7 @@
                         "open_issues": 7,
                         "owner": "google-research",
                         "repo": "augmix",
-                        "stars": 991,
+                        "stars": 992,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -613,7 +613,7 @@
                         "open_issues": 7,
                         "owner": "google-research",
                         "repo": "augmix",
-                        "stars": 991,
+                        "stars": 992,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1990,10 +1990,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-11T11:58:31Z",
-                "open_issues": 2009,
+                "open_issues": 2012,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39158,
+                "stars": 39162,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2224,7 +2224,7 @@
                 "open_issues": 3,
                 "owner": "huaxiuyao",
                 "repo": "C-Mixup",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:41:33.856Z",
+    "last_updated": "2026-11-13T00:43:43.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
