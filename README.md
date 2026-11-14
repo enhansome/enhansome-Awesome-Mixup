@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,162 | 🐛 2,012 | 🌐 Jupyter Notebook | 📅 2026-11-11]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,169 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-13]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1297,7 +1297,7 @@ class="center">
 * **Tailoring Mixup to Data using Kernel Warping functions**<br>
   *Quentin Bouniot, Pavlo Mozharovskyi, Florence d'Alché-Buc*<br>
   arXiv'2023 \[[Paper](https://arxiv.org/abs/2311.01434)]
-  \[[Code](https://github.com/ENSTA-U2IS/torch-uncertainty) ⭐ 533 | 🐛 33 | 🌐 Python | 📅 2026-09-01]
+  \[[Code](https://github.com/ENSTA-U2IS/torch-uncertainty) ⭐ 533 | 🐛 34 | 🌐 Python | 📅 2026-09-01]
    <details close>
    <summary>Warped Mixup Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/061f5f2b-ff56-415b-9f58-68e895fdad3f" /></p>
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,716 | 🐛 2 | 📅 2026-11-10 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,715 | 🐛 2 | 📅 2026-11-10 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T11:58:31Z",
-                "open_issues": 2012,
+                "last_commit": "2026-11-13T17:37:12Z",
+                "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39162,
+                "stars": 39169,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2160,7 +2160,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T10:43:37Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
                 "stars": 533,
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T00:43:43.891Z",
+    "last_updated": "2026-11-14T00:29:40.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
