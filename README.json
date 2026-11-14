@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T17:37:12Z",
+                "last_commit": "2026-11-14T12:36:20Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39169,
+                "stars": 39177,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2163,7 +2163,7 @@
                 "open_issues": 34,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 533,
+                "stars": 534,
                 "topics": [
                   "bayesian-network",
                   "computer-vision",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12887,
+            "stars": 12891,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4142,7 +4142,7 @@
             "open_issues": 46,
             "owner": "phanein",
             "repo": "deepwalk",
-            "stars": 2758,
+            "stars": 2757,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:29:40.275Z",
+    "last_updated": "2026-11-14T23:25:45.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
