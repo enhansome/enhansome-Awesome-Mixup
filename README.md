@@ -203,7 +203,7 @@ class="center">
 * **Manifold Mixup: Better Representations by Interpolating Hidden States**<br>
   *Vikas Verma, Alex Lamb, Christopher Beckham, Amir Najafi, Ioannis Mitliagkas, David Lopez-Paz, Yoshua Bengio*<br>
   ICML'2019 \[[Paper](https://arxiv.org/abs/1806.05236)]
-  \[[Code](https://github.com/vikasverma1077/manifold_mixup) ⭐ 495 | 🐛 9 | 🌐 Python | 📅 2024-03-31]
+  \[[Code](https://github.com/vikasverma1077/manifold_mixup) ⭐ 494 | 🐛 9 | 🌐 Python | 📅 2024-03-31]
    <details close>
    <summary>ManifoldMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204565193-c5416185-ed98-4b86-bc7c-f5b6cc2f839b.png" /></p>
@@ -712,7 +712,7 @@ class="center">
 * **Combining Ensembles and Data Augmentation can Harm your Calibration**<br>
   *Yeming Wen, Ghassen Jerfel, Rafael Muller, Michael W. Dusenberry, Jasper Snoek, Balaji Lakshminarayanan, Dustin Tran*<br>
   ICLR'2021 \[[Paper](https://arxiv.org/abs/2010.09875)]
-  \[[Code](https://github.com/google/edward2/tree/main/experimental/marginalization_mixup) ⭐ 713 | 🐛 77 | 🌐 Jupyter Notebook | 📅 2026-10-05]
+  \[[Code](https://github.com/google/edward2/tree/main/experimental/marginalization_mixup) ⭐ 714 | 🐛 77 | 🌐 Jupyter Notebook | 📅 2026-10-05]
    <details close>
    <summary>CAMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204577092-06b2c74a-47cc-44f5-8423-9f37b1d0cbdc.png" /></p>
@@ -1177,7 +1177,7 @@ class="center">
 * **DivideMix: Learning with Noisy Labels as Semi-supervised Learning**<br>
   *Junnan Li, Richard Socher, Steven C.H. Hoi*<br>
   ICLR'2020 \[[Paper](https://arxiv.org/abs/2002.07394)]
-  \[[Code](https://github.com/LiJunnan1992/DivideMix) ⭐ 577 | 🐛 9 | 🌐 Python | 📅 2020-09-14]
+  \[[Code](https://github.com/LiJunnan1992/DivideMix) ⭐ 576 | 🐛 9 | 🌐 Python | 📅 2020-09-14]
    <details close>
    <summary>DivideMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/230495626-f0f3f52e-9f8a-472d-8ff2-b33356993e09.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,223 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-18]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,234 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-19]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -2129,7 +2129,7 @@ class="center">
 |      Dataset      |       Type      |    Label   |               Task               | Total data number |                                                          Link                                                         |
 | :---------------: | :-------------: | :--------: | :------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |       MINIST      |      Image      |     10     |          Classification          |       70,000      |                                      [MINIST](https://yann.lecun.com/exdb/mnist/)                                     |
-|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,896 \| 🐛 34 \| 🌐 Python \| 📅 2022-06-13  |
+|   Fashion-MNIST   |      Image      |     10     |          Classification          |       70,000      |   [Fashion-MINIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,897 \| 🐛 33 \| 🌐 Python \| 📅 2022-06-13  |
 |      CIFAR10      |      Image      |     10     |          Classification          |       60,000      |                                 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |      CIFAR100     |      Image      |     100    |          Classification          |       60,000      |                                [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)                                |
 |        SVHN       |      Image      |     10     |          Classification          |      630,420      |                                    [SVHN](http://ufldl.stanford.edu/housenumbers/)                                    |
@@ -2146,9 +2146,9 @@ class="center">
 |      Food-101     |      Image      |     101    |          Classification          |      101,000      |                        [Food-101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)                        |
 |       SUN397      |      Image      |     899    |          Classification          |      130,519      |                               [SUN397](https://vision.princeton.edu/projects/2010/SUN//)                              |
 |    iNaturalist    |      Image      |    5,089   |          Classification          |      675,170      |   [iNaturalist](https://github.com/visipedia/inat_comp/tree/master/2017) ⭐ 810 \| 🐛 5 \| 🌐 Python \| 📅 2021-05-26  |
-|      CIFAR-C      |      Image      |   10,100   |     Corruption Classification    |       60,000      |           [CIFAR-C](https://github.com/hendrycks/robustness/) ⭐ 1,177 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24          |
-|      CIFAR-LT     |      Image      |   10,100   |     Long-tail Classification     |       60,000      |          [CIFAR-LT](https://github.com/hendrycks/robustness/) ⭐ 1,177 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24          |
-|   ImageNet-1K-C   |      Image      |    1,000   |     Corruption Classification    |     1,431,167     |        [ImageNet-1K-C](https://github.com/hendrycks/robustness/) ⭐ 1,177 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24       |
+|      CIFAR-C      |      Image      |   10,100   |     Corruption Classification    |       60,000      |           [CIFAR-C](https://github.com/hendrycks/robustness/) ⭐ 1,176 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24          |
+|      CIFAR-LT     |      Image      |   10,100   |     Long-tail Classification     |       60,000      |          [CIFAR-LT](https://github.com/hendrycks/robustness/) ⭐ 1,176 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24          |
+|   ImageNet-1K-C   |      Image      |    1,000   |     Corruption Classification    |     1,431,167     |        [ImageNet-1K-C](https://github.com/hendrycks/robustness/) ⭐ 1,176 \| 🐛 12 \| 🌐 Python \| 📅 2022-08-24       |
 |     ImageNet-A    |      Image      |     200    |          Classification          |       7,500       |      [ImageNet-A](https://github.com/hendrycks/natural-adv-examples) ⭐ 622 \| 🐛 7 \| 🌐 Python \| 📅 2024-03-23      |
 |   Pascal VOC 102  |      Image      |     20     |         Object Detection         |       33,043      |                               [Pascal VOC 102](http://host.robots.ox.ac.uk/pascal/VOC/)                               |
 | MS-COCO Detection |      Image      |     91     |         Object Detection         |      164,062      |                              [MS-COCO Detection](https://cocodataset.org/detection-eval)                              |
@@ -2170,7 +2170,7 @@ class="center">
 |   20 Newsgroups   |       Text      |     20     |           OOD Detection          |       20,000      |                                 [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)                                |
 |        WOS        |       Text      |     134    |           OOD Detection          |       46,985      |                                      [WOS](http://archive.ics.uci.edu/index.php)                                      |
 |       SST-2       |       Text      |      2     |      Sentiment Understanding     |       68,800      |  [SST-2](https://github.com/YJiangcm/SST-2-sentiment-analysis) ⭐ 112 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2020-12-09  |
-|        Cora       |      Graph      |      7     |        Node Classification       |       2,708       |               [Cora](https://github.com/phanein/deepwalk) ⭐ 2,757 \| 🐛 46 \| 🌐 Python \| 📅 2023-06-14              |
+|        Cora       |      Graph      |      7     |        Node Classification       |       2,708       |               [Cora](https://github.com/phanein/deepwalk) ⭐ 2,755 \| 🐛 46 \| 🌐 Python \| 📅 2023-06-14              |
 |      Citeseer     |      Graph      |      6     |        Node Classification       |       3,312       |                                       [Citeseer](https://csxstatic.ist.psu.edu/)                                      |
 |       PubMed      |      Graph      |      3     |        Node Classification       |       19,717      |                                       [PubMed](https://pubmed.ncbi.nlm.nih.gov)                                       |
 |    BlogCatalog    |      Graph      |     39     |        Node Classification       |       10,312      |            [BlogCatalog](https://figshare.com/articles/dataset/BlogCatalog_dataset/11923611?file=22349970)            |
@@ -2227,11 +2227,11 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,750 | 🐛 1 | 📅 2026-11-10 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,752 | 🐛 1 | 📅 2026-11-10 repository.
 
 ## Related Project
 
-* [data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) ⭐ 1,637 | 🐛 0 | 📅 2026-11-03: List of useful data augmentation resources.
+* [data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) ⭐ 1,636 | 🐛 0 | 📅 2026-11-03: List of useful data augmentation resources.
 * [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15: CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark.
 * [awesome-mixed-sample-data-augmentation](https://github.com/JasonZhang156/awesome-mixed-sample-data-augmentation) ⭐ 128 | 🐛 0 | 📅 2020-05-07: A collection of awesome things about mixed sample data augmentation.
 * [Awesome-Mix](https://github.com/ChengtaiCao/Awesome-Mix) ⭐ 73 | 🐛 1 | 📅 2022-12-23: An awesome list of papers for `A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability, we categorize them based on our proposed taxonomy`.
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

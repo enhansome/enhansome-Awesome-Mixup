@@ -137,7 +137,7 @@
                         "open_issues": 9,
                         "owner": "vikasverma1077",
                         "repo": "manifold_mixup",
-                        "stars": 495,
+                        "stars": 494,
                         "topics": [
                           "data-augumentation",
                           "deep-learning",
@@ -1113,7 +1113,7 @@
                     "open_issues": 77,
                     "owner": "google",
                     "repo": "edward2",
-                    "stars": 713,
+                    "stars": 714,
                     "topics": [
                       "bayesian-methods",
                       "data-science",
@@ -1951,7 +1951,7 @@
                 "open_issues": 9,
                 "owner": "LiJunnan1992",
                 "repo": "DivideMix",
-                "stars": 577,
+                "stars": 576,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T22:14:55Z",
+                "last_commit": "2026-11-19T15:52:19Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39223,
+                "stars": 39234,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3877,10 +3877,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2022-06-13T20:36:21Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12896,
+            "stars": 12897,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -3939,7 +3939,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1177,
+            "stars": 1176,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3970,7 +3970,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1177,
+            "stars": 1176,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4001,7 +4001,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1177,
+            "stars": 1176,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4142,7 +4142,7 @@
             "open_issues": 46,
             "owner": "phanein",
             "repo": "deepwalk",
-            "stars": 2757,
+            "stars": 2755,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:29.002Z"
@@ -4211,7 +4211,7 @@
             "open_issues": 0,
             "owner": "AgaMiko",
             "repo": "data-augmentation-review",
-            "stars": 1637,
+            "stars": 1636,
             "topics": [
               "audio-augmentation",
               "augmentation-policies",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:31:28.545Z",
+    "last_updated": "2026-11-20T01:27:28.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
