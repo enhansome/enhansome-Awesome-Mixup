@@ -46,7 +46,7 @@
                         "open_issues": 7,
                         "owner": "google-research",
                         "repo": "augmix",
-                        "stars": 992,
+                        "stars": 993,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -613,7 +613,7 @@
                         "open_issues": 7,
                         "owner": "google-research",
                         "repo": "augmix",
-                        "stars": 992,
+                        "stars": 993,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T15:52:19Z",
+                "last_commit": "2026-11-20T22:58:37Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39234,
+                "stars": 39245,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3880,7 +3880,7 @@
             "open_issues": 33,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12897,
+            "stars": 12898,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:27:28.120Z",
+    "last_updated": "2026-11-21T00:58:01.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
