@@ -712,7 +712,7 @@ class="center">
 * **Combining Ensembles and Data Augmentation can Harm your Calibration**<br>
   *Yeming Wen, Ghassen Jerfel, Rafael Muller, Michael W. Dusenberry, Jasper Snoek, Balaji Lakshminarayanan, Dustin Tran*<br>
   ICLR'2021 \[[Paper](https://arxiv.org/abs/2010.09875)]
-  \[[Code](https://github.com/google/edward2/tree/main/experimental/marginalization_mixup) ⭐ 714 | 🐛 77 | 🌐 Jupyter Notebook | 📅 2026-10-05]
+  \[[Code](https://github.com/google/edward2/tree/main/experimental/marginalization_mixup) ⭐ 715 | 🐛 77 | 🌐 Jupyter Notebook | 📅 2026-10-05]
    <details close>
    <summary>CAMix Framework</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/44519745/204577092-06b2c74a-47cc-44f5-8423-9f37b1d0cbdc.png" /></p>
@@ -1205,7 +1205,7 @@ class="center">
 * **Milking CowMask for Semi-Supervised Image Classification**<br>
   *Geoff French, Avital Oliver, Tim Salimans*<br>
   NIPS'2020 \[[Paper](https://arxiv.org/abs/2003.12022)]
-  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,251 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-21]
+  \[[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask) ⭐ 39,261 | 🐛 2,014 | 🌐 Jupyter Notebook | 📅 2026-11-21]
    <details close>
    <summary>CowMask Framework</summary>
     <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/aa05ab9c-107e-4c3f-bec0-d93ddcd54bb1" /></p>
@@ -1297,7 +1297,7 @@ class="center">
 * **Tailoring Mixup to Data using Kernel Warping functions**<br>
   *Quentin Bouniot, Pavlo Mozharovskyi, Florence d'Alché-Buc*<br>
   arXiv'2023 \[[Paper](https://arxiv.org/abs/2311.01434)]
-  \[[Code](https://github.com/ENSTA-U2IS/torch-uncertainty) ⭐ 535 | 🐛 35 | 🌐 Python | 📅 2026-09-01]
+  \[[Code](https://github.com/ENSTA-U2IS/torch-uncertainty) ⭐ 534 | 🐛 35 | 🌐 Python | 📅 2026-09-01]
    <details close>
    <summary>Warped Mixup Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/061f5f2b-ff56-415b-9f58-68e895fdad3f" /></p>
@@ -2227,7 +2227,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,758 | 🐛 1 | 📅 2026-11-10 repository.
+This repository is built using the [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15 library and [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,759 | 🐛 1 | 📅 2026-11-10 repository.
 
 ## Related Project
 
@@ -2241,4 +2241,4 @@ This repository is built using the [OpenMixup](https://github.com/Westlake-AI/op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
