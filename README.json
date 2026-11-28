@@ -1360,7 +1360,7 @@
                 {
                   "node_type": "item",
                   "title": "LUMix: Improving Mixup by Better Modelling Label Uncertainty Shuyang Sun, Jie-Neng Chen, Ruifei He, Alan Yuille, Philip Torr, Song Bai ICASSP'2024 [Paper",
-                  "description": "kevin-ssy/LUMix",
+                  "description": "dr-shuyangsun/LUMix",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1371,7 +1371,7 @@
                     "license": "MIT",
                     "last_commit": "2022-11-22T17:33:23Z",
                     "open_issues": 1,
-                    "owner": "kevin-ssy",
+                    "owner": "dr-shuyangsun",
                     "repo": "LUMix",
                     "stars": 4,
                     "topics": []
@@ -1930,7 +1930,7 @@
                 "open_issues": 2,
                 "owner": "google-research",
                 "repo": "mixmatch",
-                "stars": 1136,
+                "stars": 1135,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:29.002Z"
@@ -1989,11 +1989,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T08:37:24Z",
-                "open_issues": 2020,
+                "last_commit": "2026-11-27T16:02:30Z",
+                "open_issues": 2023,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39530,
+                "stars": 39567,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3880,7 +3880,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12903,
+            "stars": 12904,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -4368,7 +4368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T02:25:53.569Z",
+    "last_updated": "2026-11-28T02:14:01.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Awesome List of Mixup Augmentation and Beyond (https://arxiv.org/abs/2409.05202)",
